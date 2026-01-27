@@ -4,60 +4,23 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Tue, 27 Jan 2026 05:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 06:00:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[[Daily] Skills.sh snapshot (2026-01-27)]]></title>
             <link>https://skills.sh</link>
-            <guid isPermaLink="false">2026-01-27T05:49:29.871Z:snapshot</guid>
-            <pubDate>Tue, 27 Jan 2026 05:49:29 GMT</pubDate>
+            <guid isPermaLink="false">2026-01-27T06:00:21.756Z:snapshot</guid>
+            <pubDate>Tue, 27 Jan 2026 06:00:21 GMT</pubDate>
             <description><![CDATA[Daily snapshot.
 Providers: skills.sh
 All Time skills: 27391
-Trending skills: 17142
+Trending skills: 17141
 Hot skills: 2376
-Top All Time: vercel-react-best-practices (53039)
-Top Trending: find-skills (6343)
+Top All Time: vercel-react-best-practices (53134)
+Top Trending: find-skills (6401)
 Top Hot: find-skills (498)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#50): browser-use]]></title>
-            <link>https://skills.sh/browser-use/browser-use/browser-use</link>
-            <guid isPermaLink="false">2026-01-27T05:49:29.871Z:topTrending:new:browser-use/browser-use/browser-use</guid>
-            <pubDate>Tue, 27 Jan 2026 05:49:29 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #50
-Installs: 278
-Source: browser-use/browser-use
-Description: Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, or extract information from web pages.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank down (9 → 10): seo-audit]]></title>
-            <link>https://skills.sh/coreyhaines31/marketingskills/seo-audit</link>
-            <guid isPermaLink="false">2026-01-27T05:49:29.871Z:topTrending:rank:coreyhaines31/marketingskills/seo-audit</guid>
-            <pubDate>Tue, 27 Jan 2026 05:49:29 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #9
-Current rank: #10
-Delta: -1
-Installs: 973 (prev 972)
-Source: coreyhaines31/marketingskills
-Description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (10 → 9): ui-ux-pro-max]]></title>
-            <link>https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max</link>
-            <guid isPermaLink="false">2026-01-27T05:49:29.871Z:topTrending:rank:nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max</guid>
-            <pubDate>Tue, 27 Jan 2026 05:49:29 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #10
-Current rank: #9
-Delta: +1
-Installs: 974 (prev 963)
-Source: nextlevelbuilder/ui-ux-pro-max-skill
-Description: UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. Integrations: shadcn/ui MCP for component search and examples.]]></description>
         </item>
     </channel>
 </rss>
