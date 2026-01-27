@@ -66,6 +66,7 @@ function githubRawUrl(source: string, branch: string, path: string) {
 }
 
 function githubApiUrl(source: string, path: string, branch: string) {
+  if (!path) return `https://api.github.com/repos/${source}/contents?ref=${branch}`;
   return `https://api.github.com/repos/${source}/contents/${path}?ref=${branch}`;
 }
 
@@ -136,6 +137,34 @@ async function fetchGithubJson<T>(url: string): Promise<T | null> {
   }
 }
 
+async function fetchGithubRawFile(source: string, branch: string, path: string): Promise<string | null> {
+  try {
+    const headers: Record<string, string> = {
+      // Return the file as raw bytes/text from the contents API (avoids raw.githubusercontent.com).
+      'accept': 'application/vnd.github.raw',
+      'user-agent': USER_AGENT,
+    };
+    if (process.env.GITHUB_TOKEN) {
+      headers['authorization'] = `Bearer ${process.env.GITHUB_TOKEN}`;
+    }
+    const url = githubApiUrl(source, path, branch);
+    const res = await fetch(url, { headers });
+    if (res.status === 404) return null;
+    if (!res.ok) {
+      // If we're rate-limited (common without a token), try raw.githubusercontent.com as a fallback.
+      if (res.status === 403 && !process.env.GITHUB_TOKEN) {
+        const rawUrl = githubRawUrl(source, branch, path);
+        const fallback = await fetchText(rawUrl);
+        if (fallback) return fallback;
+      }
+      return null;
+    }
+    return await res.text();
+  } catch {
+    return null;
+  }
+}
+
 type GithubContentEntry = {
   type: 'file' | 'dir';
   name: string;
@@ -150,6 +179,8 @@ async function getRepoSkillIndex(source: string) {
 
   const branches = ['main', 'master'];
   const baseDirs = [
+    // Repo root (some repos put skill folders directly at root)
+    '',
     'skills',
     '.claude/skills',
     '.cursor/skills',
@@ -185,6 +216,20 @@ async function getRepoSkillIndex(source: string) {
       }
     }
 
+    // Also scan monorepo layouts, e.g. <product>/<skillFolder>/SKILL.md
+    // We do this by adding top-level dirs as potential baseDirs.
+    const rootListing = await fetchGithubJson<GithubContentEntry[] | GithubContentEntry>(
+      githubApiUrl(source, '', branch),
+    );
+    if (rootListing) {
+      const entries = Array.isArray(rootListing) ? rootListing : [rootListing];
+      const topDirs = entries
+        .filter(e => e.type === 'dir' && e.name && !e.name.startsWith('.'))
+        .slice(0, 40)
+        .map(e => e.name);
+      dynamicBaseDirs.push(...topDirs);
+    }
+
     for (const baseDir of dynamicBaseDirs) {
       const url = githubApiUrl(source, baseDir, branch);
       const listing = await fetchGithubJson<GithubContentEntry[] | GithubContentEntry>(url);
@@ -196,12 +241,12 @@ async function getRepoSkillIndex(source: string) {
       for (const entry of entries) {
         if (entry.type !== 'dir') continue;
         const candidatePaths = [
-          `${baseDir}/${entry.name}/SKILL.md`,
-          `${baseDir}/${entry.name}/skill.md`,
+          baseDir ? `${baseDir}/${entry.name}/SKILL.md` : `${entry.name}/SKILL.md`,
+          baseDir ? `${baseDir}/${entry.name}/skill.md` : `${entry.name}/skill.md`,
         ];
 
         for (const p of candidatePaths) {
-          const raw = await fetchText(githubRawUrl(source, branch, p));
+          const raw = await fetchGithubRawFile(source, branch, p);
           if (!raw) continue;
 
           try {
@@ -225,6 +270,8 @@ async function getRepoSkillIndex(source: string) {
 async function fetchSkillMdFromGithub(source: string, skillId: string) {
   const branches = ['main', 'master'];
   const baseDirs = [
+    // Repo root (some repos put skill folders directly at root)
+    '',
     // Most common
     'skills',
     // Common tool-specific locations
@@ -248,9 +295,9 @@ async function fetchSkillMdFromGithub(source: string, skillId: string) {
   for (const branch of branches) {
     for (const baseDir of baseDirs) {
       for (const filename of filenames) {
-        const relPath = `${baseDir}/${skillId}/${filename}`;
+        const relPath = baseDir ? `${baseDir}/${skillId}/${filename}` : `${skillId}/${filename}`;
         const url = githubRawUrl(source, branch, relPath);
-        const text = await fetchText(url);
+        const text = await fetchGithubRawFile(source, branch, relPath);
         if (text) return { url, text };
       }
     }
@@ -261,7 +308,7 @@ async function fetchSkillMdFromGithub(source: string, skillId: string) {
   const resolved = index.get(skillId);
   if (resolved) {
     const url = githubRawUrl(source, resolved.branch, resolved.path);
-    const text = await fetchText(url);
+    const text = await fetchGithubRawFile(source, resolved.branch, resolved.path);
     if (text) return { url, text };
   }
 
