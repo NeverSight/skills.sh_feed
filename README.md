@@ -31,6 +31,13 @@ Complete skill data containing all three leaderboards:
 }
 ```
 
+### `data/skills_index.json`
+
+Website-friendly index for *all* skills (built from `data/skills.json`):
+
+- Includes `description` (when a cached `SKILL.md` exists under `data/skills-md/`)
+- Includes `skillMdPath` so your website can fetch and render the full markdown
+
 ### `data/feed.json`
 
 Simplified feed format (top 50 from each leaderboard).

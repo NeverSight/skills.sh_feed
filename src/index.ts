@@ -35,6 +35,20 @@ interface ProviderInfo {
   link: string;
 }
 
+interface SkillIndexItem {
+  id: string; // <source>/<skillId>
+  providerId: string;
+  source: string; // GitHub repo (owner/repo)
+  skillId: string;
+  title: string;
+  link: string; // skills.sh page
+  installsAllTime: number;
+  installsTrending?: number;
+  installsHot?: number;
+  description?: string;
+  skillMdPath?: string; // repo-relative path to cached SKILL.md
+}
+
 interface FeedItem {
   id: string;
   title: string;
@@ -75,6 +89,10 @@ function localSkillMdPath(source: string, skillId: string) {
   // Layout:
   // data/skills-md/<owner>/<repo>/<skillId>/SKILL.md
   return join(process.cwd(), 'data', 'skills-md', source, skillId, 'SKILL.md');
+}
+
+function repoRelativeSkillMdPath(source: string, skillId: string) {
+  return `data/skills-md/${source}/${skillId}/SKILL.md`;
 }
 
 function extractDescriptionFromSkillMd(md: string): string | undefined {
@@ -353,6 +371,67 @@ function readProgress(): SyncProgress | null {
 function writeProgress(progress: SyncProgress) {
   mkdirSync(join(process.cwd(), 'data', 'skills-md'), { recursive: true });
   writeFileSync(progressPath(), JSON.stringify(progress, null, 2));
+}
+
+async function buildSkillsIndex(data: SkillsData) {
+  const providerId = data.providerId;
+
+  // allTime contains the full unique set and the best "canonical" installs count.
+  const trendingInstallsById = new Map<string, number>();
+  for (const s of data.trending) {
+    trendingInstallsById.set(`${s.source}/${s.skillId}`, s.installs);
+  }
+
+  const hotInstallsById = new Map<string, number>();
+  for (const s of data.hot) {
+    hotInstallsById.set(`${s.source}/${s.skillId}`, s.installs);
+  }
+
+  const items: SkillIndexItem[] = new Array(data.allTime.length);
+
+  await mapWithConcurrency(data.allTime, 24, async (s, i) => {
+    const id = `${s.source}/${s.skillId}`;
+    const mdAbs = localSkillMdPath(s.source, s.skillId);
+    let description: string | undefined;
+    let skillMdPath: string | undefined;
+
+    if (existsSync(mdAbs)) {
+      try {
+        const md = readFileSync(mdAbs, 'utf-8');
+        description = extractDescriptionFromSkillMd(md);
+        skillMdPath = repoRelativeSkillMdPath(s.source, s.skillId);
+      } catch {
+        // ignore read errors
+      }
+    }
+
+    items[i] = {
+      id,
+      providerId,
+      source: s.source,
+      skillId: s.skillId,
+      title: s.name,
+      link: skillsShSkillUrl(s.source, s.skillId),
+      installsAllTime: s.installs,
+      installsTrending: trendingInstallsById.get(id),
+      installsHot: hotInstallsById.get(id),
+      description,
+      skillMdPath,
+    };
+
+    return null;
+  });
+
+  const output = {
+    updatedAt: data.updatedAt,
+    providerId,
+    count: items.length,
+    items,
+  };
+
+  const outPath = join(process.cwd(), 'data', 'skills_index.json');
+  writeFileSync(outPath, JSON.stringify(output, null, 2));
+  console.log(`Skills index saved to: ${outPath}`);
 }
 
 async function syncAllSkillMds(data: SkillsData) {
@@ -731,6 +810,10 @@ async function main() {
 
   if (process.env.SYNC_ALL_SKILL_MDS === '1') {
     await syncAllSkillMds(data);
+  }
+
+  if (process.env.GENERATE_SKILLS_INDEX !== '0') {
+    await buildSkillsIndex(data);
   }
   
   // Generate simplified feed format
