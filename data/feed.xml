@@ -4,9 +4,574 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Tue, 27 Jan 2026 04:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[[Hot] New entry (#15): copywriting]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/copywriting</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:coreyhaines31/marketingskills/copywriting</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #15
+Installs: 25
+Source: coreyhaines31/marketingskills
+Description: When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," or "CTA copy." For email copy, see email-sequence. For popup copy, see popup-cro.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#16): programmatic-seo]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/programmatic-seo</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:coreyhaines31/marketingskills/programmatic-seo</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #16
+Installs: 17
+Source: coreyhaines31/marketingskills
+Description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#19): mcp-builder]]></title>
+            <link>https://skills.sh/anthropics/skills/mcp-builder</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:anthropics/skills/mcp-builder</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #19
+Installs: 16
+Source: anthropics/skills
+Description: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#20): pricing-strategy]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/pricing-strategy</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:coreyhaines31/marketingskills/pricing-strategy</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #20
+Installs: 14
+Source: coreyhaines31/marketingskills
+Description: When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' or 'monetization.' This skill covers pricing research, tier structure, and packaging strategy.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#24): schema-markup]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/schema-markup</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:coreyhaines31/marketingskills/schema-markup</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #24
+Installs: 12
+Source: coreyhaines31/marketingskills
+Description: When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions "schema markup," "structured data," "JSON-LD," "rich snippets," "schema.org," "FAQ schema," "product schema," "review schema," or "breadcrumb schema." For broader SEO issues, see seo-audit.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#38): frontend-code-review]]></title>
+            <link>https://skills.sh/langgenius/dify/frontend-code-review</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:langgenius/dify/frontend-code-review</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #38
+Installs: 7
+Source: langgenius/dify
+Description: Trigger when the user requests a review of frontend files (e.g., `.tsx`, `.ts`, `.js`). Support both pending-change reviews and focused file reviews while applying the checklist rules.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#39): component-refactoring]]></title>
+            <link>https://skills.sh/langgenius/dify/component-refactoring</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:langgenius/dify/component-refactoring</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #39
+Installs: 7
+Source: langgenius/dify
+Description: Refactor high-complexity React components in Dify frontend. Use when `pnpm analyze-component --json` shows complexity > 50 or lineCount > 300, when the user asks for code splitting, hook extraction, or complexity reduction, or when `pnpm analyze-component` warns to refactor before testing; avoid for simple/well-structured components, third-party wrappers, or when the user explicitly wants testing without refactoring.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#40): code-review-excellence]]></title>
+            <link>https://skills.sh/wshobson/agents/code-review-excellence</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:wshobson/agents/code-review-excellence</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #40
+Installs: 7
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#41): context7]]></title>
+            <link>https://skills.sh/intellectronica/agent-skills/context7</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:intellectronica/agent-skills/context7</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #41
+Installs: 7
+Source: intellectronica/agent-skills
+Description: Retrieve up-to-date documentation for software libraries, frameworks, and components via the Context7 API. This skill should be used when looking up documentation for any programming library or framework, finding code examples for specific APIs or features, verifying correct usage of library functions, or obtaining current information about library APIs that may have changed since training.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#43): prompt-engineer]]></title>
+            <link>https://skills.sh/sickn33/antigravity-awesome-skills/prompt-engineer</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:sickn33/antigravity-awesome-skills/prompt-engineer</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #43
+Installs: 6
+Source: sickn33/antigravity-awesome-skills
+Description: Expert in designing effective prompts for LLM-powered applications. Masters prompt structure, context management, output formatting, and prompt evaluation. Use when: prompt engineering, system prompt, few-shot, chain of thought, prompt design.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#45): simplify]]></title>
+            <link>https://skills.sh/brianlovin/claude-config/simplify</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:brianlovin/claude-config/simplify</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #45
+Installs: 6
+Source: brianlovin/claude-config
+Description: Simplify and refine recently modified code for clarity and consistency. Use after writing code to improve readability without changing functionality.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#8): cli]]></title>
+            <link>https://skills.sh/atxp-dev/cli/cli</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:new:atxp-dev/cli/cli</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #8
+Installs: 21
+Source: atxp-dev/cli]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] New entry (#45): next-best-practices]]></title>
+            <link>https://skills.sh/vercel-labs/next-skills/next-best-practices</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topTrending:new:vercel-labs/next-skills/next-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Trending leaderboard.
+Rank: #45
+Installs: 287
+Source: vercel-labs/next-skills
+Description: Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] New entry (#50): competitor-alternatives]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topTrending:new:coreyhaines31/marketingskills/competitor-alternatives</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[New entry in Trending leaderboard.
+Rank: #50
+Installs: 274
+Source: coreyhaines31/marketingskills
+Description: When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (4 → 6): next-best-practices]]></title>
+            <link>https://skills.sh/vercel-labs/next-skills/next-best-practices</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel-labs/next-skills/next-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #4
+Current rank: #6
+Delta: -2
+Installs: 29 (prev 38)
+Source: vercel-labs/next-skills
+Description: Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (6 → 14): vercel-react-best-practices]]></title>
+            <link>https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel-labs/agent-skills/vercel-react-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #6
+Current rank: #14
+Delta: -8
+Installs: 179 (prev 263)
+Source: vercel-labs/agent-skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (9 → 10): next-upgrade]]></title>
+            <link>https://skills.sh/vercel-labs/next-skills/next-upgrade</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel-labs/next-skills/next-upgrade</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #9
+Current rank: #10
+Delta: -1
+Installs: 17 (prev 17)
+Source: vercel-labs/next-skills
+Description: Upgrade Next.js to the latest version following official migration guides and codemods]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (18 → 12): product-marketing-context]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/product-marketing-context</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:coreyhaines31/marketingskills/product-marketing-context</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #18
+Current rank: #12
+Delta: +6
+Installs: 12 (prev 13)
+Source: coreyhaines31/marketingskills
+Description: When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' or wants to avoid repeating foundational information across marketing tasks. Creates `.claude/product-marketing-context.md` that other marketing skills reference.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (19 → 9): agent-browser]]></title>
+            <link>https://skills.sh/vercel-labs/agent-browser/agent-browser</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel-labs/agent-browser/agent-browser</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #19
+Current rank: #9
+Delta: +10
+Installs: 100 (prev 119)
+Source: vercel-labs/agent-browser
+Description: Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (22 → 17): ai-sdk]]></title>
+            <link>https://skills.sh/vercel/ai/ai-sdk</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel/ai/ai-sdk</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #22
+Current rank: #17
+Delta: +5
+Installs: 9 (prev 15)
+Source: vercel/ai]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (24 → 11): atxp]]></title>
+            <link>https://skills.sh/atxp-dev/cli/atxp</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:atxp-dev/cli/atxp</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #24
+Current rank: #11
+Delta: +13
+Installs: 14 (prev 11)
+Source: atxp-dev/cli
+Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (26 → 18): brainstorming]]></title>
+            <link>https://skills.sh/obra/superpowers/brainstorming</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:obra/superpowers/brainstorming</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #26
+Current rank: #18
+Delta: +8
+Installs: 25 (prev 43)
+Source: obra/superpowers
+Description: You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (35 → 21): responsive-design]]></title>
+            <link>https://skills.sh/wshobson/agents/responsive-design</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/responsive-design</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #35
+Current rank: #21
+Delta: +14
+Installs: 8 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (36 → 22): nextjs-app-router-patterns]]></title>
+            <link>https://skills.sh/wshobson/agents/nextjs-app-router-patterns</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/nextjs-app-router-patterns</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #36
+Current rank: #22
+Delta: +14
+Installs: 8 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (37 → 23): canvas-design]]></title>
+            <link>https://skills.sh/anthropics/skills/canvas-design</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:anthropics/skills/canvas-design</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #37
+Current rank: #23
+Delta: +14
+Installs: 15 (prev 15)
+Source: anthropics/skills
+Description: Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (40 → 25): launch-strategy]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/launch-strategy</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:coreyhaines31/marketingskills/launch-strategy</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #40
+Current rank: #25
+Delta: +15
+Installs: 12 (prev 12)
+Source: coreyhaines31/marketingskills
+Description: When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' or 'product update.' This skill covers phased launches, channel strategy, and ongoing launch momentum.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (41 → 26): paid-ads]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/paid-ads</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:coreyhaines31/marketingskills/paid-ads</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #41
+Current rank: #26
+Delta: +15
+Installs: 12 (prev 12)
+Source: coreyhaines31/marketingskills
+Description: When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ad copy,' 'ad creative,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' or 'audience targeting.' This skill covers campaign strategy, ad creation, audience targeting, and optimization.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (42 → 27): skill-creator]]></title>
+            <link>https://skills.sh/langgenius/dify/skill-creator</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:langgenius/dify/skill-creator</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #42
+Current rank: #27
+Delta: +15
+Installs: 6 (prev 6)
+Source: langgenius/dify
+Description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (43 → 28): github]]></title>
+            <link>https://skills.sh/callstackincubator/agent-skills/github</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:callstackincubator/agent-skills/github</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #43
+Current rank: #28
+Delta: +15
+Installs: 6 (prev 6)
+Source: callstackincubator/agent-skills
+Description: GitHub patterns for PRs, code review, branching, and repository management. Use when working with pull requests, stacked PRs, code reviews, GitHub or repository automation.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (44 → 29): pdf]]></title>
+            <link>https://skills.sh/anthropics/skills/pdf</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:anthropics/skills/pdf</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #44
+Current rank: #29
+Delta: +15
+Installs: 23 (prev 23)
+Source: anthropics/skills
+Description: Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (45 → 30): upgrading-expo]]></title>
+            <link>https://skills.sh/expo/skills/upgrading-expo</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:expo/skills/upgrading-expo</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #45
+Current rank: #30
+Delta: +15
+Installs: 13 (prev 13)
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (46 → 31): web-artifacts-builder]]></title>
+            <link>https://skills.sh/anthropics/skills/web-artifacts-builder</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:anthropics/skills/web-artifacts-builder</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #46
+Current rank: #31
+Delta: +15
+Installs: 13 (prev 13)
+Source: anthropics/skills
+Description: Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (47 → 32): ralph-tui-prd]]></title>
+            <link>https://skills.sh/subsy/ralph-tui/ralph-tui-prd</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:subsy/ralph-tui/ralph-tui-prd</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #47
+Current rank: #32
+Delta: +15
+Installs: 11 (prev 11)
+Source: subsy/ralph-tui
+Description: Generate a Product Requirements Document (PRD) for ralph-tui task orchestration. Creates PRDs with user stories that can be converted to beads issues or prd.json for automated execution. Triggers on: create a prd, write prd for, plan this feature, requirements for, spec out.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (48 → 33): expo-dev-client]]></title>
+            <link>https://skills.sh/expo/skills/expo-dev-client</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:expo/skills/expo-dev-client</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #48
+Current rank: #33
+Delta: +15
+Installs: 11 (prev 11)
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (49 → 34): expo-deployment]]></title>
+            <link>https://skills.sh/expo/skills/expo-deployment</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:expo/skills/expo-deployment</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #49
+Current rank: #34
+Delta: +15
+Installs: 11 (prev 11)
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (50 → 35): ralph-tui-create-beads-rust]]></title>
+            <link>https://skills.sh/subsy/ralph-tui/ralph-tui-create-beads-rust</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:subsy/ralph-tui/ralph-tui-create-beads-rust</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #50
+Current rank: #35
+Delta: +15
+Installs: 10 (prev 10)
+Source: subsy/ralph-tui
+Description: Convert PRDs to beads for ralph-tui execution using beads-rust (br CLI). Creates an epic with child beads for each user story. Use when you have a PRD and want to use ralph-tui with beads-rust as the task source. Triggers on: create beads, convert prd to beads, beads for ralph, ralph beads, br beads.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (51 → 36): expo-cicd-workflows]]></title>
+            <link>https://skills.sh/expo/skills/expo-cicd-workflows</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:expo/skills/expo-cicd-workflows</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #51
+Current rank: #36
+Delta: +15
+Installs: 10 (prev 10)
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (52 → 37): agentation]]></title>
+            <link>https://skills.sh/benjitaylor/agentation/agentation</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:benjitaylor/agentation/agentation</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #52
+Current rank: #37
+Delta: +15
+Installs: 9 (prev 9)
+Source: benjitaylor/agentation
+Description: Add Agentation visual feedback toolbar to a Next.js project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (53 → 42): visual-design-foundations]]></title>
+            <link>https://skills.sh/wshobson/agents/visual-design-foundations</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/visual-design-foundations</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #53
+Current rank: #42
+Delta: +11
+Installs: 6 (prev 9)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (55 → 44): javascript-testing-patterns]]></title>
+            <link>https://skills.sh/wshobson/agents/javascript-testing-patterns</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/javascript-testing-patterns</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #55
+Current rank: #44
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (57 → 46): rust-async-patterns]]></title>
+            <link>https://skills.sh/wshobson/agents/rust-async-patterns</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/rust-async-patterns</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #57
+Current rank: #46
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (58 → 47): paypal-integration]]></title>
+            <link>https://skills.sh/wshobson/agents/paypal-integration</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/paypal-integration</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #58
+Current rank: #47
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (59 → 48): mobile-android-design]]></title>
+            <link>https://skills.sh/wshobson/agents/mobile-android-design</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/mobile-android-design</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #59
+Current rank: #48
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (60 → 49): github-actions-templates]]></title>
+            <link>https://skills.sh/wshobson/agents/github-actions-templates</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/github-actions-templates</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #60
+Current rank: #49
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (61 → 50): web-component-design]]></title>
+            <link>https://skills.sh/wshobson/agents/web-component-design</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:wshobson/agents/web-component-design</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #61
+Current rank: #50
+Delta: +11
+Installs: 6 (prev 8)
+Source: wshobson/agents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (7 → 4): audit-website]]></title>
+            <link>https://skills.sh/squirrelscan/skills/audit-website</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:squirrelscan/skills/audit-website</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #7
+Current rank: #4
+Delta: +3
+Installs: 55 (prev 56)
+Source: squirrelscan/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (8 → 7): next-cache-components]]></title>
+            <link>https://skills.sh/vercel-labs/next-skills/next-cache-components</link>
+            <guid isPermaLink="false">2026-01-27T05:17:44.128Z:topHot:rank:vercel-labs/next-skills/next-cache-components</guid>
+            <pubDate>Tue, 27 Jan 2026 05:17:44 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #8
+Current rank: #7
+Delta: +1
+Installs: 23 (prev 19)
+Source: vercel-labs/next-skills
+Description: Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag]]></description>
+        </item>
     </channel>
 </rss>
