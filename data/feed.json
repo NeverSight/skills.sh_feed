@@ -2,169 +2,167 @@
   "title": "Skills.sh Feed",
   "description": "Latest skill data from skills.sh",
   "link": "https://skills.sh",
-  "updatedAt": "2026-01-27T04:30:30.882Z",
+  "updatedAt": "2026-01-27T04:39:27.374Z",
   "topAllTime": [
     {
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "title": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
-      "installs": 52834,
+      "installs": 52857,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "vercel-labs/agent-skills/web-design-guidelines",
       "title": "web-design-guidelines",
       "source": "vercel-labs/agent-skills",
-      "installs": 39992,
+      "installs": 40020,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "remotion-dev/skills/remotion-best-practices",
       "title": "remotion-best-practices",
       "source": "remotion-dev/skills",
-      "installs": 36907,
+      "installs": 36927,
       "link": "https://skills.sh/i/remotion-dev/skills"
     },
     {
       "id": "anthropics/skills/frontend-design",
       "title": "frontend-design",
       "source": "anthropics/skills",
-      "installs": 16765,
+      "installs": 16773,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "vercel-labs/agent-browser/agent-browser",
       "title": "agent-browser",
       "source": "vercel-labs/agent-browser",
-      "installs": 8088,
+      "installs": 8107,
       "link": "https://skills.sh/i/vercel-labs/agent-browser"
     },
     {
       "id": "anthropics/skills/skill-creator",
       "title": "skill-creator",
       "source": "anthropics/skills",
-      "installs": 7957,
+      "installs": 7962,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "vercel-labs/skills/find-skills",
       "title": "find-skills",
       "source": "vercel-labs/skills",
-      "installs": 5665,
+      "installs": 5748,
       "link": "https://skills.sh/i/vercel-labs/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/seo-audit",
       "title": "seo-audit",
       "source": "coreyhaines31/marketingskills",
-      "installs": 5096,
+      "installs": 5101,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "squirrelscan/skills/audit-website",
       "title": "audit-website",
       "source": "squirrelscan/skills",
-      "installs": 4908,
+      "installs": 4918,
       "link": "https://skills.sh/i/squirrelscan/skills"
     },
     {
       "id": "supabase/agent-skills/supabase-postgres-best-practices",
       "title": "supabase-postgres-best-practices",
       "source": "supabase/agent-skills",
-      "installs": 4837,
+      "installs": 4843,
       "link": "https://skills.sh/i/supabase/agent-skills"
     },
     {
       "id": "expo/skills/building-native-ui",
       "title": "building-native-ui",
       "source": "expo/skills",
-      "installs": 4260,
+      "installs": 4264,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "better-auth/skills/better-auth-best-practices",
       "title": "better-auth-best-practices",
       "source": "better-auth/skills",
-      "installs": 3951,
+      "installs": 3954,
       "link": "https://skills.sh/i/better-auth/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/copywriting",
       "title": "copywriting",
       "source": "coreyhaines31/marketingskills",
-      "installs": 3938,
+      "installs": 3943,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "title": "ui-ux-pro-max",
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": 3438,
+      "installs": 3444,
       "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "id": "expo/skills/upgrading-expo",
       "title": "upgrading-expo",
       "source": "expo/skills",
-      "installs": 3111,
+      "installs": 3114,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/marketing-psychology",
       "title": "marketing-psychology",
       "source": "coreyhaines31/marketingskills",
-      "installs": 3071,
+      "installs": 3076,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/pdf",
       "title": "pdf",
       "source": "anthropics/skills",
-      "installs": 3054,
+      "installs": 3059,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "expo/skills/native-data-fetching",
       "title": "native-data-fetching",
       "source": "expo/skills",
-      "installs": 3042,
+      "installs": 3046,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "expo/skills/expo-dev-client",
       "title": "expo-dev-client",
       "source": "expo/skills",
-      "installs": 2750,
+      "installs": 2752,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "expo/skills/expo-deployment",
       "title": "expo-deployment",
       "source": "expo/skills",
-      "installs": 2656,
+      "installs": 2659,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "expo/skills/expo-tailwind-setup",
       "title": "expo-tailwind-setup",
-      "id": "expo/skills/expo-tailwind-setup",
-      "title": "expo-tailwind-setup",
       "source": "expo/skills",
-      "installs": 2624,
+      "installs": 2625,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "obra/superpowers/brainstorming",
       "title": "brainstorming",
       "source": "obra/superpowers",
-      "installs": 2615,
+      "installs": 2616,
       "link": "https://skills.sh/i/obra/superpowers"
     },
     {
       "id": "expo/skills/expo-api-routes",
       "title": "expo-api-routes",
       "source": "expo/skills",
-      "installs": 2608,
+      "installs": 2609,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
@@ -178,194 +176,182 @@
       "id": "coreyhaines31/marketingskills/programmatic-seo",
       "title": "programmatic-seo",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2576,
+      "installs": 2578,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/pptx",
       "title": "pptx",
       "source": "anthropics/skills",
-      "installs": 2455,
+      "installs": 2459,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/marketing-ideas",
       "title": "marketing-ideas",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2436,
+      "installs": 2439,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/xlsx",
       "title": "xlsx",
-      "id": "anthropics/skills/xlsx",
-      "title": "xlsx",
       "source": "anthropics/skills",
-      "installs": 2395,
+      "installs": 2398,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "expo/skills/expo-cicd-workflows",
       "title": "expo-cicd-workflows",
       "source": "expo/skills",
-      "installs": 2352,
+      "installs": 2354,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "expo/skills/use-dom",
       "title": "use-dom",
       "source": "expo/skills",
-      "installs": 2315,
+      "installs": 2316,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/pricing-strategy",
       "title": "pricing-strategy",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2289,
+      "installs": 2292,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/docx",
       "title": "docx",
       "source": "anthropics/skills",
-      "installs": 2264,
+      "installs": 2268,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/social-content",
       "title": "social-content",
-      "id": "coreyhaines31/marketingskills/social-content",
-      "title": "social-content",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2251,
+      "installs": 2255,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/webapp-testing",
       "title": "webapp-testing",
       "source": "anthropics/skills",
-      "installs": 2172,
+      "installs": 2177,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/copy-editing",
       "title": "copy-editing",
-      "id": "coreyhaines31/marketingskills/copy-editing",
-      "title": "copy-editing",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2160,
+      "installs": 2162,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "hyf0/vue-skills/vue-best-practices",
       "title": "vue-best-practices",
       "source": "hyf0/vue-skills",
-      "installs": 2139,
+      "installs": 2142,
       "link": "https://skills.sh/i/hyf0/vue-skills"
     },
     {
       "id": "anthropics/skills/mcp-builder",
       "title": "mcp-builder",
       "source": "anthropics/skills",
-      "installs": 2082,
+      "installs": 2085,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/launch-strategy",
       "title": "launch-strategy",
-      "id": "coreyhaines31/marketingskills/launch-strategy",
-      "title": "launch-strategy",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2053,
+      "installs": 2055,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/page-cro",
       "title": "page-cro",
-      "id": "coreyhaines31/marketingskills/page-cro",
-      "title": "page-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 2013,
+      "installs": 2015,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/onboarding-cro",
       "title": "onboarding-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1983,
+      "installs": 1985,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/analytics-tracking",
       "title": "analytics-tracking",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1979,
+      "installs": 1981,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/competitor-alternatives",
       "title": "competitor-alternatives",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1935,
+      "installs": 1937,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/schema-markup",
       "title": "schema-markup",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1925,
+      "installs": 1927,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/email-sequence",
       "title": "email-sequence",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1843,
+      "installs": 1844,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/paid-ads",
       "title": "paid-ads",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1836,
+      "installs": 1838,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/canvas-design",
       "title": "canvas-design",
       "source": "anthropics/skills",
-      "installs": 1816,
+      "installs": 1819,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/signup-flow-cro",
       "title": "signup-flow-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1784,
+      "installs": 1786,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/free-tool-strategy",
       "title": "free-tool-strategy",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1775,
+      "installs": 1776,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "obra/superpowers/systematic-debugging",
       "title": "systematic-debugging",
       "source": "obra/superpowers",
-      "installs": 1756,
+      "installs": 1757,
       "link": "https://skills.sh/i/obra/superpowers"
     },
     {
       "id": "coreyhaines31/marketingskills/paywall-upgrade-cro",
       "title": "paywall-upgrade-cro",
-      "id": "coreyhaines31/marketingskills/paywall-upgrade-cro",
-      "title": "paywall-upgrade-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 1730,
+      "installs": 1732,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     }
   ],
@@ -374,73 +360,70 @@
       "id": "vercel-labs/skills/find-skills",
       "title": "find-skills",
       "source": "vercel-labs/skills",
-      "installs": 5633,
+      "installs": 5718,
       "link": "https://skills.sh/i/vercel-labs/skills"
     },
     {
       "id": "remotion-dev/skills/remotion-best-practices",
       "title": "remotion-best-practices",
       "source": "remotion-dev/skills",
-      "installs": 5365,
+      "installs": 5353,
       "link": "https://skills.sh/i/remotion-dev/skills"
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "title": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
-      "installs": 5328,
+      "installs": 5317,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "vercel-labs/agent-skills/web-design-guidelines",
       "title": "web-design-guidelines",
       "source": "vercel-labs/agent-skills",
-      "installs": 3772,
+      "installs": 3765,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "anthropics/skills/frontend-design",
       "title": "frontend-design",
       "source": "anthropics/skills",
-      "installs": 3061,
+      "installs": 3062,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "vercel-labs/agent-browser/agent-browser",
       "title": "agent-browser",
       "source": "vercel-labs/agent-browser",
-      "installs": 2269,
-      "installs": 2269,
+      "installs": 2287,
       "link": "https://skills.sh/i/vercel-labs/agent-browser"
     },
     {
       "id": "anthropics/skills/skill-creator",
       "title": "skill-creator",
       "source": "anthropics/skills",
-      "installs": 1560,
+      "installs": 1564,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "squirrelscan/skills/audit-website",
       "title": "audit-website",
       "source": "squirrelscan/skills",
-      "installs": 1091,
+      "installs": 1092,
       "link": "https://skills.sh/i/squirrelscan/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/seo-audit",
       "title": "seo-audit",
       "source": "coreyhaines31/marketingskills",
-      "installs": 966,
-      "installs": 966,
+      "installs": 968,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "title": "ui-ux-pro-max",
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": 963,
-      "installs": 963,
+      "installs": 967,
       "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
@@ -454,51 +437,49 @@
       "id": "vercel-labs/agent-skills/vercel-composition-patterns",
       "title": "vercel-composition-patterns",
       "source": "vercel-labs/agent-skills",
-      "installs": 751,
+      "installs": 763,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "anthropics/skills/pdf",
       "title": "pdf",
       "source": "anthropics/skills",
-      "installs": 602,
+      "installs": 603,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/copywriting",
       "title": "copywriting",
       "source": "coreyhaines31/marketingskills",
-      "installs": 592,
+      "installs": 595,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "obra/superpowers/brainstorming",
       "title": "brainstorming",
       "source": "obra/superpowers",
-      "installs": 562,
+      "installs": 564,
       "link": "https://skills.sh/i/obra/superpowers"
     },
     {
       "id": "expo/skills/building-native-ui",
       "title": "building-native-ui",
       "source": "expo/skills",
-      "installs": 559,
+      "installs": 557,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/marketing-psychology",
       "title": "marketing-psychology",
-      "id": "coreyhaines31/marketingskills/marketing-psychology",
-      "title": "marketing-psychology",
       "source": "coreyhaines31/marketingskills",
-      "installs": 487,
+      "installs": 490,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-native-skills",
       "title": "vercel-react-native-skills",
       "source": "vercel-labs/agent-skills",
-      "installs": 480,
+      "installs": 489,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
@@ -512,63 +493,56 @@
       "id": "anthropics/skills/pptx",
       "title": "pptx",
       "source": "anthropics/skills",
-      "installs": 467,
+      "installs": 470,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "hyf0/vue-skills/vue-best-practices",
       "title": "vue-best-practices",
       "source": "hyf0/vue-skills",
-      "installs": 465,
+      "installs": 467,
       "link": "https://skills.sh/i/hyf0/vue-skills"
     },
     {
       "id": "anthropics/skills/xlsx",
       "title": "xlsx",
       "source": "anthropics/skills",
-      "installs": 449,
+      "installs": 452,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "anthropics/skills/docx",
       "title": "docx",
-      "id": "anthropics/skills/docx",
-      "title": "docx",
       "source": "anthropics/skills",
-      "installs": 425,
+      "installs": 427,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "anthropics/skills/mcp-builder",
       "title": "mcp-builder",
       "source": "anthropics/skills",
-      "installs": 404,
+      "installs": 409,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
-      "id": "anthropics/skills/webapp-testing",
-      "title": "webapp-testing",
       "id": "anthropics/skills/webapp-testing",
       "title": "webapp-testing",
       "source": "anthropics/skills",
-      "installs": 394,
-      "installs": 394,
+      "installs": 402,
       "link": "https://skills.sh/i/anthropics/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/programmatic-seo",
       "title": "programmatic-seo",
-      "id": "coreyhaines31/marketingskills/programmatic-seo",
-      "title": "programmatic-seo",
       "source": "coreyhaines31/marketingskills",
-      "installs": 361,
+      "installs": 364,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "callstackincubator/agent-skills/react-native-best-practices",
       "title": "react-native-best-practices",
       "source": "callstackincubator/agent-skills",
-      "installs": 355,
+      "installs": 352,
       "link": "https://skills.sh/i/callstackincubator/agent-skills"
     },
     {
@@ -582,21 +556,21 @@
       "id": "obra/superpowers/systematic-debugging",
       "title": "systematic-debugging",
       "source": "obra/superpowers",
-      "installs": 344,
+      "installs": 343,
       "link": "https://skills.sh/i/obra/superpowers"
     },
     {
       "id": "coreyhaines31/marketingskills/marketing-ideas",
       "title": "marketing-ideas",
       "source": "coreyhaines31/marketingskills",
-      "installs": 338,
+      "installs": 341,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/pricing-strategy",
       "title": "pricing-strategy",
       "source": "coreyhaines31/marketingskills",
-      "installs": 330,
+      "installs": 334,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
@@ -607,109 +581,102 @@
       "link": "https://skills.sh/i/expo/skills"
     },
     {
-      "id": "coreyhaines31/marketingskills/social-content",
-      "title": "social-content",
-      "id": "coreyhaines31/marketingskills/social-content",
-      "title": "social-content",
-      "source": "coreyhaines31/marketingskills",
-      "installs": 320,
-      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
-    },
-    {
       "id": "anthropics/skills/canvas-design",
       "title": "canvas-design",
       "source": "anthropics/skills",
-      "installs": 317,
+      "installs": 323,
       "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/social-content",
+      "title": "social-content",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 322,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "coreyhaines31/marketingskills/onboarding-cro",
       "title": "onboarding-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 311,
+      "installs": 313,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
-    },
-    {
-      "id": "expo/skills/expo-tailwind-setup",
-      "title": "expo-tailwind-setup",
-      "source": "expo/skills",
-      "installs": 308,
-      "link": "https://skills.sh/i/expo/skills"
-      "id": "expo/skills/expo-tailwind-setup",
-      "title": "expo-tailwind-setup",
-      "source": "expo/skills",
-      "installs": 308,
-      "link": "https://skills.sh/i/expo/skills"
-    },
-    {
-      "id": "obra/superpowers/test-driven-development",
-      "title": "test-driven-development",
-      "source": "obra/superpowers",
-      "installs": 308,
-      "link": "https://skills.sh/i/obra/superpowers"
-      "id": "obra/superpowers/test-driven-development",
-      "title": "test-driven-development",
-      "source": "obra/superpowers",
-      "installs": 308,
-      "link": "https://skills.sh/i/obra/superpowers"
     },
     {
       "id": "coreyhaines31/marketingskills/page-cro",
       "title": "page-cro",
       "source": "coreyhaines31/marketingskills",
-      "installs": 305,
+      "installs": 307,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
-      "id": "expo/skills/expo-dev-client",
-      "title": "expo-dev-client",
+      "id": "obra/superpowers/test-driven-development",
+      "title": "test-driven-development",
+      "source": "obra/superpowers",
+      "installs": 307,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "expo/skills/expo-tailwind-setup",
+      "title": "expo-tailwind-setup",
       "source": "expo/skills",
-      "installs": 302,
+      "installs": 306,
       "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "vercel/ai/ai-sdk",
       "title": "ai-sdk",
       "source": "vercel/ai",
-      "installs": 301,
+      "installs": 303,
       "link": "https://skills.sh/i/vercel/ai"
+    },
+    {
+      "id": "expo/skills/expo-dev-client",
+      "title": "expo-dev-client",
+      "source": "expo/skills",
+      "installs": 301,
+      "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/copy-editing",
       "title": "copy-editing",
-      "id": "coreyhaines31/marketingskills/copy-editing",
-      "title": "copy-editing",
       "source": "coreyhaines31/marketingskills",
-      "installs": 297,
+      "installs": 299,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "anthropics/skills/doc-coauthoring",
       "title": "doc-coauthoring",
       "source": "anthropics/skills",
-      "installs": 292,
+      "installs": 297,
       "link": "https://skills.sh/i/anthropics/skills"
-    },
-    {
-      "id": "expo/skills/expo-deployment",
-      "title": "expo-deployment",
-      "source": "expo/skills",
-      "installs": 291,
-      "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "coreyhaines31/marketingskills/launch-strategy",
       "title": "launch-strategy",
       "source": "coreyhaines31/marketingskills",
-      "installs": 291,
+      "installs": 294,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/expo-deployment",
+      "title": "expo-deployment",
+      "source": "expo/skills",
+      "installs": 290,
+      "link": "https://skills.sh/i/expo/skills"
     },
     {
       "id": "expo/skills/expo-api-routes",
       "title": "expo-api-routes",
       "source": "expo/skills",
-      "installs": 286,
+      "installs": 284,
       "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/analytics-tracking",
+      "title": "analytics-tracking",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 283,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
       "id": "subsy/ralph-tui/ralph-tui-prd",
@@ -719,33 +686,24 @@
       "link": "https://skills.sh/i/subsy/ralph-tui"
     },
     {
-      "id": "coreyhaines31/marketingskills/analytics-tracking",
-      "title": "analytics-tracking",
+      "id": "coreyhaines31/marketingskills/schema-markup",
+      "title": "schema-markup",
       "source": "coreyhaines31/marketingskills",
-      "installs": 281,
+      "installs": 282,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
-      "id": "coreyhaines31/marketingskills/schema-markup",
-      "title": "schema-markup",
-      "id": "coreyhaines31/marketingskills/schema-markup",
-      "title": "schema-markup",
-      "source": "coreyhaines31/marketingskills",
-      "installs": 279,
-      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+      "id": "softaworks/agent-toolkit/agent-md-refactor",
+      "title": "agent-md-refactor",
+      "source": "softaworks/agent-toolkit",
+      "installs": 273,
+      "link": "https://skills.sh/i/softaworks/agent-toolkit"
     },
     {
       "id": "softaworks/agent-toolkit/mermaid-diagrams",
       "title": "mermaid-diagrams",
       "source": "softaworks/agent-toolkit",
       "installs": 273,
-      "link": "https://skills.sh/i/softaworks/agent-toolkit"
-    },
-    {
-      "id": "softaworks/agent-toolkit/agent-md-refactor",
-      "title": "agent-md-refactor",
-      "source": "softaworks/agent-toolkit",
-      "installs": 272,
       "link": "https://skills.sh/i/softaworks/agent-toolkit"
     }
   ],
@@ -760,36 +718,18 @@
     {
       "id": "vercel-labs/agent-skills/vercel-composition-patterns",
       "title": "vercel-composition-patterns",
-      "id": "vercel-labs/skills/find-skills",
-      "title": "find-skills",
-      "source": "vercel-labs/skills",
-      "installs": 732,
-      "link": "https://skills.sh/i/vercel-labs/skills"
-    },
-    {
-      "id": "vercel-labs/agent-skills/vercel-composition-patterns",
-      "title": "vercel-composition-patterns",
       "source": "vercel-labs/agent-skills",
-      "installs": 115,
       "installs": 115,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-native-skills",
       "title": "vercel-react-native-skills",
-      "id": "vercel-labs/agent-skills/vercel-react-native-skills",
-      "title": "vercel-react-native-skills",
       "source": "vercel-labs/agent-skills",
-      "installs": 69,
       "installs": 69,
       "link": "https://skills.sh/i/vercel-labs/agent-skills"
     },
     {
-      "id": "vercel-labs/next-skills/next-best-practices",
-      "title": "next-best-practices",
-      "source": "vercel-labs/next-skills",
-      "installs": 38,
-      "link": "https://skills.sh/i/vercel-labs/next-skills"
       "id": "vercel-labs/next-skills/next-best-practices",
       "title": "next-best-practices",
       "source": "vercel-labs/next-skills",
@@ -802,18 +742,8 @@
       "source": "browser-use/browser-use",
       "installs": 36,
       "link": "https://skills.sh/i/browser-use/browser-use"
-      "id": "browser-use/browser-use/browser-use",
-      "title": "browser-use",
-      "source": "browser-use/browser-use",
-      "installs": 36,
-      "link": "https://skills.sh/i/browser-use/browser-use"
     },
     {
-      "id": "vercel-labs/agent-skills/vercel-react-best-practices",
-      "title": "vercel-react-best-practices",
-      "source": "vercel-labs/agent-skills",
-      "installs": 263,
-      "link": "https://skills.sh/i/vercel-labs/agent-skills"
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "title": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
@@ -826,18 +756,8 @@
       "source": "squirrelscan/skills",
       "installs": 56,
       "link": "https://skills.sh/i/squirrelscan/skills"
-      "id": "squirrelscan/skills/audit-website",
-      "title": "audit-website",
-      "source": "squirrelscan/skills",
-      "installs": 56,
-      "link": "https://skills.sh/i/squirrelscan/skills"
     },
     {
-      "id": "vercel-labs/next-skills/next-cache-components",
-      "title": "next-cache-components",
-      "source": "vercel-labs/next-skills",
-      "installs": 19,
-      "link": "https://skills.sh/i/vercel-labs/next-skills"
       "id": "vercel-labs/next-skills/next-cache-components",
       "title": "next-cache-components",
       "source": "vercel-labs/next-skills",
@@ -850,18 +770,8 @@
       "source": "vercel-labs/next-skills",
       "installs": 17,
       "link": "https://skills.sh/i/vercel-labs/next-skills"
-      "id": "vercel-labs/next-skills/next-upgrade",
-      "title": "next-upgrade",
-      "source": "vercel-labs/next-skills",
-      "installs": 17,
-      "link": "https://skills.sh/i/vercel-labs/next-skills"
     },
     {
-      "id": "hyf0/vue-skills/vue-best-practices",
-      "title": "vue-best-practices",
-      "source": "hyf0/vue-skills",
-      "installs": 49,
-      "link": "https://skills.sh/i/hyf0/vue-skills"
       "id": "hyf0/vue-skills/vue-best-practices",
       "title": "vue-best-practices",
       "source": "hyf0/vue-skills",
@@ -874,18 +784,8 @@
       "source": "wshobson/agents",
       "installs": 22,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/tailwind-design-system",
-      "title": "tailwind-design-system",
-      "source": "wshobson/agents",
-      "installs": 22,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "rivet-dev/skills/rivetkit-client-javascript",
-      "title": "rivetkit-client-javascript",
-      "source": "rivet-dev/skills",
-      "installs": 13,
-      "link": "https://skills.sh/i/rivet-dev/skills"
       "id": "rivet-dev/skills/rivetkit-client-javascript",
       "title": "rivetkit-client-javascript",
       "source": "rivet-dev/skills",
@@ -898,28 +798,15 @@
       "source": "rivet-dev/skills",
       "installs": 13,
       "link": "https://skills.sh/i/rivet-dev/skills"
-      "id": "rivet-dev/skills/rivetkit-client-swiftui",
-      "title": "rivetkit-client-swiftui",
-      "source": "rivet-dev/skills",
-      "installs": 13,
-      "link": "https://skills.sh/i/rivet-dev/skills"
     },
     {
-      "id": "coreyhaines31/marketingskills/content-strategy",
-      "title": "content-strategy",
       "id": "coreyhaines31/marketingskills/content-strategy",
       "title": "content-strategy",
       "source": "coreyhaines31/marketingskills",
       "installs": 13,
-      "installs": 13,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
-      "id": "rivet-dev/skills/rivetkit-client-react",
-      "title": "rivetkit-client-react",
-      "source": "rivet-dev/skills",
-      "installs": 13,
-      "link": "https://skills.sh/i/rivet-dev/skills"
       "id": "rivet-dev/skills/rivetkit-client-react",
       "title": "rivetkit-client-react",
       "source": "rivet-dev/skills",
@@ -932,11 +819,6 @@
       "source": "rivet-dev/skills",
       "installs": 13,
       "link": "https://skills.sh/i/rivet-dev/skills"
-      "id": "rivet-dev/skills/rivetkit-client-swift",
-      "title": "rivetkit-client-swift",
-      "source": "rivet-dev/skills",
-      "installs": 13,
-      "link": "https://skills.sh/i/rivet-dev/skills"
     },
     {
       "id": "rivet-dev/skills/rivetkit",
@@ -944,15 +826,8 @@
       "source": "rivet-dev/skills",
       "installs": 13,
       "link": "https://skills.sh/i/rivet-dev/skills"
-      "id": "rivet-dev/skills/rivetkit",
-      "title": "rivetkit",
-      "source": "rivet-dev/skills",
-      "installs": 13,
-      "link": "https://skills.sh/i/rivet-dev/skills"
     },
     {
-      "id": "coreyhaines31/marketingskills/product-marketing-context",
-      "title": "product-marketing-context",
       "id": "coreyhaines31/marketingskills/product-marketing-context",
       "title": "product-marketing-context",
       "source": "coreyhaines31/marketingskills",
@@ -965,18 +840,8 @@
       "source": "vercel-labs/agent-browser",
       "installs": 119,
       "link": "https://skills.sh/i/vercel-labs/agent-browser"
-      "id": "vercel-labs/agent-browser/agent-browser",
-      "title": "agent-browser",
-      "source": "vercel-labs/agent-browser",
-      "installs": 119,
-      "link": "https://skills.sh/i/vercel-labs/agent-browser"
     },
     {
-      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
-      "title": "ui-ux-pro-max",
-      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": 66,
-      "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
       "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "title": "ui-ux-pro-max",
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -989,18 +854,8 @@
       "source": "jimliu/baoyu-skills",
       "installs": 23,
       "link": "https://skills.sh/i/jimliu/baoyu-skills"
-      "id": "jimliu/baoyu-skills/baoyu-cover-image",
-      "title": "baoyu-cover-image",
-      "source": "jimliu/baoyu-skills",
-      "installs": 23,
-      "link": "https://skills.sh/i/jimliu/baoyu-skills"
     },
     {
-      "id": "vercel/ai/ai-sdk",
-      "title": "ai-sdk",
-      "source": "vercel/ai",
-      "installs": 15,
-      "link": "https://skills.sh/i/vercel/ai"
       "id": "vercel/ai/ai-sdk",
       "title": "ai-sdk",
       "source": "vercel/ai",
@@ -1013,18 +868,8 @@
       "source": "wshobson/agents",
       "installs": 14,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/sql-optimization-patterns",
-      "title": "sql-optimization-patterns",
-      "source": "wshobson/agents",
-      "installs": 14,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "atxp-dev/cli/atxp",
-      "title": "atxp",
-      "source": "atxp-dev/cli",
-      "installs": 11,
-      "link": "https://skills.sh/i/atxp-dev/cli"
       "id": "atxp-dev/cli/atxp",
       "title": "atxp",
       "source": "atxp-dev/cli",
@@ -1035,19 +880,10 @@
       "id": "wshobson/agents/responsive-design",
       "title": "responsive-design",
       "source": "wshobson/agents",
-      "id": "wshobson/agents/responsive-design",
-      "title": "responsive-design",
-      "source": "wshobson/agents",
       "installs": 14,
-      "link": "https://skills.sh/i/wshobson/agents"
       "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "obra/superpowers/brainstorming",
-      "title": "brainstorming",
-      "source": "obra/superpowers",
-      "installs": 43,
-      "link": "https://skills.sh/i/obra/superpowers"
       "id": "obra/superpowers/brainstorming",
       "title": "brainstorming",
       "source": "obra/superpowers",
@@ -1060,18 +896,8 @@
       "source": "wshobson/agents",
       "installs": 13,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/python-performance-optimization",
-      "title": "python-performance-optimization",
-      "source": "wshobson/agents",
-      "installs": 13,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/api-design-principles",
-      "title": "api-design-principles",
-      "source": "wshobson/agents",
-      "installs": 14,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/api-design-principles",
       "title": "api-design-principles",
       "source": "wshobson/agents",
@@ -1091,43 +917,15 @@
       "source": "wshobson/agents",
       "installs": 13,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "giuseppe-trisciuoglio/developer-kit/shadcn-ui",
-      "title": "shadcn-ui",
-      "source": "giuseppe-trisciuoglio/developer-kit",
-      "installs": 14,
-      "link": "https://skills.sh/i/giuseppe-trisciuoglio/developer-kit"
     },
     {
-      "id": "wshobson/agents/architecture-patterns",
-      "title": "architecture-patterns",
-      "source": "wshobson/agents",
-      "installs": 13,
-      "link": "https://skills.sh/i/wshobson/agents"
-    },
-    {
-      "id": "wshobson/agents/react-state-management",
-      "title": "react-state-management",
-      "source": "wshobson/agents",
       "id": "wshobson/agents/react-state-management",
       "title": "react-state-management",
       "source": "wshobson/agents",
       "installs": 11,
       "link": "https://skills.sh/i/wshobson/agents"
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/langchain-architecture",
-      "title": "langchain-architecture",
-      "source": "wshobson/agents",
-      "installs": 9,
-      "link": "https://skills.sh/i/wshobson/agents"
-    },
-    {
-      "id": "wshobson/agents/terraform-module-library",
-      "title": "terraform-module-library",
-      "source": "wshobson/agents",
-      "installs": 9,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/langchain-architecture",
       "title": "langchain-architecture",
       "source": "wshobson/agents",
@@ -1146,36 +944,23 @@
       "title": "marketing-ideas",
       "source": "coreyhaines31/marketingskills",
       "installs": 17,
-      "installs": 17,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
-      "id": "coreyhaines31/marketingskills/analytics-tracking",
-      "title": "analytics-tracking",
       "id": "coreyhaines31/marketingskills/analytics-tracking",
       "title": "analytics-tracking",
       "source": "coreyhaines31/marketingskills",
       "installs": 15,
-      "installs": 15,
       "link": "https://skills.sh/i/coreyhaines31/marketingskills"
     },
     {
-      "id": "wshobson/agents/typescript-advanced-types",
-      "title": "typescript-advanced-types",
-      "source": "wshobson/agents",
       "id": "wshobson/agents/typescript-advanced-types",
       "title": "typescript-advanced-types",
       "source": "wshobson/agents",
       "installs": 13,
       "link": "https://skills.sh/i/wshobson/agents"
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/postgresql-table-design",
-      "title": "postgresql-table-design",
-      "source": "wshobson/agents",
-      "installs": 12,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/postgresql-table-design",
       "title": "postgresql-table-design",
       "source": "wshobson/agents",
@@ -1188,18 +973,8 @@
       "source": "wshobson/agents",
       "installs": 10,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/e2e-testing-patterns",
-      "title": "e2e-testing-patterns",
-      "source": "wshobson/agents",
-      "installs": 10,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/async-python-patterns",
-      "title": "async-python-patterns",
-      "source": "wshobson/agents",
-      "installs": 10,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/async-python-patterns",
       "title": "async-python-patterns",
       "source": "wshobson/agents",
@@ -1212,50 +987,29 @@
       "source": "wshobson/agents",
       "installs": 9,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/git-advanced-workflows",
-      "title": "git-advanced-workflows",
-      "source": "wshobson/agents",
-      "installs": 9,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
       "id": "wshobson/agents/visual-design-foundations",
       "title": "visual-design-foundations",
       "source": "wshobson/agents",
-      "id": "wshobson/agents/visual-design-foundations",
-      "title": "visual-design-foundations",
-      "source": "wshobson/agents",
       "installs": 9,
-      "link": "https://skills.sh/i/wshobson/agents"
       "link": "https://skills.sh/i/wshobson/agents"
     },
     {
       "id": "wshobson/agents/react-native-design",
       "title": "react-native-design",
       "source": "wshobson/agents",
-      "id": "wshobson/agents/react-native-design",
-      "title": "react-native-design",
-      "source": "wshobson/agents",
       "installs": 9,
       "link": "https://skills.sh/i/wshobson/agents"
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
       "id": "wshobson/agents/defi-protocol-templates",
       "title": "defi-protocol-templates",
-      "id": "wshobson/agents/defi-protocol-templates",
-      "title": "defi-protocol-templates",
       "source": "wshobson/agents",
-      "installs": 8,
       "installs": 8,
       "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/market-sizing-analysis",
-      "title": "market-sizing-analysis",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/market-sizing-analysis",
       "title": "market-sizing-analysis",
       "source": "wshobson/agents",
@@ -1268,18 +1022,8 @@
       "source": "wshobson/agents",
       "installs": 8,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/rag-implementation",
-      "title": "rag-implementation",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/shellcheck-configuration",
-      "title": "shellcheck-configuration",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/shellcheck-configuration",
       "title": "shellcheck-configuration",
       "source": "wshobson/agents",
@@ -1292,18 +1036,8 @@
       "source": "wshobson/agents",
       "installs": 8,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/gitlab-ci-patterns",
-      "title": "gitlab-ci-patterns",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/similarity-search-patterns",
-      "title": "similarity-search-patterns",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/similarity-search-patterns",
       "title": "similarity-search-patterns",
       "source": "wshobson/agents",
@@ -1316,18 +1050,8 @@
       "source": "wshobson/agents",
       "installs": 8,
       "link": "https://skills.sh/i/wshobson/agents"
-      "id": "wshobson/agents/k8s-security-policies",
-      "title": "k8s-security-policies",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
     },
     {
-      "id": "wshobson/agents/billing-automation",
-      "title": "billing-automation",
-      "source": "wshobson/agents",
-      "installs": 8,
-      "link": "https://skills.sh/i/wshobson/agents"
       "id": "wshobson/agents/billing-automation",
       "title": "billing-automation",
       "source": "wshobson/agents",
