@@ -410,6 +410,32 @@ function buildRssItemsFromDiff(previous: FeedJson | null, next: FeedJson) {
   return sorted.slice(0, 50);
 }
 
+function buildDailySnapshotRssItem(feed: FeedJson, counts: { allTime: number; trending: number; hot: number }) {
+  const updatedAt = new Date(feed.updatedAt);
+  const topAllTime = feed.topAllTime?.[0];
+  const topTrending = feed.topTrending?.[0];
+  const topHot = feed.topHot?.[0];
+
+  const lines = [
+    `Daily snapshot.`,
+    `All Time skills: ${counts.allTime}`,
+    `Trending skills: ${counts.trending}`,
+    `Hot skills: ${counts.hot}`,
+    '',
+    topAllTime ? `Top All Time: ${topAllTime.title} (${topAllTime.installs})` : null,
+    topTrending ? `Top Trending: ${topTrending.title} (${topTrending.installs})` : null,
+    topHot ? `Top Hot: ${topHot.title} (${topHot.installs})` : null,
+  ].filter(Boolean).join('\n');
+
+  return {
+    title: `[Daily] Skills.sh snapshot (${updatedAt.toISOString().slice(0, 10)})`,
+    id: `${feed.updatedAt}:snapshot`,
+    link: feed.link,
+    date: updatedAt,
+    description: lines,
+  };
+}
+
 /**
  * Main function
  */
@@ -514,6 +540,15 @@ async function main() {
     language: 'en',
     updated: new Date(feed.updatedAt),
   });
+
+  // Always publish a daily snapshot item so the RSS never looks "broken" (empty),
+  // even when there are no meaningful rank changes.
+  const snapshot = buildDailySnapshotRssItem(feed, {
+    allTime: allTime.length,
+    trending: trending.length,
+    hot: hot.length,
+  });
+  rss.addItem(snapshot);
 
   for (const item of rssItems) {
     rss.addItem({
