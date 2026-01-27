@@ -169,7 +169,23 @@ async function getRepoSkillIndex(source: string) {
   const index = new Map<string, { branch: string; path: string }>();
 
   for (const branch of branches) {
-    for (const baseDir of baseDirs) {
+    const dynamicBaseDirs = [...baseDirs];
+
+    // Also scan plugin-style layouts, e.g.
+    // plugins/<plugin-name>/skills/<skillId>/SKILL.md
+    const pluginsListing = await fetchGithubJson<GithubContentEntry[] | GithubContentEntry>(
+      githubApiUrl(source, 'plugins', branch),
+    );
+    if (pluginsListing) {
+      const entries = Array.isArray(pluginsListing) ? pluginsListing : [pluginsListing];
+      for (const entry of entries) {
+        if (entry.type === 'dir') {
+          dynamicBaseDirs.push(`plugins/${entry.name}/skills`);
+        }
+      }
+    }
+
+    for (const baseDir of dynamicBaseDirs) {
       const url = githubApiUrl(source, baseDir, branch);
       const listing = await fetchGithubJson<GithubContentEntry[] | GithubContentEntry>(url);
       if (!listing) continue;
