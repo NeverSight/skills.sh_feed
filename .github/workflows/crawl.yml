@@ -1,0 +1,43 @@
+name: Daily Skills Crawl
+
+on:
+  # Run daily at UTC 0:00 (8:00 AM Beijing Time)
+  schedule:
+    - cron: '0 0 * * *'
+  # Support manual trigger
+  workflow_dispatch:
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run crawler
+        run: npm run crawl
+      
+      - name: Commit data updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: update skills data $(date +'%Y-%m-%d %H:%M:%S')"
+          git push

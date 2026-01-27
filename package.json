@@ -1,0 +1,23 @@
+{
+  "name": "skills-crawler",
+  "version": "1.0.0",
+  "description": "Crawler script to fetch skill data from skills.sh",
+  "type": "module",
+  "scripts": {
+    "crawl": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "skills",
+    "crawler",
+    "skills.sh"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

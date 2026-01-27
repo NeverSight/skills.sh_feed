@@ -1,0 +1,1062 @@
+{
+  "title": "Skills.sh Feed",
+  "description": "Latest skill data from skills.sh",
+  "link": "https://skills.sh",
+  "updatedAt": "2026-01-26T16:58:43.044Z",
+  "topAllTime": [
+    {
+      "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+      "title": "vercel-react-best-practices",
+      "source": "vercel-labs/agent-skills",
+      "installs": 50569,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "vercel-labs/agent-skills/web-design-guidelines",
+      "title": "web-design-guidelines",
+      "source": "vercel-labs/agent-skills",
+      "installs": 38388,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "remotion-dev/skills/remotion-best-practices",
+      "title": "remotion-best-practices",
+      "source": "remotion-dev/skills",
+      "installs": 34578,
+      "link": "https://skills.sh/i/remotion-dev/skills"
+    },
+    {
+      "id": "anthropics/skills/frontend-design",
+      "title": "frontend-design",
+      "source": "anthropics/skills",
+      "installs": 15448,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "anthropics/skills/skill-creator",
+      "title": "skill-creator",
+      "source": "anthropics/skills",
+      "installs": 7307,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "vercel-labs/agent-browser/agent-browser",
+      "title": "agent-browser",
+      "source": "vercel-labs/agent-browser",
+      "installs": 7014,
+      "link": "https://skills.sh/i/vercel-labs/agent-browser"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/seo-audit",
+      "title": "seo-audit",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 4695,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "supabase/agent-skills/supabase-postgres-best-practices",
+      "title": "supabase-postgres-best-practices",
+      "source": "supabase/agent-skills",
+      "installs": 4432,
+      "link": "https://skills.sh/i/supabase/agent-skills"
+    },
+    {
+      "id": "squirrelscan/skills/audit-website",
+      "title": "audit-website",
+      "source": "squirrelscan/skills",
+      "installs": 4231,
+      "link": "https://skills.sh/i/squirrelscan/skills"
+    },
+    {
+      "id": "expo/skills/building-native-ui",
+      "title": "building-native-ui",
+      "source": "expo/skills",
+      "installs": 4002,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "better-auth/skills/better-auth-best-practices",
+      "title": "better-auth-best-practices",
+      "source": "better-auth/skills",
+      "installs": 3731,
+      "link": "https://skills.sh/i/better-auth/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copywriting",
+      "title": "copywriting",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 3684,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "title": "ui-ux-pro-max",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": 3025,
+      "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "id": "expo/skills/upgrading-expo",
+      "title": "upgrading-expo",
+      "source": "expo/skills",
+      "installs": 2965,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/native-data-fetching",
+      "title": "native-data-fetching",
+      "source": "expo/skills",
+      "installs": 2886,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-psychology",
+      "title": "marketing-psychology",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2863,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/pdf",
+      "title": "pdf",
+      "source": "anthropics/skills",
+      "installs": 2811,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "expo/skills/expo-dev-client",
+      "title": "expo-dev-client",
+      "source": "expo/skills",
+      "installs": 2621,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-deployment",
+      "title": "expo-deployment",
+      "source": "expo/skills",
+      "installs": 2528,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-api-routes",
+      "title": "expo-api-routes",
+      "source": "expo/skills",
+      "installs": 2488,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-tailwind-setup",
+      "title": "expo-tailwind-setup",
+      "source": "expo/skills",
+      "installs": 2482,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "callstackincubator/agent-skills/react-native-best-practices",
+      "title": "react-native-best-practices",
+      "source": "callstackincubator/agent-skills",
+      "installs": 2457,
+      "link": "https://skills.sh/i/callstackincubator/agent-skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/programmatic-seo",
+      "title": "programmatic-seo",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2415,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "obra/superpowers/brainstorming",
+      "title": "brainstorming",
+      "source": "obra/superpowers",
+      "installs": 2373,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-ideas",
+      "title": "marketing-ideas",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2294,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/pptx",
+      "title": "pptx",
+      "source": "anthropics/skills",
+      "installs": 2273,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "expo/skills/expo-cicd-workflows",
+      "title": "expo-cicd-workflows",
+      "source": "expo/skills",
+      "installs": 2247,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "anthropics/skills/xlsx",
+      "title": "xlsx",
+      "source": "anthropics/skills",
+      "installs": 2218,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "expo/skills/use-dom",
+      "title": "use-dom",
+      "source": "expo/skills",
+      "installs": 2215,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/pricing-strategy",
+      "title": "pricing-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2145,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/social-content",
+      "title": "social-content",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2117,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/docx",
+      "title": "docx",
+      "source": "anthropics/skills",
+      "installs": 2092,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copy-editing",
+      "title": "copy-editing",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 2027,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/webapp-testing",
+      "title": "webapp-testing",
+      "source": "anthropics/skills",
+      "installs": 2008,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/launch-strategy",
+      "title": "launch-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1925,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "hyf0/vue-skills/vue-best-practices",
+      "title": "vue-best-practices",
+      "source": "hyf0/vue-skills",
+      "installs": 1915,
+      "link": "https://skills.sh/i/hyf0/vue-skills"
+    },
+    {
+      "id": "anthropics/skills/mcp-builder",
+      "title": "mcp-builder",
+      "source": "anthropics/skills",
+      "installs": 1914,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/page-cro",
+      "title": "page-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1885,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/analytics-tracking",
+      "title": "analytics-tracking",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1854,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/onboarding-cro",
+      "title": "onboarding-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1846,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/competitor-alternatives",
+      "title": "competitor-alternatives",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1820,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/schema-markup",
+      "title": "schema-markup",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1800,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/email-sequence",
+      "title": "email-sequence",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1733,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paid-ads",
+      "title": "paid-ads",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1727,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/canvas-design",
+      "title": "canvas-design",
+      "source": "anthropics/skills",
+      "installs": 1682,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/signup-flow-cro",
+      "title": "signup-flow-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1671,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/free-tool-strategy",
+      "title": "free-tool-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1664,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paywall-upgrade-cro",
+      "title": "paywall-upgrade-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1625,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "obra/superpowers/systematic-debugging",
+      "title": "systematic-debugging",
+      "source": "obra/superpowers",
+      "installs": 1620,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/referral-program",
+      "title": "referral-program",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 1612,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    }
+  ],
+  "topTrending": [
+    {
+      "id": "remotion-dev/skills/remotion-best-practices",
+      "title": "remotion-best-practices",
+      "source": "remotion-dev/skills",
+      "installs": 5532,
+      "link": "https://skills.sh/i/remotion-dev/skills"
+    },
+    {
+      "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+      "title": "vercel-react-best-practices",
+      "source": "vercel-labs/agent-skills",
+      "installs": 4346,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "vercel-labs/agent-skills/web-design-guidelines",
+      "title": "web-design-guidelines",
+      "source": "vercel-labs/agent-skills",
+      "installs": 3359,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "anthropics/skills/frontend-design",
+      "title": "frontend-design",
+      "source": "anthropics/skills",
+      "installs": 2822,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "vercel-labs/agent-browser/agent-browser",
+      "title": "agent-browser",
+      "source": "vercel-labs/agent-browser",
+      "installs": 1328,
+      "link": "https://skills.sh/i/vercel-labs/agent-browser"
+    },
+    {
+      "id": "anthropics/skills/skill-creator",
+      "title": "skill-creator",
+      "source": "anthropics/skills",
+      "installs": 1173,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "supabase/agent-skills/supabase-postgres-best-practices",
+      "title": "supabase-postgres-best-practices",
+      "source": "supabase/agent-skills",
+      "installs": 917,
+      "link": "https://skills.sh/i/supabase/agent-skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/seo-audit",
+      "title": "seo-audit",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 810,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "browser-use/browser-use/browser-use",
+      "title": "browser-use",
+      "source": "browser-use/browser-use",
+      "installs": 738,
+      "link": "https://skills.sh/i/browser-use/browser-use"
+    },
+    {
+      "id": "squirrelscan/skills/audit-website",
+      "title": "audit-website",
+      "source": "squirrelscan/skills",
+      "installs": 713,
+      "link": "https://skills.sh/i/squirrelscan/skills"
+    },
+    {
+      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "title": "ui-ux-pro-max",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": 679,
+      "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copywriting",
+      "title": "copywriting",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 577,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "better-auth/skills/better-auth-best-practices",
+      "title": "better-auth-best-practices",
+      "source": "better-auth/skills",
+      "installs": 491,
+      "link": "https://skills.sh/i/better-auth/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-psychology",
+      "title": "marketing-psychology",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 446,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/building-native-ui",
+      "title": "building-native-ui",
+      "source": "expo/skills",
+      "installs": 427,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "anthropics/skills/pdf",
+      "title": "pdf",
+      "source": "anthropics/skills",
+      "installs": 421,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "obra/superpowers/brainstorming",
+      "title": "brainstorming",
+      "source": "obra/superpowers",
+      "installs": 382,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/programmatic-seo",
+      "title": "programmatic-seo",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 378,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-ideas",
+      "title": "marketing-ideas",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 355,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/webapp-testing",
+      "title": "webapp-testing",
+      "source": "anthropics/skills",
+      "installs": 353,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "subsy/ralph-tui/ralph-tui-prd",
+      "title": "ralph-tui-prd",
+      "source": "subsy/ralph-tui",
+      "installs": 335,
+      "link": "https://skills.sh/i/subsy/ralph-tui"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/pricing-strategy",
+      "title": "pricing-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 329,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/xlsx",
+      "title": "xlsx",
+      "source": "anthropics/skills",
+      "installs": 327,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "anthropics/skills/pptx",
+      "title": "pptx",
+      "source": "anthropics/skills",
+      "installs": 327,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "anthropics/skills/mcp-builder",
+      "title": "mcp-builder",
+      "source": "anthropics/skills",
+      "installs": 323,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "anthropics/skills/docx",
+      "title": "docx",
+      "source": "anthropics/skills",
+      "installs": 310,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/social-content",
+      "title": "social-content",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 308,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "subsy/ralph-tui/ralph-tui-create-json",
+      "title": "ralph-tui-create-json",
+      "source": "subsy/ralph-tui",
+      "installs": 290,
+      "link": "https://skills.sh/i/subsy/ralph-tui"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copy-editing",
+      "title": "copy-editing",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 288,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/launch-strategy",
+      "title": "launch-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 277,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "vercel/ai/ai-sdk",
+      "title": "ai-sdk",
+      "source": "vercel/ai",
+      "installs": 277,
+      "link": "https://skills.sh/i/vercel/ai"
+    },
+    {
+      "id": "subsy/ralph-tui/ralph-tui-create-beads",
+      "title": "ralph-tui-create-beads",
+      "source": "subsy/ralph-tui",
+      "installs": 273,
+      "link": "https://skills.sh/i/subsy/ralph-tui"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/schema-markup",
+      "title": "schema-markup",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 271,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "anthropics/skills/canvas-design",
+      "title": "canvas-design",
+      "source": "anthropics/skills",
+      "installs": 269,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/analytics-tracking",
+      "title": "analytics-tracking",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 268,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/onboarding-cro",
+      "title": "onboarding-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 267,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "subsy/ralph-tui/ralph-tui-create-beads-rust",
+      "title": "ralph-tui-create-beads-rust",
+      "source": "subsy/ralph-tui",
+      "installs": 266,
+      "link": "https://skills.sh/i/subsy/ralph-tui"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/competitor-alternatives",
+      "title": "competitor-alternatives",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 265,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/page-cro",
+      "title": "page-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 265,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "obra/superpowers/systematic-debugging",
+      "title": "systematic-debugging",
+      "source": "obra/superpowers",
+      "installs": 263,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paid-ads",
+      "title": "paid-ads",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 254,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "callstackincubator/agent-skills/react-native-best-practices",
+      "title": "react-native-best-practices",
+      "source": "callstackincubator/agent-skills",
+      "installs": 250,
+      "link": "https://skills.sh/i/callstackincubator/agent-skills"
+    },
+    {
+      "id": "expo/skills/native-data-fetching",
+      "title": "native-data-fetching",
+      "source": "expo/skills",
+      "installs": 249,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/email-sequence",
+      "title": "email-sequence",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 244,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/signup-flow-cro",
+      "title": "signup-flow-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 243,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/upgrading-expo",
+      "title": "upgrading-expo",
+      "source": "expo/skills",
+      "installs": 236,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paywall-upgrade-cro",
+      "title": "paywall-upgrade-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 236,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/free-tool-strategy",
+      "title": "free-tool-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 236,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/form-cro",
+      "title": "form-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 229,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/referral-program",
+      "title": "referral-program",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 227,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    }
+  ],
+  "topHot": [
+    {
+      "id": "vercel-labs/agent-skills/vercel-react-best-practices",
+      "title": "vercel-react-best-practices",
+      "source": "vercel-labs/agent-skills",
+      "installs": 294,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "vercel-labs/agent-skills/web-design-guidelines",
+      "title": "web-design-guidelines",
+      "source": "vercel-labs/agent-skills",
+      "installs": 206,
+      "link": "https://skills.sh/i/vercel-labs/agent-skills"
+    },
+    {
+      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "title": "ui-ux-pro-max",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": 51,
+      "link": "https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "id": "vercel-labs/agent-browser/agent-browser",
+      "title": "agent-browser",
+      "source": "vercel-labs/agent-browser",
+      "installs": 93,
+      "link": "https://skills.sh/i/vercel-labs/agent-browser"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/seo-audit",
+      "title": "seo-audit",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 53,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/upgrading-expo",
+      "title": "upgrading-expo",
+      "source": "expo/skills",
+      "installs": 19,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-deployment",
+      "title": "expo-deployment",
+      "source": "expo/skills",
+      "installs": 18,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/social-content",
+      "title": "social-content",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 21,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "callstackincubator/agent-skills/react-native-best-practices",
+      "title": "react-native-best-practices",
+      "source": "callstackincubator/agent-skills",
+      "installs": 20,
+      "link": "https://skills.sh/i/callstackincubator/agent-skills"
+    },
+    {
+      "id": "expo/skills/native-data-fetching",
+      "title": "native-data-fetching",
+      "source": "expo/skills",
+      "installs": 18,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-dev-client",
+      "title": "expo-dev-client",
+      "source": "expo/skills",
+      "installs": 17,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "anthropics/skills/skill-creator",
+      "title": "skill-creator",
+      "source": "anthropics/skills",
+      "installs": 69,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "expo/skills/building-native-ui",
+      "title": "building-native-ui",
+      "source": "expo/skills",
+      "installs": 24,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "expo/skills/expo-cicd-workflows",
+      "title": "expo-cicd-workflows",
+      "source": "expo/skills",
+      "installs": 14,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-psychology",
+      "title": "marketing-psychology",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 30,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/launch-strategy",
+      "title": "launch-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 17,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/onboarding-cro",
+      "title": "onboarding-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 16,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/page-cro",
+      "title": "page-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 15,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/signup-flow-cro",
+      "title": "signup-flow-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 13,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/use-dom",
+      "title": "use-dom",
+      "source": "expo/skills",
+      "installs": 13,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paywall-upgrade-cro",
+      "title": "paywall-upgrade-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 12,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "brianlovin/claude-config/simplify",
+      "title": "simplify",
+      "source": "brianlovin/claude-config",
+      "installs": 10,
+      "link": "https://skills.sh/i/brianlovin/claude-config"
+    },
+    {
+      "id": "expo/skills/expo-tailwind-setup",
+      "title": "expo-tailwind-setup",
+      "source": "expo/skills",
+      "installs": 20,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/programmatic-seo",
+      "title": "programmatic-seo",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 17,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/competitor-alternatives",
+      "title": "competitor-alternatives",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 16,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "kadajett/agent-nestjs-skills/nestjs-best-practices",
+      "title": "nestjs-best-practices",
+      "source": "kadajett/agent-nestjs-skills",
+      "installs": 14,
+      "link": "https://skills.sh/i/kadajett/agent-nestjs-skills"
+    },
+    {
+      "id": "better-auth/skills/create-auth-skill",
+      "title": "create-auth-skill",
+      "source": "better-auth/skills",
+      "installs": 12,
+      "link": "https://skills.sh/i/better-auth/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/referral-program",
+      "title": "referral-program",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 11,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "expo/skills/expo-api-routes",
+      "title": "expo-api-routes",
+      "source": "expo/skills",
+      "installs": 15,
+      "link": "https://skills.sh/i/expo/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/free-tool-strategy",
+      "title": "free-tool-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 12,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "jezweb/claude-skills/tanstack-query",
+      "title": "tanstack-query",
+      "source": "jezweb/claude-skills",
+      "installs": 11,
+      "link": "https://skills.sh/i/jezweb/claude-skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/pricing-strategy",
+      "title": "pricing-strategy",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 17,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/marketing-ideas",
+      "title": "marketing-ideas",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 16,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copy-editing",
+      "title": "copy-editing",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 13,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "obra/superpowers/test-driven-development",
+      "title": "test-driven-development",
+      "source": "obra/superpowers",
+      "installs": 13,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/copywriting",
+      "title": "copywriting",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 29,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "obra/superpowers/brainstorming",
+      "title": "brainstorming",
+      "source": "obra/superpowers",
+      "installs": 26,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "anthropics/skills/pptx",
+      "title": "pptx",
+      "source": "anthropics/skills",
+      "installs": 17,
+      "link": "https://skills.sh/i/anthropics/skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/email-sequence",
+      "title": "email-sequence",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 12,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "hyf0/vue-skills/vue-best-practices",
+      "title": "vue-best-practices",
+      "source": "hyf0/vue-skills",
+      "installs": 11,
+      "link": "https://skills.sh/i/hyf0/vue-skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/form-cro",
+      "title": "form-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 9,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/ab-test-setup",
+      "title": "ab-test-setup",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 9,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "wshobson/agents/python-performance-optimization",
+      "title": "python-performance-optimization",
+      "source": "wshobson/agents",
+      "installs": 7,
+      "link": "https://skills.sh/i/wshobson/agents"
+    },
+    {
+      "id": "vueuse/skills/vueuse-functions",
+      "title": "vueuse-functions",
+      "source": "vueuse/skills",
+      "installs": 4,
+      "link": "https://skills.sh/i/vueuse/skills"
+    },
+    {
+      "id": "supabase/agent-skills/supabase-postgres-best-practices",
+      "title": "supabase-postgres-best-practices",
+      "source": "supabase/agent-skills",
+      "installs": 45,
+      "link": "https://skills.sh/i/supabase/agent-skills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/paid-ads",
+      "title": "paid-ads",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 10,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "coreyhaines31/marketingskills/popup-cro",
+      "title": "popup-cro",
+      "source": "coreyhaines31/marketingskills",
+      "installs": 10,
+      "link": "https://skills.sh/i/coreyhaines31/marketingskills"
+    },
+    {
+      "id": "benjitaylor/agentation/agentation",
+      "title": "agentation",
+      "source": "benjitaylor/agentation",
+      "installs": 10,
+      "link": "https://skills.sh/i/benjitaylor/agentation"
+    },
+    {
+      "id": "obra/superpowers/requesting-code-review",
+      "title": "requesting-code-review",
+      "source": "obra/superpowers",
+      "installs": 7,
+      "link": "https://skills.sh/i/obra/superpowers"
+    },
+    {
+      "id": "boristane/agent-skills/logging-best-practices",
+      "title": "logging-best-practices",
+      "source": "boristane/agent-skills",
+      "installs": 6,
+      "link": "https://skills.sh/i/boristane/agent-skills"
+    }
+  ]
+}
