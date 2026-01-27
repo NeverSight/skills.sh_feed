@@ -4,509 +4,509 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Tue, 27 Jan 2026 04:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 04:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[[All Time] New entry (#7): find-skills]]></title>
-            <link>https://skills.sh/i/vercel-labs/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topAllTime:new:vercel-labs/skills/find-skills</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
+            <title><![CDATA[[All Time] New entry (#1): vercel-react-best-practices]]></title>
+            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:vercel-labs/agent-skills/vercel-react-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
             <description><![CDATA[New entry in All Time leaderboard.
-Rank: #7
-Installs: 5665
-Source: vercel-labs/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#1): find-skills]]></title>
-            <link>https://skills.sh/i/vercel-labs/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/skills/find-skills</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
 Rank: #1
-Installs: 732
-Source: vercel-labs/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#11): tailwind-design-system]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/tailwind-design-system</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #11
-Installs: 22
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#12): rivetkit-client-javascript]]></title>
-            <link>https://skills.sh/i/rivet-dev/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:rivet-dev/skills/rivetkit-client-javascript</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #12
-Installs: 13
-Source: rivet-dev/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#13): rivetkit-client-swiftui]]></title>
-            <link>https://skills.sh/i/rivet-dev/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:rivet-dev/skills/rivetkit-client-swiftui</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #13
-Installs: 13
-Source: rivet-dev/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#14): content-strategy]]></title>
-            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:coreyhaines31/marketingskills/content-strategy</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #14
-Installs: 13
-Source: coreyhaines31/marketingskills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#15): rivetkit-client-react]]></title>
-            <link>https://skills.sh/i/rivet-dev/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:rivet-dev/skills/rivetkit-client-react</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #15
-Installs: 13
-Source: rivet-dev/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#16): rivetkit-client-swift]]></title>
-            <link>https://skills.sh/i/rivet-dev/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:rivet-dev/skills/rivetkit-client-swift</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #16
-Installs: 13
-Source: rivet-dev/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#17): rivetkit]]></title>
-            <link>https://skills.sh/i/rivet-dev/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:rivet-dev/skills/rivetkit</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #17
-Installs: 13
-Source: rivet-dev/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#18): product-marketing-context]]></title>
-            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:coreyhaines31/marketingskills/product-marketing-context</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #18
-Installs: 13
-Source: coreyhaines31/marketingskills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#2): vercel-composition-patterns]]></title>
-            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/agent-skills/vercel-composition-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #2
-Installs: 115
+Installs: 52857
 Source: vercel-labs/agent-skills]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#21): baoyu-cover-image]]></title>
-            <link>https://skills.sh/i/jimliu/baoyu-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:jimliu/baoyu-skills/baoyu-cover-image</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #21
-Installs: 23
-Source: jimliu/baoyu-skills]]></description>
+            <title><![CDATA[[All Time] New entry (#10): supabase-postgres-best-practices]]></title>
+            <link>https://skills.sh/i/supabase/agent-skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:supabase/agent-skills/supabase-postgres-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #10
+Installs: 4843
+Source: supabase/agent-skills]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#22): ai-sdk]]></title>
-            <link>https://skills.sh/i/vercel/ai</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel/ai/ai-sdk</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #22
-Installs: 15
-Source: vercel/ai]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#23): sql-optimization-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/sql-optimization-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #23
-Installs: 14
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#24): atxp]]></title>
-            <link>https://skills.sh/i/atxp-dev/cli</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:atxp-dev/cli/atxp</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #24
-Installs: 11
-Source: atxp-dev/cli]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#25): responsive-design]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/responsive-design</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #25
-Installs: 14
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#28): api-design-principles]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/api-design-principles</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #28
-Installs: 14
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#29): shadcn-ui]]></title>
-            <link>https://skills.sh/i/giuseppe-trisciuoglio/developer-kit</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:giuseppe-trisciuoglio/developer-kit/shadcn-ui</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #29
-Installs: 14
-Source: giuseppe-trisciuoglio/developer-kit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#3): vercel-react-native-skills]]></title>
-            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/agent-skills/vercel-react-native-skills</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #3
-Installs: 69
-Source: vercel-labs/agent-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#30): architecture-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/architecture-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #30
-Installs: 13
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#31): react-state-management]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/react-state-management</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #31
-Installs: 11
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#32): langchain-architecture]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/langchain-architecture</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #32
-Installs: 9
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#33): terraform-module-library]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/terraform-module-library</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #33
-Installs: 9
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#35): analytics-tracking]]></title>
-            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:coreyhaines31/marketingskills/analytics-tracking</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #35
-Installs: 15
-Source: coreyhaines31/marketingskills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#36): typescript-advanced-types]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/typescript-advanced-types</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #36
-Installs: 13
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#37): postgresql-table-design]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/postgresql-table-design</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #37
-Installs: 12
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#38): e2e-testing-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/e2e-testing-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #38
-Installs: 10
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#39): async-python-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/async-python-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #39
-Installs: 10
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#4): next-best-practices]]></title>
-            <link>https://skills.sh/i/vercel-labs/next-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/next-skills/next-best-practices</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #4
-Installs: 38
-Source: vercel-labs/next-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#40): git-advanced-workflows]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/git-advanced-workflows</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #40
-Installs: 9
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#41): visual-design-foundations]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/visual-design-foundations</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #41
-Installs: 9
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#42): react-native-design]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/react-native-design</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #42
-Installs: 9
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#43): defi-protocol-templates]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/defi-protocol-templates</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #43
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#44): market-sizing-analysis]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/market-sizing-analysis</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #44
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#45): rag-implementation]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/rag-implementation</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #45
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#46): shellcheck-configuration]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/shellcheck-configuration</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #46
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#47): gitlab-ci-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/gitlab-ci-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #47
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#48): similarity-search-patterns]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/similarity-search-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #48
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#49): k8s-security-policies]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/k8s-security-policies</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #49
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#5): browser-use]]></title>
-            <link>https://skills.sh/i/browser-use/browser-use</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:browser-use/browser-use/browser-use</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #5
-Installs: 36
-Source: browser-use/browser-use]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#50): billing-automation]]></title>
-            <link>https://skills.sh/i/wshobson/agents</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:wshobson/agents/billing-automation</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #50
-Installs: 8
-Source: wshobson/agents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#7): audit-website]]></title>
-            <link>https://skills.sh/i/squirrelscan/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:squirrelscan/skills/audit-website</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #7
-Installs: 56
-Source: squirrelscan/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#8): next-cache-components]]></title>
-            <link>https://skills.sh/i/vercel-labs/next-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/next-skills/next-cache-components</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #8
-Installs: 19
-Source: vercel-labs/next-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#9): next-upgrade]]></title>
-            <link>https://skills.sh/i/vercel-labs/next-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topHot:new:vercel-labs/next-skills/next-upgrade</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #9
-Installs: 17
-Source: vercel-labs/next-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#1): find-skills]]></title>
-            <link>https://skills.sh/i/vercel-labs/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:vercel-labs/skills/find-skills</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #1
-Installs: 5633
-Source: vercel-labs/skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#12): vercel-composition-patterns]]></title>
-            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:vercel-labs/agent-skills/vercel-composition-patterns</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #12
-Installs: 751
-Source: vercel-labs/agent-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#18): vercel-react-native-skills]]></title>
-            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:vercel-labs/agent-skills/vercel-react-native-skills</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #18
-Installs: 480
-Source: vercel-labs/agent-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#21): vue-best-practices]]></title>
-            <link>https://skills.sh/i/hyf0/vue-skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:hyf0/vue-skills/vue-best-practices</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #21
-Installs: 465
-Source: hyf0/vue-skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#36): expo-tailwind-setup]]></title>
+            <title><![CDATA[[All Time] New entry (#11): building-native-ui]]></title>
             <link>https://skills.sh/i/expo/skills</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:expo/skills/expo-tailwind-setup</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #36
-Installs: 308
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/building-native-ui</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #11
+Installs: 4264
 Source: expo/skills]]></description>
         </item>
         <item>
-            <title><![CDATA[[Trending] New entry (#37): test-driven-development]]></title>
+            <title><![CDATA[[All Time] New entry (#12): better-auth-best-practices]]></title>
+            <link>https://skills.sh/i/better-auth/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:better-auth/skills/better-auth-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #12
+Installs: 3954
+Source: better-auth/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#13): copywriting]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/copywriting</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #13
+Installs: 3943
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#14): ui-ux-pro-max]]></title>
+            <link>https://skills.sh/i/nextlevelbuilder/ui-ux-pro-max-skill</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #14
+Installs: 3444
+Source: nextlevelbuilder/ui-ux-pro-max-skill]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#15): upgrading-expo]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/upgrading-expo</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #15
+Installs: 3114
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#16): marketing-psychology]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/marketing-psychology</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #16
+Installs: 3076
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#17): pdf]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/pdf</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #17
+Installs: 3059
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#18): native-data-fetching]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/native-data-fetching</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #18
+Installs: 3046
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#19): expo-dev-client]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/expo-dev-client</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #19
+Installs: 2752
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#2): web-design-guidelines]]></title>
+            <link>https://skills.sh/i/vercel-labs/agent-skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:vercel-labs/agent-skills/web-design-guidelines</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #2
+Installs: 40020
+Source: vercel-labs/agent-skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#20): expo-deployment]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/expo-deployment</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #20
+Installs: 2659
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#21): expo-tailwind-setup]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/expo-tailwind-setup</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #21
+Installs: 2625
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#22): brainstorming]]></title>
             <link>https://skills.sh/i/obra/superpowers</link>
-            <guid isPermaLink="false">2026-01-27T04:30:30.882Z:topTrending:new:obra/superpowers/test-driven-development</guid>
-            <pubDate>Tue, 27 Jan 2026 04:30:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #37
-Installs: 308
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:obra/superpowers/brainstorming</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #22
+Installs: 2616
 Source: obra/superpowers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#23): expo-api-routes]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/expo-api-routes</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #23
+Installs: 2609
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#24): react-native-best-practices]]></title>
+            <link>https://skills.sh/i/callstackincubator/agent-skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:callstackincubator/agent-skills/react-native-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #24
+Installs: 2598
+Source: callstackincubator/agent-skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#25): programmatic-seo]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/programmatic-seo</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #25
+Installs: 2578
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#26): pptx]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/pptx</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #26
+Installs: 2459
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#27): marketing-ideas]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/marketing-ideas</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #27
+Installs: 2439
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#28): xlsx]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/xlsx</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #28
+Installs: 2398
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#29): expo-cicd-workflows]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/expo-cicd-workflows</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #29
+Installs: 2354
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#3): remotion-best-practices]]></title>
+            <link>https://skills.sh/i/remotion-dev/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:remotion-dev/skills/remotion-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #3
+Installs: 36927
+Source: remotion-dev/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#30): use-dom]]></title>
+            <link>https://skills.sh/i/expo/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:expo/skills/use-dom</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #30
+Installs: 2316
+Source: expo/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#31): pricing-strategy]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/pricing-strategy</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #31
+Installs: 2292
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#32): docx]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/docx</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #32
+Installs: 2268
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#33): social-content]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/social-content</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #33
+Installs: 2255
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#34): webapp-testing]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/webapp-testing</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #34
+Installs: 2177
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#35): copy-editing]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/copy-editing</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #35
+Installs: 2162
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#36): vue-best-practices]]></title>
+            <link>https://skills.sh/i/hyf0/vue-skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:hyf0/vue-skills/vue-best-practices</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #36
+Installs: 2142
+Source: hyf0/vue-skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#37): mcp-builder]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/mcp-builder</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #37
+Installs: 2085
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#38): launch-strategy]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/launch-strategy</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #38
+Installs: 2055
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#39): page-cro]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/page-cro</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #39
+Installs: 2015
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#4): frontend-design]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/frontend-design</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #4
+Installs: 16773
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#40): onboarding-cro]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/onboarding-cro</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #40
+Installs: 1985
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#41): analytics-tracking]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/analytics-tracking</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #41
+Installs: 1981
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#42): competitor-alternatives]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/competitor-alternatives</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #42
+Installs: 1937
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#43): schema-markup]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/schema-markup</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #43
+Installs: 1927
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#44): email-sequence]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/email-sequence</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #44
+Installs: 1844
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#45): paid-ads]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/paid-ads</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #45
+Installs: 1838
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#46): canvas-design]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/canvas-design</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #46
+Installs: 1819
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#47): signup-flow-cro]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/signup-flow-cro</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #47
+Installs: 1786
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#48): free-tool-strategy]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/free-tool-strategy</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #48
+Installs: 1776
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#49): systematic-debugging]]></title>
+            <link>https://skills.sh/i/obra/superpowers</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:obra/superpowers/systematic-debugging</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #49
+Installs: 1757
+Source: obra/superpowers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#5): agent-browser]]></title>
+            <link>https://skills.sh/i/vercel-labs/agent-browser</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:vercel-labs/agent-browser/agent-browser</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #5
+Installs: 8107
+Source: vercel-labs/agent-browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#50): paywall-upgrade-cro]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/paywall-upgrade-cro</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #50
+Installs: 1732
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#6): skill-creator]]></title>
+            <link>https://skills.sh/i/anthropics/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:anthropics/skills/skill-creator</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #6
+Installs: 7962
+Source: anthropics/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#7): find-skills]]></title>
+            <link>https://skills.sh/i/vercel-labs/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:vercel-labs/skills/find-skills</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #7
+Installs: 5748
+Source: vercel-labs/skills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#8): seo-audit]]></title>
+            <link>https://skills.sh/i/coreyhaines31/marketingskills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:coreyhaines31/marketingskills/seo-audit</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #8
+Installs: 5101
+Source: coreyhaines31/marketingskills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] New entry (#9): audit-website]]></title>
+            <link>https://skills.sh/i/squirrelscan/skills</link>
+            <guid isPermaLink="false">2026-01-27T04:39:27.374Z:topAllTime:new:squirrelscan/skills/audit-website</guid>
+            <pubDate>Tue, 27 Jan 2026 04:39:27 GMT</pubDate>
+            <description><![CDATA[New entry in All Time leaderboard.
+Rank: #9
+Installs: 4918
+Source: squirrelscan/skills]]></description>
         </item>
     </channel>
 </rss>
