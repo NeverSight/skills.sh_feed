@@ -14,6 +14,7 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     
     permissions:
       contents: write
@@ -39,7 +40,7 @@ jobs:
           # Keep backfilling SKILL.md until complete (batched to avoid timeouts).
           SYNC_ALL_SKILL_MDS: "1"
           SYNC_ALL_ONLY_MISSING: "1"
-          SYNC_ALL_MAX: "500"
+          # No cap: try to fetch everything missing in one run.
       
       - name: Commit data updates
         run: |
