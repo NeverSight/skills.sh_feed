@@ -440,52 +440,82 @@ async function syncAllSkillMds(data: SkillsData) {
   const timeBudgetMinutes = process.env.SYNC_ALL_TIME_BUDGET_MINUTES
     ? Number(process.env.SYNC_ALL_TIME_BUDGET_MINUTES)
     : Number.POSITIVE_INFINITY;
+  const concurrency = process.env.SYNC_ALL_CONCURRENCY ? Number(process.env.SYNC_ALL_CONCURRENCY) : 8;
   const startMs = Date.now();
 
-  const unique = new Map<string, { source: string; skillId: string }>();
+  // Prioritize by installs (descending), so popular skills are fetched first.
+  // allTime is the best canonical installs source for the full dataset.
+  const installsAllTimeById = new Map<string, number>();
+  for (const s of data.allTime) installsAllTimeById.set(`${s.source}/${s.skillId}`, s.installs);
+
+  const unique = new Map<string, { source: string; skillId: string; priority: number }>();
   const all = [...data.allTime, ...data.trending, ...data.hot];
-  for (const s of all) unique.set(`${s.source}/${s.skillId}`, { source: s.source, skillId: s.skillId });
+  for (const s of all) {
+    const id = `${s.source}/${s.skillId}`;
+    const priority = installsAllTimeById.get(id) ?? s.installs ?? 0;
+    const existing = unique.get(id);
+    if (!existing || priority > existing.priority) {
+      unique.set(id, { source: s.source, skillId: s.skillId, priority });
+    }
+  }
 
   const list = Array.from(unique.values()).sort((a, b) => {
+    if (b.priority !== a.priority) return b.priority - a.priority;
     const ka = `${a.source}/${a.skillId}`;
     const kb = `${b.source}/${b.skillId}`;
     return ka.localeCompare(kb);
   });
 
   console.log(
-    `\nSYNC_ALL_SKILL_MDS=1: syncing SKILL.md for ${list.length} skills (onlyMissing=${onlyMissing}, max=${Number.isFinite(maxToFetch) ? maxToFetch : '∞'}, timeBudgetMinutes=${Number.isFinite(timeBudgetMinutes) ? timeBudgetMinutes : '∞'})...`,
+    `\nSYNC_ALL_SKILL_MDS=1: syncing SKILL.md for ${list.length} skills (onlyMissing=${onlyMissing}, max=${Number.isFinite(maxToFetch) ? maxToFetch : '∞'}, timeBudgetMinutes=${Number.isFinite(timeBudgetMinutes) ? timeBudgetMinutes : '∞'}, concurrency=${concurrency})...`,
   );
 
   const prev = readProgress();
   const progress: SyncProgress = prev ?? { updatedAt: new Date().toISOString(), attempted: 0, fetched: 0, missing: 0 };
 
   let fetchedThisRun = 0;
+  let stop = false;
+  let nextIndex = 0;
 
-  for (const { source, skillId } of list) {
-    if (fetchedThisRun >= maxToFetch) break;
-    if (Number.isFinite(timeBudgetMinutes)) {
-      const elapsedMinutes = (Date.now() - startMs) / 1000 / 60;
-      if (elapsedMinutes >= timeBudgetMinutes) break;
+  const workers = Array.from({ length: Math.max(1, concurrency) }, async () => {
+    while (!stop) {
+      if (fetchedThisRun >= maxToFetch) {
+        stop = true;
+        break;
+      }
+      if (Number.isFinite(timeBudgetMinutes)) {
+        const elapsedMinutes = (Date.now() - startMs) / 1000 / 60;
+        if (elapsedMinutes >= timeBudgetMinutes) {
+          stop = true;
+          break;
+        }
+      }
+
+      const idx = nextIndex++;
+      if (idx >= list.length) break;
+
+      const { source, skillId } = list[idx];
+      const targetPath = localSkillMdPath(source, skillId);
+      if (onlyMissing && existsSync(targetPath)) continue;
+
+      progress.attempted += 1;
+      const cached = await ensureSkillMdCached(source, skillId);
+      if (cached) {
+        progress.fetched += 1;
+        fetchedThisRun += 1;
+      } else {
+        progress.missing += 1;
+      }
+
+      // Persist progress periodically so long runs are resumable.
+      if (progress.attempted % 50 === 0) {
+        progress.updatedAt = new Date().toISOString();
+        writeProgress(progress);
+      }
     }
+  });
 
-    const targetPath = localSkillMdPath(source, skillId);
-    if (onlyMissing && existsSync(targetPath)) continue;
-
-    progress.attempted += 1;
-    const cached = await ensureSkillMdCached(source, skillId);
-    if (cached) {
-      progress.fetched += 1;
-      fetchedThisRun += 1;
-    } else {
-      progress.missing += 1;
-    }
-
-    // Persist progress periodically so long runs are resumable.
-    if (progress.attempted % 50 === 0) {
-      progress.updatedAt = new Date().toISOString();
-      writeProgress(progress);
-    }
-  }
+  await Promise.all(workers);
 
   progress.updatedAt = new Date().toISOString();
   writeProgress(progress);

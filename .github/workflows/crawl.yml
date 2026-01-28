@@ -43,6 +43,8 @@ jobs:
           SYNC_ALL_ONLY_MISSING: "1"
           # Keep each run comfortably below the GitHub job time limit.
           SYNC_ALL_TIME_BUDGET_MINUTES: "330"
+          # Speed up backfill while keeping load reasonable.
+          SYNC_ALL_CONCURRENCY: "8"
       
       - name: Commit data updates
         run: |
