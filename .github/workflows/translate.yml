@@ -11,9 +11,18 @@ on:
         required: false
         default: '0'
 
+# 避免同时运行多个翻译任务
+concurrency:
+  group: translate-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   translate:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -43,7 +52,20 @@ jobs:
           # 检查是否有变更
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore: auto-translate description_en.txt to description_cn.txt"
-            git push
+            exit 0
           fi
+          
+          git commit -m "chore: auto-translate description_en.txt to description_cn.txt"
+          
+          # 先拉取最新代码，rebase 避免冲突
+          git fetch origin main
+          git rebase origin/main || (git rebase --abort && git reset --soft origin/main)
+          
+          # 重试 push，处理并发情况
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push failed, retrying ($i/5)..."
+            git fetch origin main
+            git rebase origin/main || (git rebase --abort && git reset --soft origin/main)
+            sleep $((i * 2))
+          done
