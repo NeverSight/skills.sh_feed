@@ -1,0 +1,1 @@
+在 Next.js 中使用 mcp-handler、共享 Zod schema 和可复用服务端动作构建 MCP 服务器的模式。

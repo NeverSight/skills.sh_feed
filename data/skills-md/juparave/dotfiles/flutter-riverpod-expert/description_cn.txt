@@ -1,0 +1,1 @@
+Flutter Riverpod 状态管理专家知识（2025 最佳实践）。在处理 Riverpod、Flutter 状态管理、AsyncNotifier、provider 类型、使用 riverpod_generator 的代码生成、状态同步，或用户提到 Flutter 应用中的数据获取、变更、响应式状态、性能优化或测试时使用。涵盖 AsyncNotifierProvider 模式、仓库架构、autoDispose、family provider 和常见反模式。

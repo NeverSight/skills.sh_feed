@@ -1,0 +1,1 @@
+在用户询问"Effect Match"、"模式匹配"、"Match.type"、"Match.tag"、"Match.when"、"Schema.is()"、"Schema.is with Match"、"穷尽匹配"、"判别联合"、"Match.value"、"将 switch 转换为 Match"、"将 if/else 转换为 Match"、"TaggedClass with Match"，或需要理解 Effect 如何提供类型安全的穷尽模式匹配时使用。

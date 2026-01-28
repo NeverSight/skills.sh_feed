@@ -1,0 +1,1 @@
+在用户询问"@effect/platform"、"Effect HTTP 客户端"、"Effect HTTP 服务器"、"FileSystem"、"KeyValueStore"、"Terminal"、"平台服务"、"HttpClient"、"HttpServer"、"Effect 文件操作"、"Effect 网络"，或需要理解 Effect 的跨平台 I/O 能力时使用。

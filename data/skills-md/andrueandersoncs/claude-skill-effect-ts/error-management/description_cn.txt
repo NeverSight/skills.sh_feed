@@ -1,0 +1,1 @@
+在用户询问"Effect 错误"、"类型化错误"、"错误处理"、"Effect.catchAll"、"Effect.catchTag"、"Effect.mapError"、"Effect.orElse"、"错误累积"、"缺陷 vs 错误"、"预期错误"、"意外错误"、"沙箱"、"重试"、"超时"、"Effect.cause"、"TaggedError"、"Schema.TaggedError"，或需要理解 Effect 如何处理错误通道中的失败时使用。

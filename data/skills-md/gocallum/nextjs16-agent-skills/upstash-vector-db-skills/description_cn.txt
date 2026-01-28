@@ -1,0 +1,1 @@
+Upstash Vector DB 设置、语义搜索、命名空间和嵌入模型（首选 MixBread）。在 Vercel 上构建向量搜索功能时使用。

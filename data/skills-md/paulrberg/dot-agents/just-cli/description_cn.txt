@@ -1,0 +1,1 @@
+在用户要求"创建 justfile"、"编写 just 配方"、"配置 just 设置"、"添加 just 模块"、"使用 just 属性"、"设置任务自动化"、提到 justfile、just 命令运行器或使用 just 的任务自动化时使用。

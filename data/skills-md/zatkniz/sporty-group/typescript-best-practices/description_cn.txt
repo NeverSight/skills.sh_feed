@@ -1,0 +1,1 @@
+强制执行严格的 TypeScript 标准，包括 app/types/ 中的集中类型定义、仅使用箭头函数、显式返回类型和所有组件中的 lang="ts"。在审查或创建 TypeScript 代码时使用。

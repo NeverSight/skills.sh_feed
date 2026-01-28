@@ -1,0 +1,1 @@
+创建带 React 组件、路由注册、导航菜单和 GraphQL 集成的 Vendure Admin UI 扩展。处理 useQuery、useMutation、useInjector 模式。在为 Vendure 插件构建 Admin UI 功能时使用。

@@ -1,0 +1,1 @@
+在关键生命周期点编排质量检查：编辑前、编辑后和完成前。协调子技能（test-augmentation、doc-sync、coding-standards、security-review）确保一致的代码质量。在进行重大代码变更或完成任务前使用。

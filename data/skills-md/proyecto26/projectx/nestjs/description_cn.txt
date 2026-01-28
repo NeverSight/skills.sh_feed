@@ -1,0 +1,1 @@
+NestJS 微服务开发。在创建控制器、服务、模块、守卫、拦截器或在 auth、order 或 product 服务中使用 NestJS 模式时使用。

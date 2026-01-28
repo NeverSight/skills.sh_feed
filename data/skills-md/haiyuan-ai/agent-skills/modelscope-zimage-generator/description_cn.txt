@@ -1,0 +1,1 @@
+使用 ModelScope Z-Image 模型（Z-Image-Turbo、Z-Image-Base、Z-Image-Edit）生成图像。在用户要求生成图像、创建艺术作品或请求图像生成功能时使用。支持带轮询的异步生成和可选的 LoRA 配置。

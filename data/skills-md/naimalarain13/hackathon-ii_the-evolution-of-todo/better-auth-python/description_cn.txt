@@ -1,0 +1,1 @@
+用于 Python/FastAPI 后端的 Better Auth JWT 验证。在将 Python API 通过 JWT 令牌与 Better Auth TypeScript 服务器集成时使用。涵盖 JWKS 验证、FastAPI 依赖项、SQLModel/SQLAlchemy 集成和受保护路由。

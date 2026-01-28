@@ -1,0 +1,13 @@
+Typst 学术论文助手（支持中英文论文、会议/期刊投稿）。
+领域：深度学习、时间序列、工业控制、计算机科学。
+
+触发词（可独立调用任意模块）：
+- "compile", "编译", "typst compile" → 编译模块
+- "format", "格式检查", "lint" → 格式检查模块
+- "grammar", "语法", "proofread", "润色" → 语法分析模块
+- "long sentence", "长句", "simplify", "拆解" → 长难句分析模块
+- "academic tone", "学术表达", "improve writing" → 学术表达模块
+- "translate", "翻译", "中译英" → 翻译模块
+- "bib", "bibliography", "参考文献" → 参考文献模块
+- "deai", "去AI化", "humanize", "降低AI痕迹" → 去AI化编辑模块
+- "template", "模板", "IEEE", "ACM" → 模板配置模块

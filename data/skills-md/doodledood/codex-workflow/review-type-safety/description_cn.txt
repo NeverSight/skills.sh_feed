@@ -1,0 +1,1 @@
+审计 TypeScript/类型化代码的类型安全问题。识别 any 滥用、缺失的类型守卫，以及让无效状态不可表示的机会。只读。触发词：review types、类型安全、检查类型、typescript 审查。

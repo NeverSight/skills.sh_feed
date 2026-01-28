@@ -1,0 +1,1 @@
+使用官方 Python SDK 构建 MCP（模型上下文协议）服务器。涵盖 FastMCP 高级 API 及 @mcp.tool()、@mcp.resource()、@mcp.prompt() 装饰器、FastAPI/Starlette 集成、传输（stdio、SSE、streamable-http）和数据库集成。

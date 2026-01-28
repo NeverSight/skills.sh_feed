@@ -1,0 +1,1 @@
+通过 MCP 协议集成 Resend 邮件服务，让 AI 代理通过 Claude Desktop、GitHub Copilot 和 Cursor 发送邮件。设置事务性和营销邮件，配置发件人验证，并使用 AI 自动化邮件工作流。

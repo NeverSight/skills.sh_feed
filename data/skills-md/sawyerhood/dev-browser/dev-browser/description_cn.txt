@@ -1,0 +1,1 @@
+带持久页面状态的浏览器自动化。在用户要求导航网站、填写表单、截图、提取网页数据、测试 Web 应用或自动化浏览器工作流时使用。触发短语包括"go to [url]"、"click on"、"fill out the form"、"take a screenshot"、"scrape"、"automate"、"test the website"、"log into"或任何浏览器交互请求。

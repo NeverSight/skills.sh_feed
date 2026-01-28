@@ -1,0 +1,1 @@
+在 SDK 生成失败或看到错误时使用。触发词："generation failed"、"speakeasy run failed"、"SDK build error"、"workflow failed"、"Step Failed"、"why did generation fail"

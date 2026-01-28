@@ -1,0 +1,1 @@
+在启动新 SDK 项目或首次 Speakeasy 设置时使用。触发词："create SDK"、"generate SDK"、"new SDK"、"quickstart"、"get started with Speakeasy"、"initialize SDK project"

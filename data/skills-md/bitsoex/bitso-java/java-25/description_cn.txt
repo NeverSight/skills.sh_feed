@@ -1,0 +1,1 @@
+将 Java 项目从 Java 21 升级到 Java 25，包含必需的依赖更新。需要 Gradle 9.x、Groovy 5.x 和更新的插件以保持兼容性。

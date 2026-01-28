@@ -1,0 +1,1 @@
+AI SDK 6 Beta 概述、代理、工具审批、Groq (Llama) 和 Vercel AI Gateway。来自 v5 的关键破坏性变更和新模式。

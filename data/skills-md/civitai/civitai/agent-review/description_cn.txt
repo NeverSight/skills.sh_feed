@@ -1,0 +1,1 @@
+获取外部代理审查和反馈。将 Anthropic 模型通过 Claude Agent SDK 路由（使用本地订阅），其他模型通过 OpenRouter API。用于代码审查、架构反馈或任何外部咨询。

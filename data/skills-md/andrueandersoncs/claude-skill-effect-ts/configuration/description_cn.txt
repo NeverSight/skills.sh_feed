@@ -1,0 +1,1 @@
+在用户询问"Effect Config"、"环境变量"、"配置管理"、"Config.string"、"Config.number"、"ConfigProvider"、"Config.nested"、"Config.withDefault"、"Config.redacted"、"敏感值"、"配置验证"、"从 JSON 加载配置"、"配置 schema"，或需要理解 Effect 如何处理应用程序配置时使用。

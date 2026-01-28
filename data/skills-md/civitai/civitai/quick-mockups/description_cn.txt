@@ -1,0 +1,1 @@
+并行创建多个 UI 设计原型。在被要求为功能创建原型、线框图或设计变体时使用。使用 Mantine v7 + Tailwind 按照 Civitai 设计系统创建 HTML 文件。

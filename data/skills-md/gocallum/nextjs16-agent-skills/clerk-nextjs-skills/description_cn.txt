@@ -1,0 +1,1 @@
+用于 Next.js 16（仅 App Router）的 Clerk 认证，包含 proxy.ts 设置、从 middleware.ts 迁移、环境配置和 MCP 服务器集成。

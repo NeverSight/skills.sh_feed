@@ -1,0 +1,1 @@
+从 claude-code-plugins vibe-workflow 同步技能到此 codex-workflow 仓库。将 Claude Code 功能适配为 Codex 等效功能。在 vibe-workflow 有更新需要同步时使用。

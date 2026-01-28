@@ -1,0 +1,1 @@
+在用户询问"Effect 最佳实践"、"Effect 代码风格"、"惯用 Effect"、"Schema 优先"、"Match 优先"、"何时使用 Schema"、"何时使用 Match"、"品牌类型"、"双 API"、"Effect 指南"、"do 表示法"、"Effect.gen"、"pipe vs 方法链"、"Effect 命名约定"、"Effect 项目结构"、"Effect 中的数据建模"，或需要理解惯用的 Effect-TS 模式和约定时使用。

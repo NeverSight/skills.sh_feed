@@ -1,0 +1,1 @@
+在用户询问"Effect Schedule"、"重试调度"、"重复"、"Schedule.exponential"、"Schedule.spaced"、"Schedule.recurs"、"cron 调度"、"退避策略"、"调度组合器"、"Effect.repeat"、"Effect.retry"、"轮询"，或需要理解 Effect 如何处理调度操作和重试策略时使用。

@@ -1,0 +1,1 @@
+使用 POMASA 模式语言生成声明式多代理系统（MAS）。在构建代理管道、编排多个 AI 代理或创建研究自动化工作流时使用。支持 Prompt-Defined Agent、Orchestrated Pipeline、Filesystem Data Bus 和 Verifiable Data Lineage 等模式。

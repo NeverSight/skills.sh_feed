@@ -1,0 +1,1 @@
+Next.js 16 的 App Router、服务端/客户端组件、proxy.ts 认证、数据获取、缓存和 React 服务端组件模式。在使用现代模式构建 Next.js 应用程序时使用。

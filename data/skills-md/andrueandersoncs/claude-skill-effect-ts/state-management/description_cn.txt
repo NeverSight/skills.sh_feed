@@ -1,0 +1,1 @@
+在用户询问"Effect Ref"、"可变状态"、"Ref.make"、"Ref.get"、"Ref.set"、"Ref.update"、"SubscriptionRef"、"SynchronizedRef"、"响应式状态"、"状态更新"、"并发状态"、"共享可变状态"，或需要理解 Effect 如何以函数式方式处理可变状态时使用。

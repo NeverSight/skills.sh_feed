@@ -1,0 +1,1 @@
+优化的Obsidian Markdown语法，专注于学习笔记的高效编写和知识管理。包含wikilinks、嵌入、提示框、属性等Obsidian特有语法，提升笔记可读性和知识连接性。

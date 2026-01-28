@@ -1,0 +1,1 @@
+根据任务规格为 Spring Boot Web 接口生成 HTTP 请求示例，并将其保存为 module-generate.md 目录中的 .http 文件

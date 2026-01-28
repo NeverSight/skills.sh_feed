@@ -1,0 +1,1 @@
+为使用带 NeoPixel 灯带和按钮控制的 Raspberry Pi Pico 的 Moving Rainbow LED 灯带教育项目生成 MicroPython 程序。

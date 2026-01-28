@@ -1,0 +1,1 @@
+在用户询问"Effect 资源"、"acquireRelease"、"Scope"、"终结器"、"资源清理"、"Effect.addFinalizer"、"Effect.ensuring"、"作用域 effect"、"资源生命周期"、"bracket 模式"、"安全资源处理"、"数据库连接"、"文件句柄"，或需要理解 Effect 如何保证资源清理时使用。

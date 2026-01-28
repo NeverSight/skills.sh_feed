@@ -1,0 +1,1 @@
+在用户询问"Effect Schema"、"Schema.Struct"、"Schema.decodeUnknown"、"数据验证"、"解析"、"Schema.transform"、"Schema 过滤器"、"Schema 注解"、"JSON Schema"、"Schema.Class"、"Schema 品牌类型"、"编码"、"解码"、"Schema.parseJson"，或需要理解 Effect 如何处理数据验证和转换时使用。

@@ -1,0 +1,1 @@
+创建和管理带自动环境设置的 git worktree。在 ../model-share-<branch> 创建 worktree，复制 .env，并运行 pnpm install。

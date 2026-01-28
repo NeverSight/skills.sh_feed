@@ -1,0 +1,1 @@
+Apollo GraphQL 开发最佳实践，包括 Apollo Client（React 钩子、缓存、错误处理）和 Apollo Server（schema 设计、resolver、context、插件）。在使用 Apollo 编写、审查或重构 GraphQL 代码、设置 Apollo Client/Server、实现查询/变更、配置缓存策略或处理 GraphQL 错误时使用。

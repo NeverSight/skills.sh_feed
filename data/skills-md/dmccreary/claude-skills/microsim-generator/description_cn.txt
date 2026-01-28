@@ -1,0 +1,1 @@
+使用最匹配的 JavaScript 库（p5.js、Chart.js、Plotly、Mermaid、vis-network、vis-timeline、Leaflet、Venn.js）创建交互式教育 MicroSim。分析用户需求以路由到适当的可视化类型，并生成完整的 MicroSim 包，包含 HTML、JavaScript、CSS、文档和元数据。

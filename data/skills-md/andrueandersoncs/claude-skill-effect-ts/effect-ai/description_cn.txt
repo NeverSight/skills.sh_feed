@@ -1,0 +1,1 @@
+在用户询问"Effect AI"、"@effect/ai"、"LLM 集成"、"AI 工具使用"、"AI 执行规划"、"构建 AI 代理"、"AI 提供者"、"结构化 AI 输出"、"AI 补全"、"Effect OpenAI"、"Effect Anthropic"，或需要理解 Effect 如何与 AI/LLM 服务集成时使用。

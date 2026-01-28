@@ -1,0 +1,1 @@
+使用基于严重程度的处理、依赖替换策略和依赖图验证修复 Java/Gradle 项目中的 Dependabot 安全漏洞。在 Dependabot 警告需要解决并进行正确 CI 验证时使用。

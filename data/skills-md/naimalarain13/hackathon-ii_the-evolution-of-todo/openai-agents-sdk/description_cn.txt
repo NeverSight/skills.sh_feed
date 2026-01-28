@@ -1,0 +1,1 @@
+使用带 MCP 服务器集成的 OpenAI Agents SDK 构建 AI 代理。通过 AsyncOpenAI 直接支持 Gemini 或通过 OpenRouter 支持非 OpenAI 模型。涵盖代理创建、函数工具、交接、MCP 服务器连接和对话管理。

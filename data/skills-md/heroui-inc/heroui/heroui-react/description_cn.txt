@@ -1,0 +1,1 @@
+HeroUI v3 React 组件库（Tailwind CSS v4 + React Aria）。在处理 HeroUI 组件、安装 HeroUI、自定义 HeroUI 主题或访问 HeroUI 组件文档时使用。关键词：HeroUI、Hero UI、heroui、@heroui/react、@heroui/styles。

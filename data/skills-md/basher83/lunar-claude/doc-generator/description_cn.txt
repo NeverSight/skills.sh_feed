@@ -1,0 +1,1 @@
+通过分析源文件、提取 docstring、类型提示和代码结构从 Python 代码库生成 markdown 文档。在用户要求文档化 Python 代码、创建 API 文档或从源代码生成 README 文件时使用。

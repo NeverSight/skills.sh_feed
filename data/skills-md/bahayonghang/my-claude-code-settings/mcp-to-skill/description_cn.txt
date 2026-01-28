@@ -1,0 +1,6 @@
+将 MCP（模型上下文协议）服务器转换为 Claude Code 技能。使用场景：
+(1) 用户想将 MCP 服务器项目转换为技能
+(2) 用户提到"MCP to skill"、"convert MCP"或"MCP 转 skill"
+(3) 用户有 MCP 服务器代码库并想将其制作为可复用技能
+(4) 用户想分析 MCP 服务器结构用于技能创建
+支持 TypeScript/JavaScript 和 Python MCP 服务器。生成完整的技能包，包含 SKILL.md、脚本和参考资料。

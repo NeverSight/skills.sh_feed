@@ -1,0 +1,1 @@
+Prisma ORM 和 PostgreSQL 数据库操作。在处理数据库 schema、迁移、查询或 @projectx/db 包时使用。

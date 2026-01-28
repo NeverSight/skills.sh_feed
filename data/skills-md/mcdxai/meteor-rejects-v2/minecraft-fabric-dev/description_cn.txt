@@ -1,0 +1,1 @@
+使用 Fabric 进行 Minecraft 模组开发的全面指南，包括从其他模组加载器（Forge、NeoForge）移植。集成 MCP 服务器用于反编译、文档访问和 mixin 验证。在开发 Fabric 模组、从 Forge 移植或使用 Minecraft 源代码时使用。

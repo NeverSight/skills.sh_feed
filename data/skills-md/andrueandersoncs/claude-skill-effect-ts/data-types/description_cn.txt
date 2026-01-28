@@ -1,0 +1,1 @@
+在用户询问"Effect Option"、"Effect Either"、"Option.some"、"Option.none"、"Either.left"、"Either.right"、"Cause"、"Exit"、"Chunk"、"Data"、"Data.TaggedEnum"、"Data.Class"、"Duration"、"DateTime"、"HashMap"、"HashSet"、"Redacted"，或需要理解 Effect 的内置数据类型和函数式数据结构时使用。

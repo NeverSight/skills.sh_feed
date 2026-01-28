@@ -1,0 +1,1 @@
+使用 Spock Framework 和 Groovy 的 Java 测试指南。涵盖测试结构、mock 模式、使用 Testcontainers 的持久化测试、gRPC 测试和 Spring Boot 测试配置。在编写或审查测试时使用。

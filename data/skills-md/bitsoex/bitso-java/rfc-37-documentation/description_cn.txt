@@ -1,0 +1,1 @@
+基于 RFC-37 的 Bitso 服务文档标准化。使用 bitso-documentation-linter 验证目录结构、Confluence 元数据和内容。在创建、验证或修复用于 Confluence 镜像的 markdown 文档时使用。

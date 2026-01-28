@@ -1,0 +1,1 @@
+在用户询问"Effect Equal"、"Effect Hash"、"Equivalence"、"Order"、"结构相等"、"自定义相等"、"比较对象"、"排序"、"Equal.equals"、"Hash.hash"、"Equivalence.make"、"Order.lessThan"、"可比较类型"，或需要理解 Effect 如何处理值的相等、哈希和排序时使用。

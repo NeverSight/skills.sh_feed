@@ -1,0 +1,1 @@
+在用户询问"Effect 测试"、"@effect/vitest"、"it.effect"、"it.live"、"it.scoped"、"it.layer"、"it.prop"、"Schema Arbitrary"、"属性测试"、"fast-check"、"TestClock"、"测试 effect"、"mock 服务"、"测试层"、"TestContext"、"Effect.provide test"、"时间测试"、"Effect 测试工具"、"单元测试 Effect"、"生成测试数据"、"flakyTest"、"测试覆盖率"、"100% 覆盖率"、"服务测试"、"测试替身"、"mock 服务"，或需要理解如何测试基于 Effect 的代码时使用。

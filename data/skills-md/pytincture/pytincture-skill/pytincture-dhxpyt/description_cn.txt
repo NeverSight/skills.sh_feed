@@ -1,0 +1,1 @@
+构建或修改使用 pytincture 框架和 dhxpyt 小部件集的应用程序。在被要求创建 pytincture 服务、添加后端为前端（BFF）类/策略、使用 dhxpyt 小部件（grid、form、toolbar、sidebar、tabbar 等）生成 UI 布局，或嵌入 pytincture.js 用于纯浏览器 Python UI 脚本时使用。

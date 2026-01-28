@@ -1,0 +1,1 @@
+用于 Next.js 认证的 Auth.js v5 设置，包括 Google OAuth、凭据提供商、环境配置和核心 API 集成

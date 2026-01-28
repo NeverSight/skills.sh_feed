@@ -1,0 +1,1 @@
+通过 GitHub CLI (`gh`) 标准化所有 GitHub 交互，而不是临时 URL、UI 点击或直接 REST API 调用。在需要读取或更改 GitHub 状态（仓库、issues、PR、审查、检查状态、Actions 工作流/运行、发布、标签、里程碑、讨论、gists）并需要确定性输出时使用（首选 `--json` + `--jq`）。当用户提供 GitHub URL（包括深层链接如 `https://github.com/OWNER/REPO/pull/123`、`.../issues/123`、`.../pull/123/files` 或评论永久链接如 `#issuecomment-...`）并需要获取底层 PR/issue/线程并回复时也使用。仅当没有一级 `gh NOUN VERB` 命令时才回退到 `gh api`。

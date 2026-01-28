@@ -1,0 +1,1 @@
+将 OpenAI ChatKit React 组件集成到 Next.js 应用程序中。涵盖自定义 API 后端配置、主题、小部件嵌入、对话历史和认证集成。

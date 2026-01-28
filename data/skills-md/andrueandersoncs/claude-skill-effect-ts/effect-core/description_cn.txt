@@ -1,0 +1,1 @@
+在用户询问"Effect 类型"、"创建 effect"、"运行 effect"、"Effect.gen"、"Effect.succeed"、"Effect.fail"、"Effect.sync"、"Effect.promise"、"Effect.tryPromise"、"Effect.runPromise"、"Effect.runSync"、"pipe"、"andThen"、"flatMap"、"map"、"Effect 基础"，或需要理解基本的 Effect<Success, Error, Requirements> 类型以及如何创建、组合和运行 effect 时使用。

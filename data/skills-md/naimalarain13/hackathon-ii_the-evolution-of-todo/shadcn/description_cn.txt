@@ -1,0 +1,1 @@
+全面的 shadcn/ui 组件库，包含主题、自定义模式和可访问性。在使用 Tailwind CSS 构建现代 React UI 时使用。重要 - 可用时始终首先使用 MCP 服务器工具。

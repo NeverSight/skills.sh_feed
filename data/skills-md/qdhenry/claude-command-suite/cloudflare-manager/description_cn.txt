@@ -1,0 +1,1 @@
+全面的 Cloudflare 账户管理，用于部署 Workers、KV 存储、R2、Pages、DNS 和路由。在部署 Cloudflare 服务、管理 worker 容器、配置 KV/R2 存储或设置 DNS/路由时使用。需要 .env 中的 CLOUDFLARE_API_KEY 和安装了依赖的 Bun 运行时。

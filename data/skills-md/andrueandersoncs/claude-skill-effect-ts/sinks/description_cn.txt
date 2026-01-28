@@ -1,0 +1,1 @@
+在用户询问"Effect Sink"、"Sink.collectAll"、"Sink.sum"、"Sink.fold"、"流消费者"、"Sink.forEach"、"创建 sink"、"sink 操作"、"sink 剩余"、"sink 并发"、"Stream.run with Sink"，或需要理解 Effect Sink 如何消费流数据时使用。

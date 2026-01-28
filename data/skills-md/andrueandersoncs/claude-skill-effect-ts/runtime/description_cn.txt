@@ -1,0 +1,1 @@
+在用户询问"Effect Runtime"、"ManagedRuntime"、"Effect.Tag"、"自定义运行时"、"运行时层"、"运行 effect"、"运行时配置"、"运行时上下文"、"Effect.runPromise"、"Effect.runSync"、"运行时作用域"，或需要理解 Effect 的运行时系统如何执行 effect 时使用。

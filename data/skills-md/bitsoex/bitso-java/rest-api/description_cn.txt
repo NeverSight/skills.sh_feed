@@ -1,0 +1,1 @@
+Java Spring 服务的 REST API 标准。涵盖 Bitso API 指南、认证集成、OpenAPI 文档和 RFC-37 服务文档。在创建或维护 REST 端点时使用。

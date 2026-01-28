@@ -1,0 +1,1 @@
+从 AWS SDK for Java v1 (com.amazonaws) 迁移到 v2 (software.amazon.awssdk)。在项目需要从已弃用的 AWS SDK v1 迁移到现代 v2 API 时使用。

@@ -1,0 +1,1 @@
+上传文件和网站到 Arweave（permaweb）永久存储，并管理 ArNS 域名记录。在用户想要发布内容到 Arweave、部署静态站点到 permaweb 或将交易附加到 ArNS 名称（ar.io）时使用。

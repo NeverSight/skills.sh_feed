@@ -1,0 +1,1 @@
+Better Auth TypeScript/JavaScript 认证库。在 Next.js、React、Express 或任何 TypeScript 项目中实现认证时使用。涵盖邮箱/密码、OAuth、JWT、会话、2FA、魔法链接、带 Next.js 16 proxy.ts 模式的社交登录。

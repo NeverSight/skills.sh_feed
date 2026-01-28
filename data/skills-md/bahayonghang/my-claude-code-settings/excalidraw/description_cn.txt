@@ -1,0 +1,1 @@
+生成手绘风格图表（架构图、流程图、系统设计）为 .excalidraw.json 文件。在用户想要图表、提到 Excalidraw 或需要 Mermaid 转可视化时使用。

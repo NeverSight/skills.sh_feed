@@ -1,0 +1,1 @@
+审查 Vendure Admin UI 扩展的 React 模式违规、缺失钩子、不当状态管理和 UI 反模式。在审查 Admin UI PR 或审计 UI 质量时使用。

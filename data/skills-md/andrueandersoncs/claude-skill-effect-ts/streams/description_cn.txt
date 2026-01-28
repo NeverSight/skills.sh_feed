@@ -1,0 +1,1 @@
+在用户询问"Effect Stream"、"Stream.from"、"Stream.map"、"Stream.filter"、"Stream.run"、"流式数据"、"异步迭代"、"Sink"、"Channel"、"Stream.concat"、"Stream.merge"、"背压"、"Stream.fromIterable"、"分块处理"、"实时数据"，或需要理解 Effect 如何处理流式数据处理时使用。

@@ -1,0 +1,1 @@
+Drizzle ORM 文档，涵盖查询、CRUD 操作、schema 定义、迁移、缓存（50 个主题）、自定义类型和数据库连接。包含 PostgreSQL（Neon、Vercel、Supabase、AWS Data API、PlanetScale、Prisma）、MySQL（AWS Data API、PlanetScale、TiDB）和 SQLite（Bun、Cloudflare D1/Durable Objects、Expo、Turso、OP SQLite）的集成。在使用 Drizzle 查询、数据库 schema、迁移、类型安全 SQL、ORM 模式或连接支持的数据库时使用。

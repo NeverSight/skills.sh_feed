@@ -1,0 +1,1 @@
+在用户询问"Effect 日志"、"Effect.log"、"Effect 指标"、"Effect 追踪"、"span"、"遥测"、"Metric.counter"、"Metric.gauge"、"Metric.histogram"、"OpenTelemetry"、"结构化日志"、"日志级别"、"Effect.logDebug"、"Effect.logInfo"、"Effect.logWarning"、"Effect.logError"，或需要理解 Effect 如何处理日志、指标和分布式追踪时使用。

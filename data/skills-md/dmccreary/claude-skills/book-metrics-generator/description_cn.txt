@@ -1,0 +1,1 @@
+此技能为使用 MkDocs Material 构建的智能教科书生成全面的指标报告，分析章节、概念、术语表术语、FAQ、测验题、图表、公式、MicroSim、字数和链接。在处理需要内容定量分析的智能教科书项目时使用，通常在重大内容开发后或项目状态报告时使用。此技能在 docs/learning-graph/ 目录中创建两个 markdown 文件 - book-metrics.md（总体统计）和 chapter-metrics.md（按章节细分）。

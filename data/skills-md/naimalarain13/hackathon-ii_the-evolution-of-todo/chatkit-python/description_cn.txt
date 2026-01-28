@@ -1,0 +1,1 @@
+使用 FastAPI 为 OpenAI ChatKit 前端构建自定义聊天 API 后端。涵盖聊天端点实现、SSE 流式传输、对话持久化，以及与 OpenAI Agents SDK + 通过 LiteLLM 的 Gemini 集成。

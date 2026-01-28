@@ -1,0 +1,1 @@
+来自官方文档的 React useEffect 最佳实践。在编写/审查 useEffect、用于派生值的 useState、数据获取或状态同步时使用。教导何时不使用 Effect 及更好的替代方案。

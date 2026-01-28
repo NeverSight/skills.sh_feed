@@ -1,0 +1,1 @@
+在用户询问"Effect 服务"、"依赖注入"、"Effect.Tag"、"Context.Tag"、"Layer"、"Effect.provide"、"Effect.provideService"、"服务实现"、"管理依赖"、"Layer.succeed"、"Layer.effect"、"Layer.scoped"、"组合层"、"Layer.merge"、"Layer.provide"、"默认服务"、"层记忆化"、"可测试性"、"测试层"、"mock 服务"，或需要理解 Effect 如何处理 Requirements (R) 类型参数时使用。

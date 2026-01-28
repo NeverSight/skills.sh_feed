@@ -1,0 +1,1 @@
+为 AI 搜索引擎（ChatGPT、Perplexity、Claude、Gemini）和精选摘要优化内容。涵盖生成引擎优化（GEO）、答案引擎优化（AEO）、E-E-A-T 信号和内容结构化以最大化 AI 引用概率。在优化 AI 可见性内容或审计 AI 搜索准备度时使用。

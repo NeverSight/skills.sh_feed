@@ -1,0 +1,1 @@
+按照双系统架构（CombatCalculationSystem + CombatWorkflowSystem）为 SHINOBI WAY 游戏创建和修改战斗系统组件。在用户想要添加新战斗机制、伤害公式、状态效果、减伤逻辑、回合阶段或重构现有战斗代码时使用。指导纯计算与状态管理的正确分离。
