@@ -1,0 +1,1 @@
+使用 Kotlin 开发原生 Android 应用。涵盖带有 Jetpack 的 MVVM、用于现代 UI 的 Compose、用于 API 调用的 Retrofit、用于本地存储的 Room 以及导航架构。

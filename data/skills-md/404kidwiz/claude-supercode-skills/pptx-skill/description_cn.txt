@@ -1,0 +1,1 @@
+擅长使用 python-pptx 和 PptxGenJS 创建、编辑和自动化 PowerPoint 演示文稿。以编程方式生成幻灯片、修改演示文稿或构建报告自动化时使用。触发器包括“PowerPoint”、“PPTX”、“幻灯片”、“演示文稿”、“python-pptx”、“PptxGenJS”、“幻灯片”。

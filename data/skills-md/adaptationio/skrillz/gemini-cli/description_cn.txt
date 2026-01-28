@@ -1,0 +1,1 @@
+将 Gemini AI CLI 集成到 Claude Code 中，以实现 AI 协作、代码分析和工具执行。在使用 Gemini AI、Google AI、多模式任务或需要高级 AI 功能时使用。

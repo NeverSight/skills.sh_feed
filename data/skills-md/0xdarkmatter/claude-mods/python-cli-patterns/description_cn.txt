@@ -1,0 +1,1 @@
+Python 的 CLI 应用程序模式。触发条件：cli、命令行、打字机、单击、argparse、终端、rich、控制台、终端 ui。

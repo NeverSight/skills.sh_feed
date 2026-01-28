@@ -1,0 +1,1 @@
+扫描项目文档文件（AGENTS.md、CLAUDE.md、GEMINI.md、COPILOT.md、CURSOR.md、WARP.md 和 15 种以上其他格式）并综合指南。当用户要求查看、理解或探索代码库时，在新项目中开始工作时，询问约定或代理时，或者文档上下文有帮助时，自动激活。可以将多个平台文档整合到统一的AGENTS.md中。

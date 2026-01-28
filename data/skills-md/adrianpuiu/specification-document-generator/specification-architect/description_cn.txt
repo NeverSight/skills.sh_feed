@@ -1,0 +1,1 @@
+一个严格的、可追溯性优先的系统，可生成五个互连的架构文档（blueprint.md、requirements.md、design.md、tasks.md 和validation.md），并具有完整的需求到实现的可追溯性。当用户需要构建系统、创建技术规范或开发具有保证可追溯性的结构化项目文档时，请使用此技能。

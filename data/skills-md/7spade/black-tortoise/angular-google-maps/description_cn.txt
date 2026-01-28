@@ -1,0 +1,1 @@
+Angular Google Maps (@angular/google-maps) 集成用于交互式地图功能。在嵌入 Google 地图、添加标记、折线、多边形、信息窗口或在 Angular 应用程序中实现地图控件和事件处理时使用。支持聚类、热图和绘图工具。

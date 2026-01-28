@@ -1,0 +1,1 @@
+掌握 Markdown 格式、GitHub Flavored Markdown、README 文件和文档格式。在编写 Markdown 文档、自述文件或格式化文档时使用。

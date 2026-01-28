@@ -1,0 +1,1 @@
+使用 Terraform 进行全面的 AWS 基础设施管理。涵盖提供程序配置、状态管理（Terraform 1.11+ 中具有本机锁定的 S3 后端）、通用资源模式（VPC、IAM、S3、RDS、EKS）、模块使用和生产最佳实践。在预置 AWS 基础设施、管理 Terraform 状态、创建 VPC、配置 IAM 角色/策略、部署数据库或对 Terraform/AWS 问题进行故障排除时使用。

@@ -1,0 +1,1 @@
+擅长使用 Web 技术 (HTML/CSS/JS) 和 Electron 框架构建跨平台桌面应用程序。

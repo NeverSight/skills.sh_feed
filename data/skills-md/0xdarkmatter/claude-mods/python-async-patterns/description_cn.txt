@@ -1,0 +1,1 @@
+用于并发编程的 Python 异步模式。触发：asyncio、async、await、coroutine、gather、semaphore、TaskGroup、eventloop、aiohttp、concurrent。

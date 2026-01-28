@@ -1,0 +1,1 @@
+使用 uv 进行快速 Python 环境管理（比 pip 快 10-100 倍）。触发条件：uv、venv、pip、pyproject、python 环境、安装包、依赖项。

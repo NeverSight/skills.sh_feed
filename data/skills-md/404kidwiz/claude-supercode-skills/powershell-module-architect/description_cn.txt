@@ -1,0 +1,1 @@
+当用户需要 PowerShell 模块设计、函数结构、可重用库、配置文件优化或跨 PowerShell 5.1 和 PowerShell 7+ 的跨版本兼容性时使用。

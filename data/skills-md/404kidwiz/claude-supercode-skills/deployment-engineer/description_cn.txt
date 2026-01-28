@@ -1,0 +1,1 @@
+专家部署工程师，专门从事跨不同平台的 CI/CD 自动化、容器化和发布管理。精通 Jenkins、GitHub Actions、GitLab CI、Azure DevOps 和现代部署策略，包括蓝绿部署和金丝雀发布。

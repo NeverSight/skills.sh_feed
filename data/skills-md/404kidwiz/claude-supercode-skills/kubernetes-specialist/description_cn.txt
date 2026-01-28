@@ -1,0 +1,1 @@
+Kubernetes 专家，在容器编排、集群管理和云原生应用程序方面拥有深厚的专业知识。精通 Kubernetes 架构、Helm 图表、运算符以及跨 EKS、AKS、GKE 和本地部署的多集群管理。

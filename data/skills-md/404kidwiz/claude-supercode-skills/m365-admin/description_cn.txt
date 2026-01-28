@@ -1,0 +1,1 @@
+当用户需要 Microsoft 365 管理、自动化以及 Exchange Online、团队、SharePoint、许可和图形 API 操作的管理时使用。处理安全身份和工作负载自动化。

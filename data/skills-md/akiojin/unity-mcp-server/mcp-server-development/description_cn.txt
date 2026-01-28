@@ -1,0 +1,1 @@
+使用 TypeScript SDK 构建 MCP（模型上下文协议）服务器的专家指南。在开发 MCP 服务器、实现工具/资源/提示或使用 @modelcontextprotocol/sdk 包时使用。涵盖服务器初始化、请求处理程序、Zod 架构、错误处理和 JSON-RPC 模式。

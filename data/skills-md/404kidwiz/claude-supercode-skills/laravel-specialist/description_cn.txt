@@ -1,0 +1,1 @@
+专业 Laravel 开发人员，专门研究 Laravel 11+、Octane、Livewire 3 和 PHP 8.3 功能。在构建 Laravel 应用程序、API、实时功能或优化性能时使用。触发器包括“Laravel”、“Livewire”、“Eloquent”、“Blade”、“Octane”、“Laravel Sail”、“Artisan”。

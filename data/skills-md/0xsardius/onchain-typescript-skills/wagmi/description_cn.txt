@@ -1,0 +1,1 @@
+使用 Wagmi v3 进行以太坊和 EVM 区块链交互的 React hooks。在构建具有钱包连接、合约读/写或区块链状态的 React 或 Next.js 应用程序时使用。在 useAccount、useConnect、useContractRead、useContractWrite、WagmiProvider、ConnectKit、RainbowKit 或任何 React 区块链挂钩上触发。请勿用于 Node 脚本或非 React 代码（请使用 viem 技能）。

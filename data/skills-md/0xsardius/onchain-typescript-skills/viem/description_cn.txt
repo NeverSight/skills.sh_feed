@@ -1,0 +1,1 @@
+使用 Viem 进行低级 EVM 区块链交互的 TypeScript 模式。在编写读取/写入以太坊或 EVM 链的节点脚本、CLI 工具或后端服务时使用。触发合约交互、钱包操作、交易签名、事件监视、ABI 编码或任何非 React 区块链 TypeScript 代码。请勿用于带钩子的 React/Next.js 应用程序（改为使用 wagmi 技能）。

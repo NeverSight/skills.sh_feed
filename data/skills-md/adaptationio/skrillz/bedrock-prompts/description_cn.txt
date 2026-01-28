@@ -1,0 +1,1 @@
+Amazon Bedrock Prompt Management，用于使用变量、多变体 A/B 测试和流程集成来创建、版本控制和管理提示模板。在创建可重用提示模板、管理提示版本、对提示实施 A/B 测试、将提示与 Bedrock Flows 集成、优化提示工程或构建生产提示目录时使用。

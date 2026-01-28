@@ -1,0 +1,1 @@
+使用 Chromatic、Lost Pixel 和 Playwright 快照进行视觉回归测试。在检测 UI 更改、保持视觉一致性、审查设计更改或在 CI/CD 中设置屏幕截图比较时使用。

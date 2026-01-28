@@ -1,0 +1,1 @@
+Canton Network、DAML 和 Splice 存储库知识。在与 Canton 参与者、DAML 智能合约、Splice 应用程序、LF 版本兼容性或包 ID 不匹配合作时使用。在 Canton、DAML、Splice、去中心化-canton-sync 或 LF 版本查询上触发。

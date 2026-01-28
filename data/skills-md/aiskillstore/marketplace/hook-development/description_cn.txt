@@ -1,0 +1,1 @@
+当用户要求“创建挂钩”、“添加 PreToolUse/PostToolUse/Stop 挂钩”、“验证工具使用”、“实现基于提示的挂钩”、“使用 ${CLAUDE_PLUGIN_ROOT}”、“设置事件驱动的自动化”、“阻止危险命令”或提及挂钩事件（PreToolUse、PostToolUse、Stop、SubagentStop、SessionStart、SessionEnd、UserPromptSubmit、预压缩、通知）。提供创建和实现 Claude Code 插件挂钩的全面指导，重点关注基于提示的高级挂钩 API。

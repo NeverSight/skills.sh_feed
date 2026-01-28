@@ -1,0 +1,1 @@
+为弹性定位器、页面对象模型、固定装置、网络优先断言和网络模拟提供 Playwright 测试模式。编写或修改 Playwright 测试时必须使用（带有 @playwright/test 导入的 .spec.ts、.test.ts 文件）。

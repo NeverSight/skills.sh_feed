@@ -1,0 +1,1 @@
+Rails 控制器模式和约定。使用控制器、路由、强参数、before_actions 或请求处理时自动调用。在“controller”、“action”、“routes”、“routing”、“strong params”、“params.expect”、“before_action”、“respond_to”、“RESTful”、“CRUD”、“redirect”、“render”上触发。

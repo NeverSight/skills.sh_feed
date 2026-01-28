@@ -1,0 +1,1 @@
+使用 Terraform 配置生产就绪的 AWS EKS 集群。涵盖集群配置、托管节点组、Fargate 配置文件、IRSA、EKS 附加组件（CoreDNS、kube-proxy、VPC CNI、EBS CSI）、VPC 集成和安全最佳实践。在预配 EKS、在 AWS 上设置 Kubernetes、配置节点组、实施 IRSA 或以代码形式管理 EKS 基础设施时使用。

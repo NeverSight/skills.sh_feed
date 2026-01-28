@@ -1,0 +1,1 @@
+使用 Flutter 3+ 构建跨平台应用程序的专家。专注于 Dart、Riverpod、Flame（游戏引擎）和 FFI（本机集成）。

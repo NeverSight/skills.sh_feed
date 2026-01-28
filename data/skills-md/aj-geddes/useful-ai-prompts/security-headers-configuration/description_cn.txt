@@ -1,0 +1,1 @@
+配置 HTTP 安全标头，包括 CSP、HSTS、X-Frame-Options 和 XSS 保护。在强化 Web 应用程序以抵御常见攻击时使用。

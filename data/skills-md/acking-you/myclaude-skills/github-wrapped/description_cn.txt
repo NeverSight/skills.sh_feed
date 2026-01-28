@@ -1,0 +1,1 @@
+生成可验证的 GitHub Wrapped 年度回顾作为单文件 HTML（保存原始 gh API JSON，嵌入 Python 构建的数据集），具有 Bilibili 风格的叙述、平滑过渡和适合移动设备的分页模式。需要 gh CLI 进行身份验证。

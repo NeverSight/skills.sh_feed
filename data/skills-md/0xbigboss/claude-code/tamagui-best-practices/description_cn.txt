@@ -1,0 +1,1 @@
+提供用于配置 v4、编译器优化、样式上下文和跨平台样式的 Tamagui 模式。处理 Tamagui 项目时必须使用（tamagui.config.ts、@tamagui 导入）。

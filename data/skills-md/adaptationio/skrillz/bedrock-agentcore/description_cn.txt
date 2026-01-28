@@ -1,0 +1,1 @@
+Amazon Bedrock AgentCore 平台，用于构建、部署和操作生产 AI 代理。涵盖运行时、网关、浏览器、代码解释器和身份服务。在构建 Bedrock 代理、将 AI 代理部署到生产环境或与 AgentCore 服务集成时使用。

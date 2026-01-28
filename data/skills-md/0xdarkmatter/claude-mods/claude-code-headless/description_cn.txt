@@ -1,0 +1,1 @@
+以编程方式运行 Claude Code，无需交互式 UI。触发条件：headless、CLI 自动化、--print、输出格式、stream-json、CI/CD、脚本。

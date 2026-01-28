@@ -1,0 +1,1 @@
+Terra API 设备和提供商连接。将用户连接到可穿戴设备（Fitbit、Garmin、Apple Health、Oura、WHOOP）、管理用户会话或处理断开连接时使用。

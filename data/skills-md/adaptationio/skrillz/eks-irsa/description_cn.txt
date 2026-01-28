@@ -1,0 +1,1 @@
+EKS Pod 级别 AWS 权限的服务账户 (IRSA) 的 IAM 角色。在配置 pod IAM 访问、设置 AWS 服务集成、实施最低权限安全、排查 OIDC 信任关系或部署 AWS 控制器时使用。

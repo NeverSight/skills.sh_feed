@@ -1,0 +1,1 @@
+用于 Amazon EKS 集群管理、节点组、身份验证令牌和 Kubernetes 客户端集成的 AWS Boto3 SDK 模式。在使用 EKS 集群、管理节点组、生成 kubeconfig、创建身份验证令牌、集成 Kubernetes Python 客户端、管理 Fargate 配置文件或实施 IRSA 身份验证时使用。

@@ -1,0 +1,1 @@
+全面的 Anthropic 产品专业知识，涵盖 Claude 模型、Claude API、Python SDK、Agent SDK、Claude 代码和模型上下文协议。六种集成功能，包括完整的文档、可搜索的参考资料、代码示例和跨产品集成模式。在使用 Claude API、构建代理、使用 SDK、使用 Claude Code 进行开发、集成 MCP 服务器、学习 Anthropic 产品、优化成本、实施 Anthropic 功能、管理上下文、使用 Opus 4.5 或实施高级工具模式时使用。

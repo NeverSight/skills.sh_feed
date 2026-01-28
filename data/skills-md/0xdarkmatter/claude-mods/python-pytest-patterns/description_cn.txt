@@ -1,0 +1,1 @@
+Python 的 pytest 测试模式。触发：pytest、fixture、mark、parametrize、mock、conftest、测试覆盖率、单元测试、集成测试、pytest.raises。

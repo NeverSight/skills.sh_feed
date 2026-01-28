@@ -1,0 +1,1 @@
+使用 fd、ripgrep (rg) 和 fzf 进行现代文件和内容搜索。触发：fd、ripgrep、rg、查找文件、搜索代码、fzf、模糊查找、搜索代码库。

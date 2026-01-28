@@ -1,0 +1,1 @@
+⚠️ Alpha (开発中) - エンタープライズ Azure 环境构筑suキル。AVM 活用、VM apeuri 青少年化、App Service/AKS/Container Apps へのプurideプロイ、サービsu间设定连携、CI/CD生成をサポート。Hub-Spoke、AKS、AI Foundry等の复合アーキテクチャに対応。Bicep MCPと Microsoft Learn Docs MCP で最新suキーマを取得。

@@ -1,0 +1,1 @@
+为 MongoDB 和 DynamoDB 设计 NoSQL 数据库架构。在建模文档结构、设计集合或规划 NoSQL 数据架构时使用。

@@ -1,0 +1,1 @@
+Docker 和 Kubernetes 模式。触发：Dockerfile、docker-compose、kubernetes、k8s、helm、pod、deployment、service、ingress、container、image。

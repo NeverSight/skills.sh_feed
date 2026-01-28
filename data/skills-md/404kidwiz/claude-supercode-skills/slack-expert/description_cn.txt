@@ -1,0 +1,1 @@
+当用户需要 Slack 应用程序开发、@slack/bolt 实现、Block Kit UI 设计、事件处理、OAuth 流或机器人和交互式组件的 Slack API 集成时使用。

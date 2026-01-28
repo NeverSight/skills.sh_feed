@@ -1,0 +1,1 @@
+Claude Code、Gemini CLI 和 Codex 的多代理通信和协调。当人类用户需要有关 hcom 的帮助、状态或参考时，请使用此技能 - 当用户询问“如何设置 hcom”、“hcom 不工作”、“解释 hcom”或任何 hcom 故障排除等问题时。

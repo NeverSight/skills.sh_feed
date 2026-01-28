@@ -1,0 +1,1 @@
+React Native（新架构）、TurboModules、Fabric 和 Expo 方面的专家。专注于原生模块开发和性能优化。

@@ -1,0 +1,1 @@
+.NET 8 和 C# 12 专家，拥有 ASP.NET Core、EF Core 和现代企业开发方面的专业知识。在构建 C# 应用程序、使用 .NET、实现 ASP.NET Core API 或使用实体框架时使用。

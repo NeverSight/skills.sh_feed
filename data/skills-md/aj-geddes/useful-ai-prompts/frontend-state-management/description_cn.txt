@@ -1,0 +1,1 @@
+使用 Redux、MobX、Zustand 和 Context API 管理应用程序状态。当集中具有多个组件的复杂应用程序的状态时使用。

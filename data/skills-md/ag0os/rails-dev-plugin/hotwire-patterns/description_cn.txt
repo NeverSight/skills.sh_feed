@@ -1,0 +1,1 @@
+Rails 前端开发的刺激和涡轮模式。使用 Hotwire、Stimulus 控制器、Turbo 帧/流、渐进增强或现代 Rails JavaScript 时自动调用。在“刺激”、“涡轮”、“热线”、“turbo_frame”、“turbo_stream”、“刺激控制器”、“数据控制器”、“数据操作”、“渐进增强”、“类似 SPA”上触发。

@@ -1,0 +1,1 @@
+在处理 Firebase 项目时应使用此技能，包括初始化项目、添加 Cloud Functions 或 Firestore 集合、调试模拟器问题或查看 Firebase 代码。在“firebase”、“firestore”、“云函数”、“模拟器”、“firebase auth”、“部署到 firebase”、“firestore 规则”上触发。

@@ -1,0 +1,1 @@
+Angular 20 内置控制流语法（@if、@for、@switch、@defer）用于现代模板编程。在编写具有条件渲染、循环、switch 语句或延迟加载组件的模板时使用。使用新的块语法替换 *ngIf、*ngFor、*ngSwitch，以获得更好的性能和类型安全性。

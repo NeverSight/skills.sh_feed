@@ -1,0 +1,49 @@
+name: Translate Descriptions
+
+on:
+  push:
+    paths:
+      - 'data/skills-md/**/description_en.txt'
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+      limit:
+        description: '翻译文件数量限制 (0 表示全部)'
+        required: false
+        default: '0'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install deep-translator
+      
+      - name: Run translation
+        run: |
+          python scripts/translate_descriptions.py --limit ${{ github.event.inputs.limit || '500' }}
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/skills-md/
+          
+          # 检查是否有变更
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-translate description_en.txt to description_cn.txt"
+            git push
+          fi

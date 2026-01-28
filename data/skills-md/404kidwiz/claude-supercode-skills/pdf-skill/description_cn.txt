@@ -1,0 +1,1 @@
+擅长使用 PDFKit、PDF.js 和 Puppeteer 等工具生成、解析和操作 PDF 文档。在创建 PDF、提取内容、合并文档或填写表单时使用。触发器包括“PDF”、“生成PDF”、“解析PDF”、“提取PDF”、“合并PDF”、“PDF表单”、“PDFKit”。

@@ -1,0 +1,1 @@
+适用于 Angular 20+ 应用程序的 Angular Material v20 UI 组件库。在实现 Material Design 组件、主题、表单、表格、对话框、导航或构建基于 Material 的 UI 时使用。涵盖 Material 20 的组件 API、可访问性和最佳实践。

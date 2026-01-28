@@ -1,0 +1,1 @@
+使用lazygit、gh (GitHub CLI) 和delta 增强了git 操作。触发条件：阶段更改、创建 PR、审查 PR、检查问题、git diff、交互提交、GitHub 操作、rebase、stash、bisect。

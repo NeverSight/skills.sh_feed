@@ -1,0 +1,1 @@
+使用 jq 处理 JSON，使用 yq 处理 YAML/TOML。高效过滤、转换、查询结构化数据。触发条件：解析 JSON、从 YAML 中提取、查询配置、Docker Compose、K8s 清单、GitHub Actions 工作流程、package.json、过滤数据。

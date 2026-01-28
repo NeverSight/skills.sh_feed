@@ -1,0 +1,1 @@
+适用于 ECS 的 AWS Fargate 无服务器容器计算。涵盖 Fargate 与 EC2 决策指南、CPU/内存大小、平台版本、Fargate Spot 成本优化、Graviton/ARM 架构、网络和 EFS 集成。在部署无服务器容器、优化 Fargate 成本、调整 Fargate 任务大小或在 Fargate 和 EC2 启动类型之间进行选择时使用。

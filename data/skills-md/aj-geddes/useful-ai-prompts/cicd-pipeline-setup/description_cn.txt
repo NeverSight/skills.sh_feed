@@ -1,0 +1,1 @@
+使用 GitHub Actions、GitLab CI、Jenkins 或 CircleCI 设计和实施 CI/CD 管道。用于自动化测试、构建和部署工作流程。

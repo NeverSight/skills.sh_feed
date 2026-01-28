@@ -1,0 +1,1 @@
+用于工具执行前/后的 Claude Code 挂钩系统。触发条件：挂钩、PreToolUse、PostToolUse、挂钩脚本、工具验证、审核日志记录。

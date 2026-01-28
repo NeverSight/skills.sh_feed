@@ -1,0 +1,1 @@
+FastAPI Web 框架模式。触发：fastapi、api 端点、依赖注入、pydantic 模型、openapi、swagger、starlette、async api、rest api、uvicorn。

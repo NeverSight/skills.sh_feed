@@ -1,0 +1,3 @@
+使用 AI SDK Elements 构建 AI 聊天界面 - 用于聊天机器人的 React 组件。
+使用场合：实现聊天 UI、添加 AI 推理显示、工具确认、
+消息组件或任何 AI 原生接口。基于 shadcn/ui 构建。

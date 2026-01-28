@@ -1,0 +1,1 @@
+通过 ttyd + ngrok/Cloudflare/Tailscale 从手机/平板电脑设置对 WSL2 的安全基于 Web 的终端访问。一键安装、启动、停止、状态。当您需要远程终端访问、Web 终端、基于浏览器的 shell 或移动访问 WSL2 环境时使用。

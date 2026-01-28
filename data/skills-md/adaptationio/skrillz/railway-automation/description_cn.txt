@@ -1,0 +1,1 @@
+铁路 CI/CD 集成和自动化。在设置 GitHub Actions、GitLab CI、自动化部署、迁移脚本或编程 Rail 工作流程时使用。

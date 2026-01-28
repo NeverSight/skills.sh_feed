@@ -1,0 +1,1 @@
+AngularFire 库，用于将 Firebase 服务（身份验证、Firestore、存储、功能、分析）与 Angular 应用程序集成。在使用 Firebase 后端构建 Angular 应用程序、实施身份验证、实时数据库、云存储、无服务器功能或 Firebase 分析时使用。涵盖带有独立组件的 v20+。

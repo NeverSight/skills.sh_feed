@@ -1,0 +1,1 @@
+Windows Server、Active Directory (AD DS)、混合身份 (Entra ID) 和 PowerShell 自动化方面的专家。

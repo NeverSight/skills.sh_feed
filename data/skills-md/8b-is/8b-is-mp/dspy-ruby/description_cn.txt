@@ -1,0 +1,1 @@
+在使用 DSPy.rb 时应该使用此技能，DSPy.rb 是一个用于构建类型安全、可组合的 LLM 应用程序的 Ruby 框架。在实现可预测的 AI 功能、创建 LLM 签名和模块、配置语言模型提供程序（OpenAI、Anthropic、Gemini、Ollama）、使用工具构建代理系统、优化提示或在 Ruby 应用程序中测试 LLM 支持的功能时，请使用此功能。

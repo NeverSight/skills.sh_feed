@@ -1,0 +1,1 @@
+设置和管理 Gemini CLI 身份验证方法，包括 OAuth、API 密钥和 Vertex AI。在配置 Gemini 访问、切换身份验证方法或解决身份验证问题时使用。

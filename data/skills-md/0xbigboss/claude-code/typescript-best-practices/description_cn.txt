@@ -1,0 +1,1 @@
+为类型优先开发提供 TypeScript 模式，使非法状态无法表示、详尽的处理和运行时验证。读取或写入 TypeScript/JavaScript 文件时必须使用。

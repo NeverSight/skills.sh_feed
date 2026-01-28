@@ -1,0 +1,1 @@
+将 PRD 转换为 Ralph 自治代理系统的 prd.json 格式。当您有现有 PRD 并需要将其转换为 Ralph 的 JSON 格式时使用。触发条件：转换此 prd，将其转换为 ralph 格式，由此创建 prd.json，ralph json。

@@ -1,0 +1,1 @@
+Python 类型提示和类型安全模式。触发条件：类型提示、打字、TypeVar、Generic、协议、mypy、pyright、类型注释、重载、TypedDict。

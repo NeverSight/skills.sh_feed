@@ -1,0 +1,1 @@
+通过智能内容提取来获取 Web 内容，将 HTML 转换为干净的 Markdown。用于文档、文章和参考页面 http/https URL。

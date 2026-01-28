@@ -1,0 +1,1 @@
+专家 Kotlin 开发人员，专门研究 Kotlin 2.0、Kotlin Multiplatform Mobile (KMP)、协程和 Ktor，用于构建现代跨平台应用程序和后端服务。

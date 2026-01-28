@@ -1,0 +1,1 @@
+使用 HashiCorp Vault、AWS Secrets Manager 或 Kubernetes Secrets 实施机密管理，以实现安全的凭证存储和轮换。

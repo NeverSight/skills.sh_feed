@@ -1,0 +1,1 @@
+OrbStack Linux VM 和 macOS 上的 Docker 的模式。涵盖 orbctl/orb 命令、机器生命周期、cloud-init、网络、文件共享和 SSH 访问。在 macOS 上使用 OrbStack、orbctl 命令或 Linux VM 时必须使用。

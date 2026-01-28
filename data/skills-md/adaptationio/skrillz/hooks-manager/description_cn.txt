@@ -1,0 +1,1 @@
+创建、验证和部署 Claude Code 挂钩以实现工作流程自动化。 Hooks 通过结构化 JSON 控制在 8 个生命周期点（PreToolUse、PostToolUse、UserPromptSubmit 等）实现事件驱动的自动化。在 Claude Code 中自动执行代码格式化、安全门、可观察性集成、验证实施或任何事件驱动的工作流程自动化时使用。

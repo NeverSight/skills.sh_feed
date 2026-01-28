@@ -1,0 +1,1 @@
+Karpenter 用于 EKS 上的智能 Kubernetes 节点自动缩放。在配置节点配置、使用 Spot 实例优化成本、替换 Cluster Autoscaler、实施整合或实现 20-70% 的成本节省时使用。

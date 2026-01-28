@@ -1,0 +1,1 @@
+使用自然 AI 语音 (ElevenLabs) 拨打电话并使用 Twilio CLI 发送短信。当用户想要拨打电话、发送短信或使用人工智能生成的语音进行通话时，请使用此技能。需要经过 Twilio CLI 身份验证和 ElevenLabs API 密钥。

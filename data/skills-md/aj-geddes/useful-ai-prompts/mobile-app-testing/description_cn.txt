@@ -1,0 +1,1 @@
+适用于 iOS 和 Android 的综合移动应用测试策略。涵盖单元测试、UI 测试、集成测试、性能测试以及使用 Detox、Appium 和 XCTest 进行的测试自动化。

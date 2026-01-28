@@ -1,0 +1,1 @@
+用于测试和监控 AI 代理质量的 Amazon Bedrock AgentCore 评估。 13 个内置评估器以及自定义 LLM-as-Judge 模式。在测试代​​理、监控生产质量、设置警报或验证代理行为时使用。

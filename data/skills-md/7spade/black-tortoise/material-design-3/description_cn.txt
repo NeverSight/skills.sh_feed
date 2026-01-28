@@ -1,0 +1,1 @@
+Material Design 3 (Material You) 现代 Web 和 Angular 应用程序的设计系统知识。在实现 Material Design 3 主题、组件、排版、颜色系统、动态颜色、可访问性模式或从 Material Design 2 迁移时使用。涵盖设计令牌、主题 API 和 Material You 原则。

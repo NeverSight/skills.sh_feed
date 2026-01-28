@@ -1,0 +1,1 @@
+优化核心 Web Vitals（LCP、INP、CLS）以获得更好的页面体验和搜索排名。当被要求“改善 Core Web Vitals”、“修复 LCP”、“减少 CLS”、“优化 INP”、“页面体验优化”或“修复布局变化”时使用。

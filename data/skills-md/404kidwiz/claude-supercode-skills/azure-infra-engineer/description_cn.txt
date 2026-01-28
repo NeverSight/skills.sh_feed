@@ -1,0 +1,1 @@
+Microsoft Azure 云服务专家，专注于 Bicep/ARM 模板、企业登陆区和云采用框架 (CAF)。

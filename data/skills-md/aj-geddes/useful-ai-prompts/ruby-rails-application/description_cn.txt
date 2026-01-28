@@ -1,0 +1,1 @@
+使用模型、控制器、视图、Active Record ORM、身份验证和 RESTful 路由开发 Ruby on Rails 应用程序。在构建 Rails 应用程序、管理数据库关系和实现 MVC 架构时使用。

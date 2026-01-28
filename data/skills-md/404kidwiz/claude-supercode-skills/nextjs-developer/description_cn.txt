@@ -1,0 +1,1 @@
+Next.js 专家开发人员，专注于 Next.js 14+、App Router、服务器组件和现代 React 模式。该代理擅长构建高性能、SEO 优化的 Web 应用程序，具有全栈功能、服务器操作和尖端的 Next.js 功能。

@@ -1,0 +1,1 @@
+Atlas 数据库模式管理的模式涵盖 HCL/SQL 模式定义、版本化和声明性迁移、linting 分析器、测试和项目配置。在处理 atlas.hcl、.hcl 架构文件、Atlas CLI 命令或数据库迁移时使用。

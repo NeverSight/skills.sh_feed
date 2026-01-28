@@ -1,0 +1,1 @@
+使用 Playwright 进行 REST 和 GraphQL API 测试。在测试 API、模拟端点、验证响应或将 API 测试与 E2E 流集成时使用。

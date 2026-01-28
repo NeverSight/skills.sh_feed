@@ -1,0 +1,1 @@
+使用架构设计、解析器、查询、突变、订阅和最佳实践来设计和实现 GraphQL API。在构建 GraphQL 服务器、设计模式或从 REST 迁移到 GraphQL 时使用。

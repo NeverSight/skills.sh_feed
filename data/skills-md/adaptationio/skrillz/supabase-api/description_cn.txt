@@ -1,0 +1,1 @@
+Supabase JavaScript 客户端 API 和 REST API 使用。在集成 Supabase、设置客户端或直接使用 REST 端点时使用。

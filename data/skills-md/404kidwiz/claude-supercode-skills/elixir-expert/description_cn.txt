@@ -1,0 +1,1 @@
+Elixir、Phoenix Framework 和 OTP 方面的专家。专注于使用 BEAM 构建并发、容错和实时应用程序。在构建 Elixir 应用程序、与 Phoenix 合作、实施 GenServer 或在 BEAM 上设计分布式系统时使用。

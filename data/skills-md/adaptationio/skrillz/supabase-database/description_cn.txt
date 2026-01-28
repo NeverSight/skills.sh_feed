@@ -1,0 +1,1 @@
+Supabase 数据库操作包括查询、CRUD 操作、RLS 策略和 PostgreSQL 函数。在查询表、管理数据、实施 RLS 或编写数据库函数时使用。

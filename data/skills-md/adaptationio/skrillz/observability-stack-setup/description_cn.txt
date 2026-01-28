@@ -1,0 +1,1 @@
+使用 Docker Compose 自动化 LGTM + Alloy 可观测性堆栈部署。在本地设置 Claude Code 可观察性基础设施时使用。

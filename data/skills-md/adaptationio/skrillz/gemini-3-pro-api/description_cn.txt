@@ -1,0 +1,1 @@
+Gemini 3 Pro API/SDK 集成，用于文本生成、推理和聊天。涵盖设置、身份验证、思维级别、流式传输和生产部署。在处理 Gemini 3 Pro API、Python SDK、Node.js SDK、文本生成、聊天应用程序或高级推理任务时使用。

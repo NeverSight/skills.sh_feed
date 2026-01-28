@@ -1,0 +1,1 @@
+使用 OpenAI 的 DALL-E 3 API 生成图像。当需要创建图形、图标、背景或任何视觉资源时使用。环境中需要 OPENAI_API_KEY。

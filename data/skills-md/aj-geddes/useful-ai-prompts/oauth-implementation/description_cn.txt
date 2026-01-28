@@ -1,0 +1,1 @@
+实施安全的 OAuth 2.0、OpenID Connect (OIDC)、JWT 身份验证和 SSO 集成。在为 Web 和移动应用程序构建安全身份验证系统时使用。

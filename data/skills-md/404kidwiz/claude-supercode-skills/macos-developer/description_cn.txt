@@ -1,0 +1,1 @@
+使用 AppKit、SwiftUI for Mac 和 XPC 进行 macOS 应用程序开发的专家。专注于系统扩展、菜单栏应用程序和深度操作系统集成。

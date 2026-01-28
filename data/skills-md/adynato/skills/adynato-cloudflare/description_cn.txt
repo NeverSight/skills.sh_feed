@@ -1,0 +1,1 @@
+Adynato 项目的 Cloudflare Workers 和 Pages 部署。涵盖牧马人 CLI、读取调试日志、KV/D1/R2 存储、环境变量和常见错误。在部署到 Cloudflare、调试工作线程或配置边缘功能时使用。

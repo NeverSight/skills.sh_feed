@@ -1,0 +1,1 @@
+.NET 10 Web API 使用垂直切片架构和最少的 API。在构建按功能而不是技术层组织的 API 时使用，并使用结果模式进行错误处理。没有 MediatR，没有 AutoMapper。

@@ -1,0 +1,1 @@
+PHP 8.2+ 专家，拥有现代模式、Composer 生态系统和企业 PHP 开发方面的专业知识。在构建 PHP 应用程序、优化性能或现代化遗留 PHP 代码时使用。触发器包括“PHP”、“Composer”、“PHP 8”、“PSR”、“Symfony 组件”、“PHP 性能”。

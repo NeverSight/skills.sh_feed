@@ -1,0 +1,1 @@
+适用于所有平台的完整 Auto-Claude 安装和设置指南。在 WSL、Windows、Linux 或 macOS 上安装 Auto-Claude、设置开发环境或对安装问题进行故障排除时使用。

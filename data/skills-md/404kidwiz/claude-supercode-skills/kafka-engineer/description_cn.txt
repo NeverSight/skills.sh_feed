@@ -1,0 +1,1 @@
+Apache Kafka、事件流和实时数据管道方面的专家。专门研究 Kafka Connect、KSQL 和架构注册表。

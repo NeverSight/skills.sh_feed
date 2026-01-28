@@ -1,0 +1,1 @@
+适用于 Angular 20+ 应用程序的 Angular Material 组件库专业知识。在实现 Material Design 组件（按钮、表单、对话框、表格、导航）、主题、辅助功能或使用预构建的 Material 组件构建 Angular UI 时使用。涵盖所有 Material 模块、组件 API 和最佳实践。

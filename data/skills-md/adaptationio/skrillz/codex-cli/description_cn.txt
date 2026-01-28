@@ -1,0 +1,1 @@
+将 OpenAI Codex CLI 集成到 Claude Code 中，以实现 AI 协作、代码生成和自动化开发。在使用 OpenAI 模型（GPT-5.2、GPT-5.1-Codex-Max、o3、o4-mini）、代码重构、git 工作流程或需要通过权限绕过的完全自动化时使用。

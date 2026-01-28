@@ -1,0 +1,1 @@
+使用具有多可用区、只读副本、备份和加密功能的 RDS 来部署和管理关系数据库。用于 PostgreSQL、MySQL、MariaDB 和 Oracle。

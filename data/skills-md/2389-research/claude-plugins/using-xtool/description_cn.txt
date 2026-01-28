@@ -1,0 +1,1 @@
+当使用 xtool 构建 iOS 应用程序（无 Xcode iOS 开发）、创建 xtool 项目、添加应用程序扩展或配置 xtool.yml 时，应该使用此技能。在“xtool”、“SwiftPM iOS”、“Linux 上的 iOS”、“Windows 上的 iOS”、“Xcode-free”、“应用程序扩展”、“小部件扩展”、“共享扩展”上触发。涵盖项目设置、应用程序扩展和部署。

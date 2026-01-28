@@ -1,0 +1,2 @@
+选择正确的蛋白质结合剂设计工具的指南。在以下情况下使用此技能：(1) 在 BoltzGen、BindCraft 或 RFdiffusion 之间做出决定，(2) 规划活页夹设计活动，(3) 了解不同方法之间的权衡，(4) 为特定目标类型选择工具。
+对于特定的工具参数，请使用单独的工具技能（boltzgen、bindcraft、rfdiffusion 等）。

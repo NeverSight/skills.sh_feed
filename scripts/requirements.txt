@@ -1,14 +1,4 @@
-# 翻译脚本依赖
-# 根据你选择的翻译提供者安装相应的依赖
-
-# OpenAI (推荐，翻译质量最高)
-openai>=1.0.0
-
-# DeepL (高质量翻译)
-# deepl>=1.0.0
-
-# Google Translate (免费)
-# googletrans==4.0.0-rc1
-
-# 通用依赖
+# 翻译脚本依赖 (使用免费 Google Translate)
+deep-translator>=1.11.0
 requests>=2.28.0
+beautifulsoup4>=4.9.1

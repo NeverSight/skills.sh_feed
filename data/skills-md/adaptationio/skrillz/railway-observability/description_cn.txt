@@ -1,0 +1,1 @@
+Railway.com 内置指标、监控仪表板、警报（专业计划）以及与 Grafana 的外部 OTEL 集成。在设置监控、创建仪表板、配置警报、集成 Prometheus/Loki/Tempo、部署 Grafana 堆栈或分析铁路服务指标时使用。

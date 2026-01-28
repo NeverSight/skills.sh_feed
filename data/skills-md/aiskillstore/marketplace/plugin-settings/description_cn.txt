@@ -1,0 +1,1 @@
+当用户询问“插件设置”、“存储插件配置”、“用户可配置插件”、“.local.md 文件”、“插件状态文件”、“读取 YAML frontmatter”、“每个项目插件设置”或想要使插件行为可配置时，应使用此技能。记录 .claude/plugin-name.local.md 模式，用于使用 YAML frontmatter 和 markdown 内容存储特定于插件的配置。

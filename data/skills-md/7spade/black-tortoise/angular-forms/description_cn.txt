@@ -1,0 +1,1 @@
+用于表单构建、验证和状态管理的 Angular Reactive Forms。在创建表单、实现验证器、处理表单提交、构建动态表单或将表单与 Angular 应用程序中的 NgRx 信号集成时使用。涵盖 FormControl、FormGroup 和 FormArray。

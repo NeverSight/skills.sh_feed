@@ -1,0 +1,1 @@
+设置 Claude Code 的工具权限。在 .claude/ 目录中配置允许的命令、规则和首选项。触发条件：setperms、init 工具、配置权限、设置项目、设置权限、init claude。

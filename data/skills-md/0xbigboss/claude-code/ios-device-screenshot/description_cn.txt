@@ -1,0 +1,1 @@
+使用 pymobiledevice3 从通过 USB 连接的物理 iOS 设备截取屏幕截图。从真实 iPhone/iPad（而非模拟器）捕获屏幕截图、在设备上调试或需要高保真设备捕获时使用。在物理 iOS 设备屏幕截图、pymobiledevice3 使用或 USB 连接设备捕获任务上触发。

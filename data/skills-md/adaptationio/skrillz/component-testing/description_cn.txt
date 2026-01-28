@@ -1,0 +1,1 @@
+使用 Playwright 对 React、Vue 和 Svelte 进行隔离组件测试。在单独测试 UI 组件、测试组件交互或构建组件测试套件时使用。

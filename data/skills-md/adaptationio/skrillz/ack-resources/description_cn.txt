@@ -1,0 +1,1 @@
+适用于 Kubernetes 的 AWS 控制器 (ACK)，用于 Kubernetes 原生 AWS 资源管理。在通过 kubectl 管理 AWS 资源、为基础设施实施 GitOps、创建自助开发人员平台、将 AWS 服务与 EKS 工作负载集成或将现有 AWS 资源采用到 Kubernetes 中时使用。

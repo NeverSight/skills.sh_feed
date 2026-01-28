@@ -1,0 +1,1 @@
+擅长使用 python-docx 和 docx.js 创建、编辑和自动化 Word 文档 (.docx)。在生成 Word 文档、修改现有 docx 文件或自动化文档工作流程时使用。

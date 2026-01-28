@@ -1,0 +1,1 @@
+CI/CD 管道设计、优化、DevSecOps 安全扫描和故障排除。用于创建工作流、调试管道故障、实施 SAST/DAST/SCA、优化构建性能、实施缓存策略、设置部署、使用 OIDC/秘密管理保护管道以及对 GitHub Actions、GitLab CI 和其他平台上的常见问题进行故障排除。

@@ -1,0 +1,3 @@
+Golang CLI 应用程序的全面代码审查。生成一个可操作的清单，涵盖错误处理、CLI 框架模式 (Cobra/urfave)、测试、性能、安全性和 Go 习惯用法。
+
+触发器：审查 Go CLI、审查 golang 命令行、代码审查 .go CLI、审核 CLI 应用程序、检查 golang 工具、审查 cobra 应用程序

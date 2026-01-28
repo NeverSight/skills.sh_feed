@@ -1,0 +1,1 @@
+当用户要求“创建 hookify 规则”、“编写 hookify 规则”、“配置 hookify”、“添加 hookify 规则”或需要 hookify 规则语法和模式的指导时，应使用此技能。

@@ -1,0 +1,1 @@
+Rails 的 ActiveRecord 模型模式和约定。使用模型、关联、验证、范围、回调或数据库架构设计时自动调用。在“model”、“ActiveRecord”、“association”、“has_many”、“belongs_to”、“validation”、“validates”、“scope”、“callback”、“migration”、“schema”、“index”、“foreign key”上触发。

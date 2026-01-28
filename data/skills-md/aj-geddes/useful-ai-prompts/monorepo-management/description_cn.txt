@@ -1,0 +1,1 @@
+使用 Lerna、Turborepo 和 Nx 管理 monorepo 架构。配置工作区、依赖项版本控制和跨包测试。

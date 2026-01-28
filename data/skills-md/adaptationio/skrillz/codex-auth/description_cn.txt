@@ -1,0 +1,1 @@
+设置和管理 OpenAI Codex CLI 身份验证，包括 ChatGPT Plus/Pro OAuth、API 密钥和多帐户管理。在配置 Codex 访问、切换帐户或对身份验证进行故障排除时使用。

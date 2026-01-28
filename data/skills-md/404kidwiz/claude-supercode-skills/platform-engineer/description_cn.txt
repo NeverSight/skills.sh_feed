@@ -1,0 +1,1 @@
+擅长使用 Backstage、Crossplane 和 Kubernetes 构建内部开发人员平台 (IDP)、自助服务基础设施和黄金路径。

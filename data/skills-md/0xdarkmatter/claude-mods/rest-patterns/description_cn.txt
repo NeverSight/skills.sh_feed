@@ -1,0 +1,1 @@
+RESTful API 设计模式、HTTP 语义、缓存和速率限制的快速参考。触发：rest api、http 方法、状态代码、api 设计、端点设计、api 版本控制、速率限制、缓存标头。

@@ -1,0 +1,1 @@
+在遵循 Andrew Kane 经过验证的模式和理念编写 Ruby gem 时，应该使用此技能。它适用于创建新的 Ruby gem、重构现有 gem、设计 gem API，或者需要干净、最小、可用于生产的 Ruby 库代码时。触发“创建 gem”、“编写 Ruby 库”、“设计 gem API”或提及 Andrew Kane 的风格等请求。

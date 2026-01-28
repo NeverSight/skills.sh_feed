@@ -1,0 +1,1 @@
+Firebase Data Connect 与 PostgreSQL 集成，用于基于 GraphQL 的数据访问。在构建 GraphQL 架构、查询、突变或将 Firebase Data Connect 与 Angular 应用程序集成时使用。支持类型安全的生成 SDK、实时订阅和服务器端数据验证。

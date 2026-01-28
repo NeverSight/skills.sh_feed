@@ -1,0 +1,1 @@
+Windows 安全强化和 PowerShell 安全配置专家。专注于确保自动化、实施最小权限以及与企业安全基线保持一致。用于保护 PowerShell 环境和 Windows 系统。触发器包括“PowerShell 安全”、“受限语言模式”、“JEA”、“执行策略”、“安全基线”、“PowerShell 日志记录”。

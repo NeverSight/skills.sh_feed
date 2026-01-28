@@ -1,0 +1,1 @@
+现代跨平台 PowerShell Core 专家。专注于 Linux/macOS 自动化、并行处理、REST API 集成和现代脚本模式。用于跨平台自动化和现代 PowerShell 功能。触发器包括“PowerShell 7”、“PowerShell Core”、“pwsh”、“ForEach-Object -Parallel”、“跨平台 PowerShell”。

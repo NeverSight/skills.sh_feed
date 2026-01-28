@@ -1,0 +1,1 @@
+Python 项目中 SQLite 数据库的模式 - 状态管理、缓存和异步操作。触发：sqlite、sqlite3、aiosqlite、本地数据库、数据库模式、迁移、wal 模式。

@@ -1,0 +1,1 @@
+将 xAI Grok 情绪与 FinnHub、Twelve Data、Alpha Vantage 和 FMP 金融 API 集成。将社会情绪与价格数据、基本面和新闻结合起来进行综合分析时使用。

@@ -1,0 +1,1 @@
+Adynato 移动应用程序的 API 集成模式。涵盖使用 TanStack 查询获取数据、身份验证流程、离线支持、错误处理和 React Native/Expo 应用程序中的乐观更新。将 API 集成到移动应用程序时使用。

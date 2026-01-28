@@ -1,0 +1,1 @@
+使用触发器、IAM 角色、环境变量和监控在 Google Cloud Platform 上部署无服务器功能。用于 GCP 上的事件驱动计算。

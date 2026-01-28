@@ -1,0 +1,1 @@
+用于模型推理的 Amazon Bedrock Runtime API，包括 Claude、Nova、Titan 和第三方模型。涵盖调用模型、converse API、流响应、令牌计数、异步调用和护栏。在调用基础模型、构建对话式 AI、流式传输模型响应、优化令牌使用或实施运行时护栏时使用。

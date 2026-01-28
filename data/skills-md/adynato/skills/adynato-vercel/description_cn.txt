@@ -1,0 +1,1 @@
+Adynato 项目的 Vercel 部署和配置。涵盖环境变量、vercel.json、项目链接、VERCEL_ORG_ID/VERCEL_PROJECT_ID 等常见错误以及 CI/CD 设置。在部署到 Vercel、配置构建或对部署问题进行故障排除时使用。

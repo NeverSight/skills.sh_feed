@@ -1,0 +1,1 @@
+Rails 的 ActiveJob 和后台处理模式。使用后台作业、Sidekiq、异步处理、作业队列、调度或 app/jobs 目录时自动调用。在“作业”、“后台作业”、“ActiveJob”、“Sidekiq”、“异步”、“队列”、“perform_later”、“worker”、“计划作业”、“cron”、“重试”、“幂等”上触发。

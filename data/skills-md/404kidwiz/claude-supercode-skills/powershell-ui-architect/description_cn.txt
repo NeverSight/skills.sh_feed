@@ -1,0 +1,1 @@
+擅长使用 WinForms、WPF 和 Console/TUI 框架通过 PowerShell 构建 GUI 和 TUI。在创建具有图形或终端界面的 PowerShell 工具时使用。触发器包括“PowerShell GUI”、“WinForms”、“WPF PowerShell”、“PowerShell TUI”、“终端 UI”、“PowerShell 界面”。

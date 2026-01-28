@@ -1,0 +1,1 @@
+自然语言处理专家，使用 Hugging Face、spaCy 和 LangChain 设计文本分类、NER、翻译和 LLM 集成系统。在构建 NLP 管道、文本分析或 LLM 支持的功能时使用。触发器包括“NLP”、“文本分类”、“NER”、“命名实体”、“情感分析”、“spaCy”、“Hugging Face”、“变形金刚”。

@@ -1,0 +1,1 @@
+Vercel Engineering 的 React 和 Next.js 性能优化指南。在编写、审查或重构 React/Next.js 代码时应使用此技能，以确保最佳性能模式。触发涉及 React 组件、Next.js 页面、数据获取、捆绑优化或性能改进的任务。

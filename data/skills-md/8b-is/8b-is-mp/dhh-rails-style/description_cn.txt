@@ -1,0 +1,1 @@
+当以 DHH 独特的 37signals 风格编写 Ruby 和 Rails 代码时，应该使用此技能。它适用于编写 Ruby 代码、Rails 应用程序、创建模型、控制器或任何 Ruby 文件。在 Ruby/Rails 代码生成、重构请求、代码审查或用户提及 DHH、37signals、Basecamp、HEY 或 Campfire 风格时触发。体现了 REST 纯度、胖模型、瘦控制器、当前属性、Hotwire 模式以及“清晰胜过聪明”的理念。

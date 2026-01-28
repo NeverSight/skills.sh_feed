@@ -1,0 +1,1 @@
+使用 Microsoft 的 markitdown CLI 将本地文档转换为 Markdown。最适合：PDF、Word、Excel、PowerPoint、图像 (OCR)、音频。可以获取 URL，但 Jina 的网络速度更快。触发：转换为 Markdown、读取 PDF、解析文档、从 docx、xlsx、pptx、OCR 图像、本地文件中提取文本。

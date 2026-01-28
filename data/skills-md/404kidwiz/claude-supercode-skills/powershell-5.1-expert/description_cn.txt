@@ -1,0 +1,1 @@
+旧版 Windows PowerShell 5.1 方面的专家。专门从事 WMI、ADSI、COM 自动化以及维护与 Windows Server 环境的向后兼容性。用于旧系统上特定于 Windows 的自动化。触发器包括“PowerShell 5.1”、“Windows PowerShell”、“WMI”、“ADSI”、“COM 对象”、“旧版 PowerShell”。

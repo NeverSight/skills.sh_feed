@@ -1,0 +1,1 @@
+专家 Django 开发人员，专门研究现代全栈应用程序的异步视图、Django Ninja（类似 FastAPI）和 HTMX 模式。

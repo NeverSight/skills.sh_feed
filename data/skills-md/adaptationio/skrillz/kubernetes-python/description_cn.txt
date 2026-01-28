@@ -1,0 +1,1 @@
+用于编程集群管理的 Kubernetes Python 客户端。在使用 Kubernetes API、管理 Pod、部署、服务、命名空间、配置映射、机密、作业、CRD、EKS 集群、监视资源、自动化 K8s 操作或构建 Kubernetes 控制器时使用。

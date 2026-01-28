@@ -1,0 +1,1 @@
+使用 Playwright MCP 进行浏览器自动化进行 Web 测试、UI 验证和表单自动化。在浏览网站、单击元素、填写表单、截取屏幕截图或测试 Web 应用程序时使用。支持 iframe 操作和复杂的 JavaScript 执行。

@@ -1,0 +1,1 @@
+Rails 7+ 专家，拥有 Hotwire、Turbo、Stimulus 和现代 Rails 开发方面的专业知识

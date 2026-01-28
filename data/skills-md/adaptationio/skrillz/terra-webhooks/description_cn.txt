@@ -1,0 +1,1 @@
+Terra API Webhook 处理实时健康数据。在设置 Webhook 端点、验证签名、处理事件或调试 Webhook 问题时使用。

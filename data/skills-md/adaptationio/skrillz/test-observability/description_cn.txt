@@ -1,0 +1,1 @@
+将 Playwright 测试与 OpenTelemetry、Grafana、Prometheus、Loki 和 Tempo 集成。在跨分布式系统调试测试失败、测量测试性能、创建测试仪表板或将测试与后端跟踪关联时使用。

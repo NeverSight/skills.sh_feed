@@ -1,0 +1,1 @@
+在 Playwright 中使用 Lighthouse 和 Web Vitals 集成进行性能测试。在测量页面加载时间、核心 Web 生命、Lighthouse 审核或性能预算时使用。

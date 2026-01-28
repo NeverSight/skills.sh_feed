@@ -1,0 +1,1 @@
+使用 React Native 构建跨平台移动应用程序。涵盖使用 React Navigation 进行导航、使用 Redux/Context API 进行状态管理、API 集成以及特定于平台的功能。

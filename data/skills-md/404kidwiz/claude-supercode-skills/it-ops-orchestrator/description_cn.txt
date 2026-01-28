@@ -1,0 +1,1 @@
+当用户需要跨 PowerShell、.NET、基础结构、Azure 和 M365 进行跨域 IT 任务协调时使用，特别是对于喜欢 PowerShell 自动化的 Windows 环境。
