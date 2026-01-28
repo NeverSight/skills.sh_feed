@@ -1,0 +1,1 @@
+安装 Navigator 多 Claude 工作流程编排脚本。当用户说“安装多 Claude 工作流程”、“设置多 Claude”或“启用并行执行”时自动调用。
