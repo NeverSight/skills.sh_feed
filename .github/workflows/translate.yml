@@ -4,14 +4,14 @@ on:
   push:
     paths:
       - 'data/skills-md/**/description_en.txt'
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:  # Allow manual trigger
     inputs:
       limit:
-        description: '翻译文件数量限制 (0 表示全部)'
+        description: 'Translation file limit (0 for all)'
         required: false
         default: '0'
 
-# 避免同时运行多个翻译任务
+# Prevent running multiple translation jobs concurrently
 concurrency:
   group: translate-${{ github.ref }}
   cancel-in-progress: true
@@ -49,7 +49,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/skills-md/
           
-          # 检查是否有变更
+          # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
@@ -57,11 +57,11 @@ jobs:
           
           git commit -m "chore: auto-translate description_en.txt to description_cn.txt"
           
-          # 先拉取最新代码，rebase 避免冲突
+          # Pull latest code first, rebase to avoid conflicts
           git fetch origin main
           git rebase origin/main || (git rebase --abort && git reset --soft origin/main)
           
-          # 重试 push，处理并发情况
+          # Retry push, handle concurrent situations
           for i in 1 2 3 4 5; do
             git push && break
             echo "Push failed, retrying ($i/5)..."
