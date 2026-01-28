@@ -35,7 +35,7 @@ Complete skill data containing all three leaderboards:
 
 Website-friendly index for *all* skills (built from `data/skills.json`):
 
-- Includes `description` (when a cached `SKILL.md` exists under `data/skills-md/`)
+- Includes `description` as a **path** to `description_en.txt` (when a cached `SKILL.md` exists under `data/skills-md/`)
 - Includes `skillMdPath` so your website can fetch and render the full markdown
 
 ### `data/feed.json`
@@ -65,6 +65,10 @@ Cached `SKILL.md` files fetched from GitHub, using common skill folder locations
 - `.cursor/skills/<skillId>/SKILL.md`
 - `.codex/skills/<skillId>/SKILL.md`
 - `plugins/<plugin-name>/skills/<skillId>/SKILL.md` (common in plugin-based repos, e.g. Expo)
+
+When a `SKILL.md` is present, the crawler also generates:
+
+- `description_en.txt` (extracted from the SKILL.md frontmatter `description` when available)
 
 By default, the crawler only fetches `SKILL.md` for skills included in the top lists (to keep the daily job fast).
 
