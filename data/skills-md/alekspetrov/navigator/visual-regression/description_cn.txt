@@ -1,0 +1,1 @@
+使用 Storybook 故事、配置和 CI/CD 工作流程设置视觉回归测试。支持 Chromatic、Percy、BackstopJS。当用户说“设置视觉回归”、“添加色彩测试”、“添加屏幕截图测试”或“设置 Percy”时自动调用。

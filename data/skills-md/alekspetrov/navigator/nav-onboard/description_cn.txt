@@ -1,0 +1,1 @@
+Navigator 的交互式入门 - 边做边学。当用户说“加入我”、“教我 Navigator”、“如何使用 Navigator”、“Navigator 教程”、“学习 Navigator”、“Navigator 新手”或“我应该使用哪些技能”时自动调用。

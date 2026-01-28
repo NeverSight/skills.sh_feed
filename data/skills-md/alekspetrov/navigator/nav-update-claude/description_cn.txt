@@ -1,0 +1,1 @@
+将项目 CLAUDE.md 更新到最新的 Navigator 版本，保留自定义设置。当用户说“更新 CLAUDE.md”、“迁移到 v3”或检测到过时的 Navigator 配置时使用。

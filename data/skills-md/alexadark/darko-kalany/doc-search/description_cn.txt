@@ -1,0 +1,1 @@
+当需要查找文档时自动激活。根据所查询的技术路由到最佳来源（Sanity MCP、Context7、Ref 或 WebSearch）。
