@@ -437,6 +437,10 @@ async function buildSkillsIndex(data: SkillsData) {
 async function syncAllSkillMds(data: SkillsData) {
   const onlyMissing = process.env.SYNC_ALL_ONLY_MISSING !== '0';
   const maxToFetch = process.env.SYNC_ALL_MAX ? Number(process.env.SYNC_ALL_MAX) : Number.POSITIVE_INFINITY;
+  const timeBudgetMinutes = process.env.SYNC_ALL_TIME_BUDGET_MINUTES
+    ? Number(process.env.SYNC_ALL_TIME_BUDGET_MINUTES)
+    : Number.POSITIVE_INFINITY;
+  const startMs = Date.now();
 
   const unique = new Map<string, { source: string; skillId: string }>();
   const all = [...data.allTime, ...data.trending, ...data.hot];
@@ -449,7 +453,7 @@ async function syncAllSkillMds(data: SkillsData) {
   });
 
   console.log(
-    `\nSYNC_ALL_SKILL_MDS=1: syncing SKILL.md for ${list.length} skills (onlyMissing=${onlyMissing}, max=${Number.isFinite(maxToFetch) ? maxToFetch : '∞'})...`,
+    `\nSYNC_ALL_SKILL_MDS=1: syncing SKILL.md for ${list.length} skills (onlyMissing=${onlyMissing}, max=${Number.isFinite(maxToFetch) ? maxToFetch : '∞'}, timeBudgetMinutes=${Number.isFinite(timeBudgetMinutes) ? timeBudgetMinutes : '∞'})...`,
   );
 
   const prev = readProgress();
@@ -459,6 +463,10 @@ async function syncAllSkillMds(data: SkillsData) {
 
   for (const { source, skillId } of list) {
     if (fetchedThisRun >= maxToFetch) break;
+    if (Number.isFinite(timeBudgetMinutes)) {
+      const elapsedMinutes = (Date.now() - startMs) / 1000 / 60;
+      if (elapsedMinutes >= timeBudgetMinutes) break;
+    }
 
     const targetPath = localSkillMdPath(source, skillId);
     if (onlyMissing && existsSync(targetPath)) continue;

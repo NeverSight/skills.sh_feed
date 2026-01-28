@@ -14,7 +14,8 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    # Note: GitHub-hosted runners have a hard ~6h job limit. Keep below that.
+    timeout-minutes: 350
     
     permissions:
       contents: write
@@ -40,7 +41,8 @@ jobs:
           # Keep backfilling SKILL.md until complete (batched to avoid timeouts).
           SYNC_ALL_SKILL_MDS: "1"
           SYNC_ALL_ONLY_MISSING: "1"
-          # No cap: try to fetch everything missing in one run.
+          # Keep each run comfortably below the GitHub job time limit.
+          SYNC_ALL_TIME_BUDGET_MINUTES: "330"
       
       - name: Commit data updates
         run: |
