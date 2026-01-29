@@ -1,0 +1,1 @@
+Use the polymarket_trades tool to fetch and filter recent Polymarket trades (free Data API), optionally by market or wallet.

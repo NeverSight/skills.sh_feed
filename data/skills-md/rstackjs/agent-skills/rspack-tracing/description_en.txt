@@ -1,0 +1,1 @@
+Comprehensive guide and toolkit for diagnosing Rspack build issues. Quickly identify where crashes/errors occur, or perform detailed performance profiling to resolve bottlenecks. Use when the user encounters build failures, slow builds, or wants to optimize Rspack performance.

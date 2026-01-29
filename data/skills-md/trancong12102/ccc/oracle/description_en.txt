@@ -1,0 +1,1 @@
+Invoke a powerful reasoning model for complex analysis tasks. Use when facing difficult bugs, reviewing critical code, designing complex refactors, needing architectural analysis, or seeking consensus on decisions. Also use for 'ask the oracle', 'get a second opinion', 'consult oracle', or 'deep analysis'.

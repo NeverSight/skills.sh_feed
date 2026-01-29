@@ -1,0 +1,1 @@
+Database specialist covering PostgreSQL, MongoDB, Redis, and advanced data patterns for modern applications

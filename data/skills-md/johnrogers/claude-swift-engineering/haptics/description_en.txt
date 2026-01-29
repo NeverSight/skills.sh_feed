@@ -1,0 +1,1 @@
+Use when adding haptic feedback for user confirmations (button presses, toggles, purchases), error notifications, or custom tactile patterns (Core Haptics). Covers UIFeedbackGenerator and CHHapticEngine patterns.

@@ -1,0 +1,1 @@
+Use when optimizing code for performance, reducing bundle size, improving load times, or fixing performance bottlenecks. Emphasizes measurement-driven optimization.

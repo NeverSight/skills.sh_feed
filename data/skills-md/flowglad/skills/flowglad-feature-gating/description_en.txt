@@ -1,0 +1,1 @@
+Implement feature access checks using Flowglad to gate premium features, create paywalls, and restrict functionality based on subscription status. Use this skill when adding paid-only features or checking user entitlements.

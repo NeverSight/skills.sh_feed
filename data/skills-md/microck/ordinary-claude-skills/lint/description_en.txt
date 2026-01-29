@@ -1,0 +1,1 @@
+Run targeted linting, formatting, and code quality checks on modified files. Use this to validate code style, type safety, security, and other quality metrics before committing. Supports running all checks or targeting specific checks on specific files for efficient validation.

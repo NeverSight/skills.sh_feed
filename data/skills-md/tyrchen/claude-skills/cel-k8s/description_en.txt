@@ -1,0 +1,1 @@
+Write production-ready CEL (Common Expression Language) code for Kubernetes ValidatingAdmissionPolicies, CRD validation rules, and security policies. Use when users need to create admission policies, validate Kubernetes resources, enforce security constraints, or write CEL expressions for Kubernetes.

@@ -1,0 +1,1 @@
+Tracks LLM token consumption and usage metrics for billing, monitoring, and optimization. Use this to log token usage, calculate costs, generate invoices, and understand which agents or users consume the most resources.

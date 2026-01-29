@@ -1,0 +1,1 @@
+Best practices for creating ISPC lit tests. Use when writing regression tests, verifying code generation, or checking compiler diagnostics.

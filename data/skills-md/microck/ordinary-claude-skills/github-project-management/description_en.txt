@@ -1,0 +1,1 @@
+Comprehensive GitHub project management with swarm-coordinated issue tracking, project board automation, and sprint planning

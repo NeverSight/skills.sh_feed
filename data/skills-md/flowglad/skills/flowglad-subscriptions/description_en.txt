@@ -1,0 +1,1 @@
+Manage subscription lifecycle including cancellation, plan changes, reactivation, and status display. Use this skill when users need to upgrade, downgrade, cancel, or reactivate subscriptions.

@@ -1,0 +1,1 @@
+Use when restructuring code to improve quality without changing external behavior. Emphasizes safety through tests and incremental changes.

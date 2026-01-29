@@ -1,0 +1,13 @@
+Optimize Next.js App Router data fetching by converting slow client-side 
+fetching to fast server-side fetching using React Server Components (RSC).
+
+Use when:
+- User reports slow initial page load with loading spinners
+- Page uses useEffect + useState for data fetching
+- StoreContext/useStore pattern causes waterfall fetching
+- Need to improve SEO (content not in initial HTML)
+- Converting "use client" pages to Server Components
+
+Triggers: "slow loading", "optimize fetching", "SSR data", "RSC optimization",
+"remove loading spinner", "server-side fetch", "convert to server component",
+"data fetch lambat", "loading lama"

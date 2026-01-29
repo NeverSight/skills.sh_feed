@@ -1,0 +1,1 @@
+Write idiomatic and modern (3.14+) python code. Use when writing Python code, CLI tools, scripts, or services. Emphasizes stdlib, type hints, uv/ruff toolchain, and minimal dependencies.

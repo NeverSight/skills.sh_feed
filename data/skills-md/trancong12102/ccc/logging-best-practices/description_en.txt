@@ -1,0 +1,1 @@
+Logging best practices focused on wide events (canonical log lines) for powerful debugging and analytics

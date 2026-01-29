@@ -1,0 +1,1 @@
+Create conference talk outlines and iA Presenter markdown slides using the Story Circle narrative framework. Use when the user wants to structure a tech talk, create presentation slides, or needs help organizing talk ideas into a story-driven format.

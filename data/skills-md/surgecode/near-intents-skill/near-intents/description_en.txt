@@ -1,0 +1,1 @@
+Cross-chain token swap integration using NEAR Intents 1Click API. Use when building swap widgets, bridge interfaces, or multi-chain transfers.

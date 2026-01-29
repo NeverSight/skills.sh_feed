@@ -1,0 +1,1 @@
+Create professional PDF reports with text, tables, and embedded images using reportlab. Works with ANY LLM provider (GPT, Gemini, Claude, etc.).

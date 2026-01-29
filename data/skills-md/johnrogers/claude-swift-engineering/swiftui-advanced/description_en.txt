@@ -1,0 +1,1 @@
+Use when implementing gesture composition (simultaneous, sequenced, exclusive), adaptive layouts (ViewThatFits, AnyLayout, size classes), or choosing architecture patterns (MVVM vs TCA vs vanilla, State-as-Bridge). Covers advanced SwiftUI patterns beyond basic views.

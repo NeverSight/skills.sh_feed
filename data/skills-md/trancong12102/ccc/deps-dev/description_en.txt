@@ -1,0 +1,1 @@
+Look up the latest version of any package using deps.dev API. Use this skill when checking package versions, updating dependencies, adding new packages to a project, or verifying current library versions.

@@ -1,0 +1,1 @@
+Configure Claude Code sandbox network isolation with trusted domains, custom access policies, and environment variables

@@ -1,0 +1,1 @@
+Use the coingecko_price tool to fetch spot crypto prices (free) for one or more symbols/ids with 24h change and last-updated timestamps.

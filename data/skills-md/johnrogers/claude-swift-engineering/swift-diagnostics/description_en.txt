@@ -1,0 +1,1 @@
+Use when debugging NavigationStack issues (not responding, unexpected pops, crashes), build failures (SPM resolution, "No such module", hanging builds), or memory problems (retain cycles, leaks, deinit not called). Systematic diagnostic workflows for iOS/macOS.

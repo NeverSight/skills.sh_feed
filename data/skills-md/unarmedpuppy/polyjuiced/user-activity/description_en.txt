@@ -1,0 +1,1 @@
+Pull trading activity from Polymarket for any user

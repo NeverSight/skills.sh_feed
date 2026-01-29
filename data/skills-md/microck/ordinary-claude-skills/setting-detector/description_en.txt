@@ -1,0 +1,1 @@
+Automatically detects story settings (genres, time periods, themes) based on keywords and activates corresponding knowledge bases - works silently in the background to provide relevant writing guidance without user intervention

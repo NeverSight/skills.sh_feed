@@ -1,0 +1,1 @@
+Query and analyze SEC filings and financial statements using EdgarTools. Get company data, filings, XBRL financials, and perform multi-company analysis.

@@ -1,0 +1,1 @@
+Guide users through writing their first Buck2 rule to learn fundamental concepts including rules, actions, targets, configurations, analysis, and select(). Use this skill when users want to learn Buck2 basics hands-on or need help understanding rule writing.

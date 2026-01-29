@@ -1,0 +1,1 @@
+Database schema patterns for InsForge including social graphs, e-commerce, content publishing, and multi-tenancy with RLS policies. Use when designing data models with relationships, foreign keys, or Row Level Security.

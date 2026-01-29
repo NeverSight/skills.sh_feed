@@ -1,0 +1,1 @@
+Validate code changes by intelligently selecting and running the appropriate test suites. Use this when editing code to verify changes work correctly, run tests, validate functionality, or check for regressions. Automatically discovers affected test suites, selects the minimal set of venvs needed for validation, and handles test execution with Docker services as needed.

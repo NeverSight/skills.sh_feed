@@ -1,0 +1,1 @@
+Use when designing system architecture, making high-level technical decisions, or planning major system changes. Focuses on structure, patterns, and long-term strategy.

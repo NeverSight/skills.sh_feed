@@ -1,0 +1,1 @@
+This skill provides a way to retrieve information from the AgentScope library for analysis and decision-making.

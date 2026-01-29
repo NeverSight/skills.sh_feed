@@ -1,0 +1,1 @@
+Generates Conventional Commits messages and can stage/commit changes. Use when asked to create git commit messages or perform a commit.

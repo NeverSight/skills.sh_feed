@@ -1,0 +1,1 @@
+Systematically evaluate code changes for security, correctness, performance, and spec alignment. Use when reviewing PRs, assessing code quality, or verifying implementation against requirements.

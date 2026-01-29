@@ -1,0 +1,1 @@
+Run and troubleshoot tests for DBHub, including unit tests, integration tests with Testcontainers, and database-specific tests. Use when asked to run tests, fix test failures, debug integration tests, or troubleshoot Docker/database container issues.

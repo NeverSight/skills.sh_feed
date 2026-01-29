@@ -1,0 +1,1 @@
+Example security audit skill demonstrating how to audit code for security vulnerabilities. Use when the user asks to perform security reviews, check for vulnerabilities, or audit code security.

@@ -1,0 +1,6 @@
+Manage shadcn/ui components using MCP tools. Use when user needs to:
+(1) Add new shadcn components to a project
+(2) Build complex UI features requiring multiple components
+(3) Research component implementations and examples
+(4) Get component installation commands
+Triggers: "add shadcn", "shadcn component", "build UI with shadcn", "install component", "create form", "create dialog"

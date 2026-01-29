@@ -1,0 +1,1 @@
+Guide Clojure and ClojureScript development using REPL-driven workflow, coding conventions, and best practices. Use when writing, developing, or refactoring Clojure/ClojureScript code.

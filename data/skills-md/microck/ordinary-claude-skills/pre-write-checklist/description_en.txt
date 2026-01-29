@@ -1,0 +1,1 @@
+Activates automatically before chapter writing to enforce the 9-item mandatory file reading checklist - prevents AI focus degradation in long-form fiction by ensuring all context is loaded before each writing session

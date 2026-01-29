@@ -1,0 +1,1 @@
+Use when creating or updating documentation including READMEs, API docs, inline comments, or technical guides. Focuses on clarity and usefulness for the intended audience.

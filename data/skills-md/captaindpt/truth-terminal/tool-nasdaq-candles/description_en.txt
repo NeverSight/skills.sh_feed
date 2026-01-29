@@ -1,0 +1,1 @@
+Use the nasdaq_candles tool to fetch OHLCV candles (free) with caching and latency metadata; good for quick charting.

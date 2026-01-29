@@ -1,0 +1,1 @@
+Safe deployment of Polymarket trading bot with regression tests and active trade protection

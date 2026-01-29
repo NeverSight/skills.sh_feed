@@ -1,0 +1,1 @@
+Collaboratively explore ideas and design solutions through guided dialogue before implementation. Use this skill when creating features, building components, adding functionality, designing systems, or when the user says "brainstorm", "design this", "help me think through", or "let's plan".

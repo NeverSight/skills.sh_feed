@@ -1,0 +1,1 @@
+Use when reviewing pull requests with comprehensive code analysis, incremental or full review options, and constructive feedback - provides thorough code reviews with severity ratings

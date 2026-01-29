@@ -1,0 +1,1 @@
+Google Play Billing Library for Android in-app purchases and subscriptions. Use for implementing IAP, managing products, handling purchases, validating transactions, and subscription management.

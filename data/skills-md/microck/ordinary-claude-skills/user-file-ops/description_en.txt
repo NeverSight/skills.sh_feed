@@ -1,0 +1,1 @@
+Simple operations on user-provided text files including summarization.

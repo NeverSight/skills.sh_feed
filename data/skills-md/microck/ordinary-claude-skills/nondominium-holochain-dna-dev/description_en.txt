@@ -1,0 +1,1 @@
+Specialized skill for nondominium Holochain DNA development, focusing on zome creation, entry patterns, integrity/coordinator architecture, ValueFlows compliance, and WASM optimization. Use when creating new zomes, implementing entry types, or modifying Holochain DNA code.

@@ -1,0 +1,1 @@
+Add Stripe payment processing to Next.js projects. Implement checkout sessions, payment handling, subscriptions, webhooks, and customer management. Use when adding Stripe to a Next.js project, building payment flows, implementing subscriptions, or integrating payment processing.

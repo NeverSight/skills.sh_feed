@@ -1,0 +1,1 @@
+Use when writing raw SQL with GRDB, complex joins across 4+ tables, window functions, ValueObservation for reactive queries, or dropping down from SQLiteData for performance. Direct SQLite access for iOS/macOS with type-safe queries and migrations.

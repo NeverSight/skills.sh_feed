@@ -1,0 +1,1 @@
+Integrate new DEX aggregators, swappers, or bridge protocols (like Bebop, Portals, Jupiter, 0x, 1inch, etc.) into ShapeShift Web. Activates when user wants to add, integrate, or implement support for a new swapper. Guides through research, implementation, and testing following established patterns.

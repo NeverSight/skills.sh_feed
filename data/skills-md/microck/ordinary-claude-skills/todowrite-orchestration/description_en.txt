@@ -1,0 +1,1 @@
+Track progress in multi-phase workflows with TodoWrite. Use when orchestrating 5+ phase commands, managing iteration loops, tracking parallel tasks, or providing real-time progress visibility. Trigger keywords - "phase tracking", "progress", "workflow", "multi-step", "multi-phase", "todo", "tracking", "status".

@@ -1,0 +1,1 @@
+Use the polymarket_book tool to fetch Polymarket CLOB order book depth (YES/NO) via Gamma + CLOB and expose best bid/ask/mid.

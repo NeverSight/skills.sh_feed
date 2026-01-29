@@ -1,0 +1,1 @@
+Retrieve current library documentation and code examples from Context7. Use when looking up library APIs, "docs", specific library versions, or "how to use [library]". Prefer over training knowledge for library-specific questions. Do not use for general programming concepts.

@@ -1,0 +1,1 @@
+Expert in React Native environment setup and configuration. Helps with Node.js, Xcode, Android Studio, watchman installation, CocoaPods, simulators, emulators, and troubleshooting setup issues. Activates for environment setup, installation issues, xcode setup, android studio, simulators, emulators, react-native init, expo init, development environment, SDK configuration.

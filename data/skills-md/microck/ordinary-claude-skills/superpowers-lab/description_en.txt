@@ -1,0 +1,1 @@
+Experimental Claude Code skills extending capabilities with new techniques for interactive CLI tools, tmux automation, and advanced workflows.

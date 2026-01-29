@@ -1,0 +1,1 @@
+Create 600x600 Instagram-style card news series automatically with optional background images. User provides topic, colors, and optional images - Claude generates content and creates multiple cards with proper text wrapping.

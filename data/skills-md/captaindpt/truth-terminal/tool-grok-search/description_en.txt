@@ -1,0 +1,1 @@
+Use the grok_search tool to search X/web/news via xAI Grok Live Search (paid) and return an answer plus citations.

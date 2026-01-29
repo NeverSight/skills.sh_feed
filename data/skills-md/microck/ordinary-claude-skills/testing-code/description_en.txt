@@ -1,0 +1,1 @@
+Write automated tests for features, validate functionality against acceptance criteria, and ensure code coverage. Use when writing test code, verifying functionality, or adding test coverage to existing code.

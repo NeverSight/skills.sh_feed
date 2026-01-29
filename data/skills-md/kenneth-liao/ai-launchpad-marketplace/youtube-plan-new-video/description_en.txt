@@ -1,0 +1,1 @@
+Generate a complete video plan with optimized title, thumbnail, and hook concepts based on research. Orchestrates specialized skills (youtube-title, youtube-thumbnail, youtube-video-hook) to create production-ready video plans. Use after research is complete or when the user wants to plan a new video.

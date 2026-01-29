@@ -1,0 +1,1 @@
+Use when implementing internationalization (i18n), String Catalogs, pluralization, or right-to-left layout support. Covers modern localization workflows with Xcode String Catalogs and LocalizedStringKey patterns.

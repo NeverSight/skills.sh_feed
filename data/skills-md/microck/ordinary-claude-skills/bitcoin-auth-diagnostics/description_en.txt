@@ -1,0 +1,1 @@
+Diagnose and troubleshoot bitcoin-auth token generation and verification issues. This skill should be used when users encounter authentication failures, signature verification errors, or integration problems with the bitcoin-auth library.

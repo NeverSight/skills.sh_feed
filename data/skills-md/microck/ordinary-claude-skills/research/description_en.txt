@@ -1,0 +1,1 @@
+Research libraries, APIs, and patterns using searchGitHub and Exa tools. Finds real-world implementations and saves structured reports to docs/research/. Use when investigating technologies, debugging issues, or comparing options.

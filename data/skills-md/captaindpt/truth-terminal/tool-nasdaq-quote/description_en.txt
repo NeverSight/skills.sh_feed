@@ -1,0 +1,1 @@
+Use the nasdaq_quote tool to fetch a US equity quote (free; delayed) with lightweight caching and latency metadata.

@@ -1,0 +1,1 @@
+Use when implementing on-device AI with Apple's Foundation Models framework (iOS 26+), building summarization/extraction/classification features, or using @Generable for type-safe structured output.

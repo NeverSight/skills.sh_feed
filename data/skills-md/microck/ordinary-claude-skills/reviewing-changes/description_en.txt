@@ -1,0 +1,1 @@
+Android-specific code review workflow additions for Bitwarden Android. Provides change type refinements, checklist loading, and reference material organization. Complements bitwarden-code-reviewer agent's base review standards.

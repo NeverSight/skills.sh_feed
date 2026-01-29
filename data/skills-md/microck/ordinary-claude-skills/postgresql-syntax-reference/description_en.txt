@@ -1,0 +1,1 @@
+Consult PostgreSQL's parser and grammar (gram.y) to understand SQL syntax, DDL statement structure, and parsing rules when implementing pgschema features

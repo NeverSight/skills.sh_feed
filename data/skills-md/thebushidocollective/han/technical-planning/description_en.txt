@@ -1,0 +1,1 @@
+Use when creating implementation plans for features or tasks. Focuses on tactical execution planning with clear tasks, dependencies, and success criteria.

@@ -1,0 +1,1 @@
+Connect to live PostgreSQL database to validate schema assumptions, compare pg_dump vs pgschema output, and query system catalogs interactively

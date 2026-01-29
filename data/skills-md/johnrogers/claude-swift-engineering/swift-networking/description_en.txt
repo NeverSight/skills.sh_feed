@@ -1,0 +1,1 @@
+Use when implementing Network.framework connections (NWConnection, NetworkConnection), debugging connection failures, migrating from sockets/URLSession streams, or handling network transitions. Covers UDP/TCP patterns, structured concurrency networking (iOS 26+), and common anti-patterns.

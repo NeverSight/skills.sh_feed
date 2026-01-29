@@ -1,0 +1,1 @@
+Use when designing solutions, adding features, or refactoring by applying KISS, YAGNI, and Principle of Least Astonishment to write simple, predictable code.

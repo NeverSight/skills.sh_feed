@@ -1,0 +1,1 @@
+Validate consistency across SEED Design component documentation layers (design guidelines in ./docs/content/docs/components, Rootage specs in ./packages/rootage/components, and React docs in ./docs/content/react/components). Use when auditing documentation completeness, before releases, or validating new component docs.

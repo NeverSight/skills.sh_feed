@@ -4,589 +4,629 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Thu, 29 Jan 2026 02:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 08:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[[Daily] Skills.sh snapshot (2026-01-29)]]></title>
             <link>https://skills.sh</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:snapshot</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:snapshot</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
             <description><![CDATA[Daily snapshot.
 Providers: skills.sh
-All Time skills: 18838
-Trending skills: 10939
-Hot skills: 5704
-Top All Time: vercel-react-best-practices (64245)
-Top Trending: find-skills (14611)
-Top Hot: vue (145)]]></description>
+All Time skills: 19386
+Trending skills: 10643
+Hot skills: 961
+Top All Time: vercel-react-best-practices (65737)
+Top Trending: find-skills (14773)
+Top Hot: atxp (1519)]]></description>
         </item>
         <item>
-            <title><![CDATA[[All Time] New entry (#24): atxp]]></title>
-            <link>https://skills.sh/atxp-dev/cli/atxp</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topAllTime:new:atxp-dev/cli/atxp</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
+            <title><![CDATA[[All Time] New entry (#50): test-driven-development]]></title>
+            <link>https://skills.sh/obra/superpowers/test-driven-development</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:new:obra/superpowers/test-driven-development</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
             <description><![CDATA[New entry in All Time leaderboard.
-Rank: #24
-Installs: 3484
-Source: atxp-dev/cli
-Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.]]></description>
+Rank: #50
+Installs: 2438
+Source: obra/superpowers
+Description: Use when implementing any feature or bugfix, before writing implementation code]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#10): atxp]]></title>
-            <link>https://skills.sh/atxp-dev/cli/atxp</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:atxp-dev/cli/atxp</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #10
-Installs: 133
-Source: atxp-dev/cli
-Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#14): vitepress]]></title>
-            <link>https://skills.sh/antfu/skills/vitepress</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:antfu/skills/vitepress</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #14
-Installs: 99
-Source: antfu/skills
-Description: Vite & Vue powered static site generator for building fast, content-centric websites]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#17): slidev]]></title>
-            <link>https://skills.sh/antfu/skills/slidev</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:antfu/skills/slidev</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #17
-Installs: 93
-Source: antfu/skills
-Description: Create and present web-based slides for developers using Markdown, Vue components, code highlighting, animations, and interactive features. Use when building technical presentations, conference talks, or teaching materials.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#19): web-design-guidelines]]></title>
-            <link>https://skills.sh/vercel-labs/agent-skills/web-design-guidelines</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vercel-labs/agent-skills/web-design-guidelines</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#19): browser-use]]></title>
+            <link>https://skills.sh/browser-use/browser-use/browser-use</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:browser-use/browser-use/browser-use</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #19
-Installs: 242
-Source: vercel-labs/agent-skills
-Description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#20): frontend-design]]></title>
-            <link>https://skills.sh/anthropics/skills/frontend-design</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:anthropics/skills/frontend-design</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #20
-Installs: 153
-Source: anthropics/skills
-Description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#22): vue-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #22
-Installs: 31
-Source: vuejs-ai/skills
-Description: Vue 3 and Vue.js best practices for TypeScript, vue-tsc, and Volar. This skill should be used when writing, reviewing, or refactoring Vue components to ensure correct typing patterns. Triggers on tasks involving Vue components, props extraction, wrapper components, template type checking, or Volar configuration.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#23): vue-pinia-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-pinia-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-pinia-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #23
-Installs: 31
-Source: vuejs-ai/skills
-Description: Pinia stores, state management patterns, store setup, and reactivity with stores.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#24): vue-router-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-router-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-router-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #24
-Installs: 30
-Source: vuejs-ai/skills
-Description: Vue Router 4 patterns, navigation guards, route params, and route-component lifecycle interactions.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#25): create-adaptable-composable]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/create-adaptable-composable</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/create-adaptable-composable</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #25
-Installs: 29
-Source: vuejs-ai/skills
-Description: Create a library-grade Vue composable that accepts maybe-reactive inputs (MaybeRef / MaybeRefOrGetter) so callers can pass a plain value, ref, or getter. Normalize inputs with toValue()/toRef() inside reactive effects (watch/watchEffect) to keep behavior predictable and reactive. Use this skill when user asks for creating adaptable or reusable composables.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#26): vue-development-guides]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-development-guides</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-development-guides</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #26
-Installs: 29
-Source: vuejs-ai/skills
-Description: A collection of best practices and tips for developing applications using Vue.js. This skill MUST be apply when developing, refactoring or reviewing Vue.js or Nuxt projects.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#27): ui-ux-pro-max]]></title>
-            <link>https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #27
-Installs: 69
-Source: nextlevelbuilder/ui-ux-pro-max-skill
-Description: UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. Integrations: shadcn/ui MCP for component search and examples.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#28): vue-options-api-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-options-api-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-options-api-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #28
-Installs: 26
-Source: vuejs-ai/skills
-Description: Vue 3 Options API style (data(), methods, this context). Each reference shows Options API solution only.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#29): vue-testing-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-testing-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-testing-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #29
-Installs: 25
-Source: vuejs-ai/skills
-Description: Use for Vue.js testing. Covers Vitest, Vue Test Utils, component testing, mocking, testing patterns, and Playwright for E2E testing.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#3): find-skills]]></title>
-            <link>https://skills.sh/vercel-labs/skills/find-skills</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vercel-labs/skills/find-skills</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #3
-Installs: 772
-Source: vercel-labs/skills
-Description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#31): vue-jsx-best-practices]]></title>
-            <link>https://skills.sh/vuejs-ai/skills/vue-jsx-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:vuejs-ai/skills/vue-jsx-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #31
-Installs: 23
-Source: vuejs-ai/skills
-Description: JSX syntax in Vue (e.g., class vs className, JSX plugin config).]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#32): vue-development-guides]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-development-guides</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-development-guides</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #32
-Installs: 23
-Source: hyf0/vue-skills
-Description: A collection of best practices and tips for developing applications using Vue.js. This skill MUST be apply when developing, refactoring or reviewing Vue.js or Nuxt projects.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#33): vue-pinia-best-practices]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-pinia-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-pinia-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #33
-Installs: 22
-Source: hyf0/vue-skills
-Description: Pinia stores, state management patterns, store setup, and reactivity with stores.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#34): create-adaptable-composable]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/create-adaptable-composable</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/create-adaptable-composable</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #34
-Installs: 22
-Source: hyf0/vue-skills
-Description: Create a library-grade Vue composable that accepts maybe-reactive inputs (MaybeRef / MaybeRefOrGetter) so callers can pass a plain value, ref, or getter. Normalize inputs with toValue()/toRef() inside reactive effects (watch/watchEffect) to keep behavior predictable and reactive. Use this skill when user asks for creating adaptable or reusable composables.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#35): vue-router-best-practices]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-router-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-router-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #35
-Installs: 21
-Source: hyf0/vue-skills
-Description: Vue Router 4 patterns, navigation guards, route params, and route-component lifecycle interactions.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#36): vue-options-api-best-practices]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-options-api-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-options-api-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #36
-Installs: 21
-Source: hyf0/vue-skills
-Description: Vue 3 Options API style (data(), methods, this context). Each reference shows Options API solution only.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#37): vue-jsx-best-practices]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-jsx-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-jsx-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #37
-Installs: 20
-Source: hyf0/vue-skills
-Description: JSX syntax in Vue (e.g., class vs className, JSX plugin config).]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#38): vue-testing-best-practices]]></title>
-            <link>https://skills.sh/hyf0/vue-skills/vue-testing-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:hyf0/vue-skills/vue-testing-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #38
-Installs: 19
-Source: hyf0/vue-skills
-Description: Use for Vue.js testing. Covers Vitest, Vue Test Utils, component testing, mocking, testing patterns, and Playwright for E2E testing.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#40): skill-creator]]></title>
-            <link>https://skills.sh/anthropics/skills/skill-creator</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:anthropics/skills/skill-creator</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #40
-Installs: 80
-Source: anthropics/skills
-Description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#44): docx]]></title>
-            <link>https://skills.sh/anthropics/skills/docx</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:anthropics/skills/docx</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #44
-Installs: 35
-Source: anthropics/skills
-Description: Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#45): xlsx]]></title>
-            <link>https://skills.sh/anthropics/skills/xlsx</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:anthropics/skills/xlsx</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #45
-Installs: 33
-Source: anthropics/skills
-Description: Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#46): better-auth-best-practices]]></title>
-            <link>https://skills.sh/better-auth/skills/better-auth-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:better-auth/skills/better-auth-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #46
-Installs: 20
-Source: better-auth/skills
-Description: Skill for integrating Better Auth - the comprehensive TypeScript authentication framework.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#47): convex]]></title>
-            <link>https://skills.sh/waynesutton/convexskills/convex</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:waynesutton/convexskills/convex</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #47
-Installs: 8
-Source: waynesutton/convexskills
-Description: Umbrella skill for all Convex development patterns. Routes to specific skills like convex-functions, convex-realtime, convex-agents, etc.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#48): git-advanced-workflows]]></title>
-            <link>https://skills.sh/wshobson/agents/git-advanced-workflows</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:wshobson/agents/git-advanced-workflows</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #48
-Installs: 8
-Source: wshobson/agents
-Description: Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#49): nextjs-app-router-patterns]]></title>
-            <link>https://skills.sh/wshobson/agents/nextjs-app-router-patterns</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:wshobson/agents/nextjs-app-router-patterns</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #49
-Installs: 7
-Source: wshobson/agents
-Description: Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Server Components.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#50): debugging-strategies]]></title>
-            <link>https://skills.sh/wshobson/agents/debugging-strategies</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:new:wshobson/agents/debugging-strategies</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #50
-Installs: 7
-Source: wshobson/agents
-Description: Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#22): vite]]></title>
-            <link>https://skills.sh/antfu/skills/vite</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/vite</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #22
-Installs: 504
-Source: antfu/skills
-Description: Vite is a next-generation frontend build tool that provides a fast dev server with HMR and optimized production builds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#24): vue]]></title>
-            <link>https://skills.sh/antfu/skills/vue</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/vue</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #24
-Installs: 483
-Source: antfu/skills
-Description: Vue.js - The Progressive JavaScript Framework for building user interfaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#28): vue-best-practices]]></title>
-            <link>https://skills.sh/antfu/skills/vue-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/vue-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #28
-Installs: 462
-Source: antfu/skills
-Description: Vue 3 and Vue.js best practices for TypeScript, vue-tsc, and Volar. This skill should be used when writing, reviewing, or refactoring Vue components to ensure correct typing patterns. Triggers on tasks involving Vue components, props extraction, wrapper components, template type checking, or Volar configuration.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#29): vueuse-functions]]></title>
-            <link>https://skills.sh/antfu/skills/vueuse-functions</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/vueuse-functions</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #29
-Installs: 452
-Source: antfu/skills
-Description: Apply VueUse composables where appropriate to build concise, maintainable Vue.js / Nuxt features.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#30): pnpm]]></title>
-            <link>https://skills.sh/antfu/skills/pnpm</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/pnpm</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #30
-Installs: 449
-Source: antfu/skills
-Description: Fast, disk space efficient package manager for Node.js with strict dependency resolution and monorepo support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#32): antfu]]></title>
-            <link>https://skills.sh/antfu/skills/antfu</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/antfu</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #32
-Installs: 440
-Source: antfu/skills
-Description: Anthony Fu's {Opinionated} preferences and best practices for web development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#33): vitest]]></title>
-            <link>https://skills.sh/antfu/skills/vitest</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/vitest</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #33
-Installs: 432
-Source: antfu/skills
-Description: A blazing fast unit testing framework powered by Vite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#34): web-design-guidelines]]></title>
-            <link>https://skills.sh/antfu/skills/web-design-guidelines</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/web-design-guidelines</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #34
-Installs: 422
-Source: antfu/skills
-Description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#37): karpathy-guidelines]]></title>
-            <link>https://skills.sh/forrestchang/andrej-karpathy-skills/karpathy-guidelines</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:forrestchang/andrej-karpathy-skills/karpathy-guidelines</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #37
-Installs: 414
-Source: forrestchang/andrej-karpathy-skills
-Description: Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#38): pinia]]></title>
-            <link>https://skills.sh/antfu/skills/pinia</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/pinia</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #38
-Installs: 399
-Source: antfu/skills
-Description: The intuitive store for Vue - type-safe, extensible, and modular state management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#43): unocss]]></title>
-            <link>https://skills.sh/antfu/skills/unocss</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/unocss</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #43
-Installs: 356
-Source: antfu/skills
-Description: Instant on-demand atomic CSS engine - fully customizable, powerful, fast, and joyful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#44): nuxt]]></title>
-            <link>https://skills.sh/antfu/skills/nuxt</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/nuxt</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #44
-Installs: 356
-Source: antfu/skills
-Description: Nuxt is a Vue.js framework for building full-stack web applications with SSR, auto-imports, file-based routing, and hybrid rendering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#48): tsdown]]></title>
-            <link>https://skills.sh/antfu/skills/tsdown</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/tsdown</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #48
-Installs: 327
-Source: antfu/skills
-Description: tsdown is a fast and elegant TypeScript library bundler powered by Rolldown and Oxc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#50): turborepo]]></title>
-            <link>https://skills.sh/antfu/skills/turborepo</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topTrending:new:antfu/skills/turborepo</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #50
-Installs: 317
-Source: antfu/skills
-Description: Turborepo monorepo build system guidance. Triggers on: turbo.json, task pipelines,
-dependsOn, caching, remote cache, the "turbo" CLI, --filter, --affected, CI optimization, environment
-variables, internal packages, monorepo structure/best practices, and boundaries.
-
-Use when user: configures tasks/workflows/pipelines, creates packages, sets up
-monorepo, shares code between apps, runs changed/affected packages, debugs cache,
-or has apps/packages directories.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[All Time] Rank up (16 → 13): browser-use]]></title>
-            <link>https://skills.sh/browser-use/browser-use/browser-use</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topAllTime:rank:browser-use/browser-use/browser-use</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[All Time leaderboard rank change.
-Previous rank: #16
-Current rank: #13
-Delta: +3
-Installs: 5332 (prev 3993)
+Installs: 112
 Source: browser-use/browser-use
 Description: Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, or extract information from web pages.]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] Rank down (11 → 30): audit-website]]></title>
+            <title><![CDATA[[Hot] New entry (#21): pdf]]></title>
+            <link>https://skills.sh/anthropics/skills/pdf</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/pdf</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #21
+Installs: 39
+Source: anthropics/skills
+Description: Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#31): agent-browser]]></title>
+            <link>https://skills.sh/vercel-labs/agent-browser/agent-browser</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:vercel-labs/agent-browser/agent-browser</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #31
+Installs: 114
+Source: vercel-labs/agent-browser
+Description: Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#33): mcp-builder]]></title>
+            <link>https://skills.sh/anthropics/skills/mcp-builder</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/mcp-builder</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #33
+Installs: 35
+Source: anthropics/skills
+Description: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#35): code-reviewer]]></title>
+            <link>https://skills.sh/google-gemini/gemini-cli/code-reviewer</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:google-gemini/gemini-cli/code-reviewer</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #35
+Installs: 18
+Source: google-gemini/gemini-cli
+Description: Use this skill to review code. It supports both local changes (staged or working tree) and remote Pull Requests (by ID or URL). It focuses on correctness, maintainability, and adherence to project standards.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#36): systematic-debugging]]></title>
+            <link>https://skills.sh/obra/superpowers/systematic-debugging</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:obra/superpowers/systematic-debugging</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #36
+Installs: 29
+Source: obra/superpowers
+Description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#37): web-artifacts-builder]]></title>
+            <link>https://skills.sh/anthropics/skills/web-artifacts-builder</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/web-artifacts-builder</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #37
+Installs: 18
+Source: anthropics/skills
+Description: Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#39): doc-coauthoring]]></title>
+            <link>https://skills.sh/anthropics/skills/doc-coauthoring</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/doc-coauthoring</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #39
+Installs: 20
+Source: anthropics/skills
+Description: Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#40): template-skill]]></title>
+            <link>https://skills.sh/anthropics/skills/template-skill</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/template-skill</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #40
+Installs: 18
+Source: anthropics/skills
+Description: Replace with description of the skill and when Claude should use it.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#41): algorithmic-art]]></title>
+            <link>https://skills.sh/anthropics/skills/algorithmic-art</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/algorithmic-art</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #41
+Installs: 18
+Source: anthropics/skills
+Description: Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#42): internal-comms]]></title>
+            <link>https://skills.sh/anthropics/skills/internal-comms</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/internal-comms</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #42
+Installs: 17
+Source: anthropics/skills
+Description: A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#43): slack-gif-creator]]></title>
+            <link>https://skills.sh/anthropics/skills/slack-gif-creator</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/slack-gif-creator</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #43
+Installs: 16
+Source: anthropics/skills
+Description: Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like "make me a GIF of X doing Y for Slack."]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#44): brand-guidelines]]></title>
+            <link>https://skills.sh/anthropics/skills/brand-guidelines</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/brand-guidelines</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #44
+Installs: 16
+Source: anthropics/skills
+Description: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#45): brainstorming]]></title>
+            <link>https://skills.sh/obra/superpowers/brainstorming</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:obra/superpowers/brainstorming</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #45
+Installs: 47
+Source: obra/superpowers
+Description: You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#46): theme-factory]]></title>
+            <link>https://skills.sh/anthropics/skills/theme-factory</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:anthropics/skills/theme-factory</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #46
+Installs: 18
+Source: anthropics/skills
+Description: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#47): baoyu-format-markdown]]></title>
+            <link>https://skills.sh/jimliu/baoyu-skills/baoyu-format-markdown</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:jimliu/baoyu-skills/baoyu-format-markdown</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #47
+Installs: 7
+Source: jimliu/baoyu-skills
+Description: Formats plain text or markdown files with frontmatter, titles, summaries, headings, bold, lists, and code blocks. Use when user asks to "format markdown", "beautify article", "add formatting", or improve article layout. Outputs to {filename}-formatted.md.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#48): baoyu-markdown-to-html]]></title>
+            <link>https://skills.sh/jimliu/baoyu-skills/baoyu-markdown-to-html</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:jimliu/baoyu-skills/baoyu-markdown-to-html</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #48
+Installs: 7
+Source: jimliu/baoyu-skills
+Description: Converts Markdown to styled HTML with WeChat-compatible themes. Supports code highlighting, math, PlantUML, footnotes, alerts, and infographics. Use when user asks for "markdown to html", "convert md to html", "md转html", or needs styled HTML output from markdown.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#49): using-git-worktrees]]></title>
+            <link>https://skills.sh/obra/superpowers/using-git-worktrees</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:obra/superpowers/using-git-worktrees</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #49
+Installs: 18
+Source: obra/superpowers
+Description: Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#50): marketing-ideas]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/marketing-ideas</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:new:coreyhaines31/marketingskills/marketing-ideas</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #50
+Installs: 16
+Source: coreyhaines31/marketingskills
+Description: When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 139 proven marketing approaches organized by category.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] New entry (#33): vitepress]]></title>
+            <link>https://skills.sh/antfu/skills/vitepress</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:new:antfu/skills/vitepress</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Trending leaderboard.
+Rank: #33
+Installs: 552
+Source: antfu/skills
+Description: Vite & Vue powered static site generator for building fast, content-centric websites]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] New entry (#36): slidev]]></title>
+            <link>https://skills.sh/antfu/skills/slidev</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:new:antfu/skills/slidev</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[New entry in Trending leaderboard.
+Rank: #36
+Installs: 526
+Source: antfu/skills
+Description: Create and present web-based slides for developers using Markdown, Vue components, code highlighting, animations, and interactive features. Use when building technical presentations, conference talks, or teaching materials.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] Rank down (14 → 17): building-native-ui]]></title>
+            <link>https://skills.sh/expo/skills/building-native-ui</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:rank:expo/skills/building-native-ui</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[All Time leaderboard rank change.
+Previous rank: #14
+Current rank: #17
+Delta: -3
+Installs: 5271 (prev 5185)
+Source: expo/skills
+Description: Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] Rank down (8 → 11): seo-audit]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/seo-audit</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:rank:coreyhaines31/marketingskills/seo-audit</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[All Time leaderboard rank change.
+Previous rank: #8
+Current rank: #11
+Delta: -3
+Installs: 7032 (prev 6790)
+Source: coreyhaines31/marketingskills
+Description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[All Time] Rank down (9 → 10): audit-website]]></title>
             <link>https://skills.sh/squirrelscan/skills/audit-website</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:rank:squirrelscan/skills/audit-website</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #11
-Current rank: #30
-Delta: -19
-Installs: 46 (prev 34)
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:rank:squirrelscan/skills/audit-website</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[All Time leaderboard rank change.
+Previous rank: #9
+Current rank: #10
+Delta: -1
+Installs: 7074 (prev 6578)
 Source: squirrelscan/skills
 Description: Audit websites for SEO, performance, security, technical, content, and 15 other issue cateories with 150+ rules using the squirrelscan CLI. Returns LLM-optimized reports with health scores, broken links, meta tag analysis, and actionable recommendations. Use to discover and asses website or webapp issues and health.]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] Rank down (15 → 43): supabase-postgres-best-practices]]></title>
-            <link>https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:rank:supabase/agent-skills/supabase-postgres-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #15
-Current rank: #43
-Delta: -28
-Installs: 38 (prev 57)
-Source: supabase/agent-skills
-Description: Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.]]></description>
+            <title><![CDATA[[All Time] Rank up (11 → 8): vercel-composition-patterns]]></title>
+            <link>https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:rank:vercel-labs/agent-skills/vercel-composition-patterns</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[All Time leaderboard rank change.
+Previous rank: #11
+Current rank: #8
+Delta: +3
+Installs: 7339 (prev 6475)
+Source: vercel-labs/agent-skills
+Description: React composition patterns that scale. Use when refactoring components with boolean prop proliferation, building flexible component libraries, or designing reusable APIs. Triggers on tasks involving compound components, render props, context providers, or component architecture.]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] Rank down (2 → 42): vercel-react-native-skills]]></title>
-            <link>https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:rank:vercel-labs/agent-skills/vercel-react-native-skills</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
+            <title><![CDATA[[All Time] Rank up (24 → 9): atxp]]></title>
+            <link>https://skills.sh/atxp-dev/cli/atxp</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topAllTime:rank:atxp-dev/cli/atxp</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[All Time leaderboard rank change.
+Previous rank: #24
+Current rank: #9
+Delta: +15
+Installs: 7312 (prev 3484)
+Source: atxp-dev/cli
+Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (1 → 2): vue]]></title>
+            <link>https://skills.sh/antfu/skills/vue</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/vue</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #1
+Current rank: #2
+Delta: -1
+Installs: 84 (prev 145)
+Source: antfu/skills
+Description: Vue.js - The Progressive JavaScript Framework for building user interfaces]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (19 → 38): web-design-guidelines]]></title>
+            <link>https://skills.sh/vercel-labs/agent-skills/web-design-guidelines</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:vercel-labs/agent-skills/web-design-guidelines</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #19
+Current rank: #38
+Delta: -19
+Installs: 228 (prev 242)
+Source: vercel-labs/agent-skills
+Description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (2 → 3): vite]]></title>
+            <link>https://skills.sh/antfu/skills/vite</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/vite</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #2
-Current rank: #42
-Delta: -40
-Installs: 112 (prev 163)
-Source: vercel-labs/agent-skills
-Description: React Native and Expo best practices for building performant mobile apps. Use when building React Native components, optimizing list performance, implementing animations, or working with native modules. Triggers on tasks involving React Native, Expo, mobile performance, or native platform APIs.]]></description>
+Current rank: #3
+Delta: -1
+Installs: 80 (prev 145)
+Source: antfu/skills
+Description: Vite is a next-generation frontend build tool that provides a fast dev server with HMR and optimized production builds]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] Rank down (3 → 18): vercel-react-best-practices]]></title>
-            <link>https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices</link>
-            <guid isPermaLink="false">2026-01-29T02:44:30.644Z:topHot:rank:vercel-labs/agent-skills/vercel-react-best-practices</guid>
-            <pubDate>Thu, 29 Jan 2026 02:44:30 GMT</pubDate>
+            <title><![CDATA[[Hot] Rank down (3 → 7): find-skills]]></title>
+            <link>https://skills.sh/vercel-labs/skills/find-skills</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:vercel-labs/skills/find-skills</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #3
-Current rank: #18
-Delta: -15
-Installs: 298 (prev 316)
+Current rank: #7
+Delta: -4
+Installs: 792 (prev 772)
+Source: vercel-labs/skills
+Description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (4 → 6): vue-best-practices]]></title>
+            <link>https://skills.sh/antfu/skills/vue-best-practices</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/vue-best-practices</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #4
+Current rank: #6
+Delta: -2
+Installs: 73 (prev 135)
+Source: antfu/skills
+Description: Vue 3 and Vue.js best practices for TypeScript, vue-tsc, and Volar. This skill should be used when writing, reviewing, or refactoring Vue components to ensure correct typing patterns. Triggers on tasks involving Vue components, props extraction, wrapper components, template type checking, or Volar configuration.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (5 → 9): vueuse-functions]]></title>
+            <link>https://skills.sh/antfu/skills/vueuse-functions</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/vueuse-functions</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #5
+Current rank: #9
+Delta: -4
+Installs: 69 (prev 134)
+Source: antfu/skills
+Description: Apply VueUse composables where appropriate to build concise, maintainable Vue.js / Nuxt features.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (7 → 8): antfu]]></title>
+            <link>https://skills.sh/antfu/skills/antfu</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/antfu</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #7
+Current rank: #8
+Delta: -1
+Installs: 71 (prev 131)
+Source: antfu/skills
+Description: Anthony Fu's {Opinionated} preferences and best practices for web development]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (9 → 10): pnpm]]></title>
+            <link>https://skills.sh/antfu/skills/pnpm</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/pnpm</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #9
+Current rank: #10
+Delta: -1
+Installs: 67 (prev 123)
+Source: antfu/skills
+Description: Fast, disk space efficient package manager for Node.js with strict dependency resolution and monorepo support]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (10 → 1): atxp]]></title>
+            <link>https://skills.sh/atxp-dev/cli/atxp</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:atxp-dev/cli/atxp</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #10
+Current rank: #1
+Delta: +9
+Installs: 1519 (prev 133)
+Source: atxp-dev/cli
+Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (20 → 13): frontend-design]]></title>
+            <link>https://skills.sh/anthropics/skills/frontend-design</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:anthropics/skills/frontend-design</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #20
+Current rank: #13
+Delta: +7
+Installs: 152 (prev 153)
+Source: anthropics/skills
+Description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (41 → 28): pptx]]></title>
+            <link>https://skills.sh/anthropics/skills/pptx</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:anthropics/skills/pptx</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #41
+Current rank: #28
+Delta: +13
+Installs: 40 (prev 44)
+Source: anthropics/skills
+Description: Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (45 → 34): xlsx]]></title>
+            <link>https://skills.sh/anthropics/skills/xlsx</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:anthropics/skills/xlsx</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #45
+Current rank: #34
+Delta: +11
+Installs: 35 (prev 33)
+Source: anthropics/skills
+Description: Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (6 → 4): pinia]]></title>
+            <link>https://skills.sh/antfu/skills/pinia</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/pinia</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #6
+Current rank: #4
+Delta: +2
+Installs: 66 (prev 134)
+Source: antfu/skills
+Description: The intuitive store for Vue - type-safe, extensible, and modular state management]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (8 → 5): web-design-guidelines]]></title>
+            <link>https://skills.sh/antfu/skills/web-design-guidelines</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topHot:rank:antfu/skills/web-design-guidelines</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #8
+Current rank: #5
+Delta: +3
+Installs: 65 (prev 125)
+Source: antfu/skills
+Description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (16 → 26): next-best-practices]]></title>
+            <link>https://skills.sh/vercel-labs/next-skills/next-best-practices</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:vercel-labs/next-skills/next-best-practices</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #16
+Current rank: #26
+Delta: -10
+Installs: 690 (prev 693)
+Source: vercel-labs/next-skills
+Description: Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (19 → 31): copywriting]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/copywriting</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:coreyhaines31/marketingskills/copywriting</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #19
+Current rank: #31
+Delta: -12
+Installs: 588 (prev 599)
+Source: coreyhaines31/marketingskills
+Description: When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," or "CTA copy." For email copy, see email-sequence. For popup copy, see popup-cro.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (21 → 37): docx]]></title>
+            <link>https://skills.sh/anthropics/skills/docx</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:anthropics/skills/docx</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #21
+Current rank: #37
+Delta: -16
+Installs: 522 (prev 508)
+Source: anthropics/skills
+Description: Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (23 → 35): xlsx]]></title>
+            <link>https://skills.sh/anthropics/skills/xlsx</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:anthropics/skills/xlsx</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #23
+Current rank: #35
+Delta: -12
+Installs: 530 (prev 499)
+Source: anthropics/skills
+Description: Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (25 → 44): vue-best-practices]]></title>
+            <link>https://skills.sh/hyf0/vue-skills/vue-best-practices</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:hyf0/vue-skills/vue-best-practices</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #25
+Current rank: #44
+Delta: -19
+Installs: 411 (prev 478)
+Source: hyf0/vue-skills
+Description: Vue 3 and Vue.js best practices for TypeScript, vue-tsc, and Volar. This skill should be used when writing, reviewing, or refactoring Vue components to ensure correct typing patterns. Triggers on tasks involving Vue components, props extraction, wrapper components, template type checking, or Volar configuration.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (26 → 38): marketing-psychology]]></title>
+            <link>https://skills.sh/coreyhaines31/marketingskills/marketing-psychology</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:coreyhaines31/marketingskills/marketing-psychology</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #26
+Current rank: #38
+Delta: -12
+Installs: 471 (prev 476)
+Source: coreyhaines31/marketingskills
+Description: When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (27 → 39): building-native-ui]]></title>
+            <link>https://skills.sh/expo/skills/building-native-ui</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:expo/skills/building-native-ui</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #27
+Current rank: #39
+Delta: -12
+Installs: 459 (prev 476)
+Source: expo/skills
+Description: Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (3 → 4): web-design-guidelines]]></title>
+            <link>https://skills.sh/vercel-labs/agent-skills/web-design-guidelines</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:vercel-labs/agent-skills/web-design-guidelines</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #3
+Current rank: #4
+Delta: -1
+Installs: 4577 (prev 4542)
 Source: vercel-labs/agent-skills
-Description: React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.]]></description>
+Description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (4 → 5): remotion-best-practices]]></title>
+            <link>https://skills.sh/remotion-dev/skills/remotion-best-practices</link>
+            <guid isPermaLink="false">2026-01-29T08:47:18.810Z:topTrending:rank:remotion-dev/skills/remotion-best-practices</guid>
+            <pubDate>Thu, 29 Jan 2026 08:47:18 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #4
+Current rank: #5
+Delta: -1
+Installs: 4259 (prev 4358)
+Source: remotion-dev/skills
+Description: Best practices for Remotion - Video creation in React]]></description>
         </item>
     </channel>
 </rss>

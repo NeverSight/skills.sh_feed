@@ -1,0 +1,1 @@
+Generate comprehensive component guideline documentation for SEED Design System. Use when creating or updating design guideline documentation in ./docs/content/docs/components directory. This skill helps create high-quality documentation similar to action-button.mdx.

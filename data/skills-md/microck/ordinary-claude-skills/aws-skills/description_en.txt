@@ -1,0 +1,1 @@
+Collection of AWS development skills covering CDK infrastructure as code, cost optimization, and serverless/event-driven architectures with integrated MCP servers.

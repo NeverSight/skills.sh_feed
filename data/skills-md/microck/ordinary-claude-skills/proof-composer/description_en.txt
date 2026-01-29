@@ -1,0 +1,1 @@
+Validates entire engineering proof chain. Verifies architecture, backend maps, backend code, standardization, frontend types, infrastructure topology all compose correctly. This is the final DEPLOYMENT GATE - deployment blocked if proof chain invalid. Use when engineering thread completes all actions.

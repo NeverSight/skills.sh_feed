@@ -1,0 +1,9 @@
+Complete Java Spring Boot skill set for building enterprise applications.
+Includes modular architecture with optional components:
+- PostgreSQL database with JPA/Hibernate + Flyway migration
+- Redis caching (optional)
+- Kafka/RabbitMQ messaging (optional, choose one)
+- JWT + OAuth2 authentication (optional OAuth2)
+- RBAC authorization (optional)
+- TDD with Mockito
+- Spec-First Development with OpenSpec

@@ -1,0 +1,1 @@
+Generate database-agnostic Wheels migrations for creating tables, altering schemas, and managing database changes. Use when creating or modifying database schema, adding tables, columns, indexes, or foreign keys. Prevents database-specific SQL and ensures cross-database compatibility.

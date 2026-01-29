@@ -1,0 +1,1 @@
+Database schema design, migrations, query optimization with SQL, Exposed ORM, Flyway. Use for database, migration, schema, sql, flyway tags. Provides migration patterns, validation commands, rollback strategies.

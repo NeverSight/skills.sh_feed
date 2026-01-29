@@ -1,0 +1,1 @@
+Use when creating or updating pull requests with comprehensive descriptions and meaningful commits - streamlines PR workflow with branch management and commit best practices

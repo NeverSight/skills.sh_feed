@@ -1,0 +1,1 @@
+Guidelines for preparing changelog entries for nextest releases following Keep a Changelog format

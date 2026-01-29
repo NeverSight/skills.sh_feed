@@ -1,0 +1,1 @@
+Manage BAP (Bitcoin Attestation Protocol) identity files using bap-cli. This skill should be used when users need to create, decrypt, list, or extract BAP identity backups, work with .bep encrypted files, or generate test fixtures for Playwright tests involving BAP identities.

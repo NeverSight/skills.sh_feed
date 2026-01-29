@@ -1,0 +1,1 @@
+Use when explaining code, technical concepts, or implementation decisions. Provides structured approach to creating clear, understandable explanations tailored to the audience.

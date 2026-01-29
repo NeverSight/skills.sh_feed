@@ -1,0 +1,1 @@
+Production-grade blockchain and Web3 development with Solidity (Ethereum/EVM), Rust (Solana), CosmWasm (Cosmos), including smart contract architecture, security patterns, gas optimization, testing strategies, DeFi protocols, and deployment workflows.

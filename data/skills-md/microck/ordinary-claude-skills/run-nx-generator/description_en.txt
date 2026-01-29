@@ -1,0 +1,1 @@
+Run Nx generators with prioritization for workspace-plugin generators. Use this when generating code, scaffolding new features, or automating repetitive tasks in the monorepo.
