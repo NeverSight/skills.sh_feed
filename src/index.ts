@@ -77,6 +77,48 @@ function skillsShSkillUrl(source: string, skillId: string) {
   return `https://skills.sh/${source}/${skillId}`;
 }
 
+// Cache for repository redirects (old -> new)
+const repoRedirectCache = new Map<string, string | null>();
+
+/**
+ * Resolve repository redirects (301/302)
+ * e.g., clawdbot/skills -> moltbot/skills
+ */
+async function resolveRepoRedirect(source: string): Promise<string> {
+  // Check cache first
+  const cached = repoRedirectCache.get(source);
+  if (cached !== undefined) {
+    return cached ?? source;
+  }
+
+  try {
+    // Use GitHub API to check if repo exists or was renamed
+    const res = await fetch(`https://api.github.com/repos/${source}`, {
+      headers: {
+        'accept': 'application/vnd.github+json',
+        'user-agent': USER_AGENT,
+        ...(process.env.GITHUB_TOKEN ? { authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}),
+      },
+      redirect: 'follow',
+    });
+
+    if (res.ok) {
+      const data = (await res.json()) as { full_name?: string };
+      const realSource = data.full_name;
+      if (realSource && realSource !== source) {
+        console.log(`Repo redirect: ${source} -> ${realSource}`);
+        repoRedirectCache.set(source, realSource);
+        return realSource;
+      }
+    }
+  } catch {
+    // Ignore errors, use original source
+  }
+
+  repoRedirectCache.set(source, null);
+  return source;
+}
+
 function githubRawUrl(source: string, branch: string, path: string) {
   return `https://raw.githubusercontent.com/${source}/${branch}/${path}`;
 }
@@ -319,6 +361,9 @@ async function getRepoSkillIndex(source: string) {
 }
 
 async function fetchSkillMdFromGithub(source: string, skillId: string) {
+  // Resolve repository redirects first (e.g., clawdbot/skills -> moltbot/skills)
+  const realSource = await resolveRepoRedirect(source);
+  
   const branches = ['main', 'master'];
   const baseDirs = [
     // Repo root (some repos put skill folders directly at root)
@@ -339,27 +384,60 @@ async function fetchSkillMdFromGithub(source: string, skillId: string) {
     '.windsurf/skills',
     '.kilocode/skills',
     '.factory/skills',
+    // Additional common locations
+    '.ai/skills',
+    '.llm/skills',
+    'agent-skills',
+    'claude-skills',
+    'ai-skills',
+    'prompts/skills',
+    'src/skills',
+    'lib/skills',
+    'packages/skills',
+    // Claude plugin structure
+    '.claude-plugin/skills',
   ];
   const filenames = ['SKILL.md', 'skill.md'];
+
+  // 0) Check if SKILL.md is at repo root (for single-skill repos like op7418/humanizer-zh)
+  for (const branch of branches) {
+    for (const filename of filenames) {
+      const text = await fetchGithubRawFile(realSource, branch, filename);
+      if (text) {
+        // Verify it's a valid SKILL.md by checking frontmatter
+        try {
+          const parsed = matter(text);
+          const name = (parsed?.data as Record<string, unknown> | undefined)?.name;
+          // Accept if name matches skillId or if it's the only skill in repo
+          if (typeof name === 'string' && (name.trim() === skillId || name.trim().toLowerCase() === skillId.toLowerCase())) {
+            const url = githubRawUrl(realSource, branch, filename);
+            return { url, text };
+          }
+        } catch {
+          // Not a valid frontmatter, skip
+        }
+      }
+    }
+  }
 
   // 1) Fast path: direct guess (most repos use <baseDir>/<skillId>/SKILL.md)
   for (const branch of branches) {
     for (const baseDir of baseDirs) {
       for (const filename of filenames) {
         const relPath = baseDir ? `${baseDir}/${skillId}/${filename}` : `${skillId}/${filename}`;
-        const url = githubRawUrl(source, branch, relPath);
-        const text = await fetchGithubRawFile(source, branch, relPath);
+        const url = githubRawUrl(realSource, branch, relPath);
+        const text = await fetchGithubRawFile(realSource, branch, relPath);
         if (text) return { url, text };
       }
     }
   }
 
   // 2) Fallback: discover SKILL.md files and match by frontmatter name
-  const index = await getRepoSkillIndex(source);
+  const index = await getRepoSkillIndex(realSource);
   const resolved = index.get(skillId);
   if (resolved) {
-    const url = githubRawUrl(source, resolved.branch, resolved.path);
-    const text = await fetchGithubRawFile(source, resolved.branch, resolved.path);
+    const url = githubRawUrl(realSource, resolved.branch, resolved.path);
+    const text = await fetchGithubRawFile(realSource, resolved.branch, resolved.path);
     if (text) return { url, text };
   }
 
@@ -400,6 +478,13 @@ function writeProgress(progress: SyncProgress) {
   writeFileSync(progressPath(), JSON.stringify(progress, null, 2));
 }
 
+/**
+ * Check if a skill has a cached SKILL.md file
+ */
+function hasSkillMd(source: string, skillId: string): boolean {
+  return existsSync(localSkillMdPath(source, skillId));
+}
+
 async function buildSkillsIndex(data: SkillsData) {
   const providerId = data.providerId;
 
@@ -414,24 +499,29 @@ async function buildSkillsIndex(data: SkillsData) {
     hotInstallsById.set(`${s.source}/${s.skillId}`, s.installs);
   }
 
-  const items: SkillIndexItem[] = new Array(data.allTime.length);
+  // Filter out skills without SKILL.md - they shouldn't be in the index
+  const skillsWithMd = data.allTime.filter(s => hasSkillMd(s.source, s.skillId));
+  const filteredCount = data.allTime.length - skillsWithMd.length;
+  if (filteredCount > 0) {
+    console.log(`Filtered out ${filteredCount} skills without SKILL.md from index`);
+  }
 
-  await mapWithConcurrency(data.allTime, 24, async (s, i) => {
+  const items: SkillIndexItem[] = new Array(skillsWithMd.length);
+
+  await mapWithConcurrency(skillsWithMd, 24, async (s, i) => {
     const id = `${s.source}/${s.skillId}`;
     const mdAbs = localSkillMdPath(s.source, s.skillId);
     let descriptionPath: string | undefined;
     let skillMdPath: string | undefined;
 
-    if (existsSync(mdAbs)) {
-      try {
-        const md = readFileSync(mdAbs, 'utf-8');
-        const description = extractDescriptionFromSkillMd(md);
-        skillMdPath = repoRelativeSkillMdPath(s.source, s.skillId);
-        writeDescriptionEnIfChanged(s.source, s.skillId, description);
-        descriptionPath = repoRelativeDescriptionEnPath(s.source, s.skillId);
-      } catch {
-        // ignore read errors
-      }
+    try {
+      const md = readFileSync(mdAbs, 'utf-8');
+      const description = extractDescriptionFromSkillMd(md);
+      skillMdPath = repoRelativeSkillMdPath(s.source, s.skillId);
+      writeDescriptionEnIfChanged(s.source, s.skillId, description);
+      descriptionPath = repoRelativeDescriptionEnPath(s.source, s.skillId);
+    } catch {
+      // ignore read errors
     }
 
     items[i] = {
@@ -460,7 +550,7 @@ async function buildSkillsIndex(data: SkillsData) {
 
   const outPath = join(process.cwd(), 'data', 'skills_index.json');
   writeFileSync(outPath, JSON.stringify(output, null, 2));
-  console.log(`Skills index saved to: ${outPath}`);
+  console.log(`Skills index saved to: ${outPath} (${items.length} skills with SKILL.md)`);
 }
 
 async function syncAllSkillMds(data: SkillsData) {
@@ -884,8 +974,14 @@ async function main() {
   }
   
   // Generate simplified feed format
+  // Only include skills that have SKILL.md (exclude deleted/missing skills)
   const feedPath = join(outputDir, 'feed.json');
   const previousFeed = readJsonFile<FeedJson>(feedPath);
+  
+  const allTimeWithMd = allTime.filter(s => hasSkillMd(s.source, s.skillId));
+  const trendingWithMd = trending.filter(s => hasSkillMd(s.source, s.skillId));
+  const hotWithMd = hot.filter(s => hasSkillMd(s.source, s.skillId));
+  
   const feed: FeedJson = {
     title: 'Skills.sh Feed',
     description: 'Latest skill data from skills.sh',
@@ -898,7 +994,7 @@ async function main() {
         link: 'https://skills.sh',
       },
     ],
-    topAllTime: allTime.slice(0, 50).map(skill => ({
+    topAllTime: allTimeWithMd.slice(0, 50).map(skill => ({
       id: `${skill.source}/${skill.skillId}`,
       title: skill.name,
       source: skill.source,
@@ -906,7 +1002,7 @@ async function main() {
       link: skillsShSkillUrl(skill.source, skill.skillId),
       providerId: 'skills.sh',
     })),
-    topTrending: trending.slice(0, 50).map(skill => ({
+    topTrending: trendingWithMd.slice(0, 50).map(skill => ({
       id: `${skill.source}/${skill.skillId}`,
       title: skill.name,
       source: skill.source,
@@ -914,7 +1010,7 @@ async function main() {
       link: skillsShSkillUrl(skill.source, skill.skillId),
       providerId: 'skills.sh',
     })),
-    topHot: hot.slice(0, 50).map(skill => ({
+    topHot: hotWithMd.slice(0, 50).map(skill => ({
       id: `${skill.source}/${skill.skillId}`,
       title: skill.name,
       source: skill.source,
@@ -944,10 +1040,11 @@ async function main() {
 
   // Always publish a daily snapshot item so the RSS never looks "broken" (empty),
   // even when there are no meaningful rank changes.
+  // Use filtered counts (only skills with SKILL.md)
   const snapshot = buildDailySnapshotRssItem(feed, {
-    allTime: allTime.length,
-    trending: trending.length,
-    hot: hot.length,
+    allTime: allTimeWithMd.length,
+    trending: trendingWithMd.length,
+    hot: hotWithMd.length,
   });
   rss.addItem(snapshot);
 
