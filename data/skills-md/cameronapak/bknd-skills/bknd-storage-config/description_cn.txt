@@ -1,0 +1,1 @@
+在配置文件上传的存储后端时使用。涵盖 S3 兼容存储（AWS S3、Cloudflare R2、DigitalOcean Spaces）、Cloudinary 媒体存储、用于开发的本地文件系统适配器、适配器配置选项、环境变量和生产存储设置。

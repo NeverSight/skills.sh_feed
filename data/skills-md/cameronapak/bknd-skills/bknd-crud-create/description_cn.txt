@@ -1,0 +1,1 @@
+通过 SDK 或 REST API 将新记录插入 Bknd 实体时使用。涵盖 createOne、createMany、使用关系创建 ($set)、响应处理、错误处理以及客户端记录创建的常见模式。

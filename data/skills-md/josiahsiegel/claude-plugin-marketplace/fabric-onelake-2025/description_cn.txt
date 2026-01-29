@@ -1,0 +1,1 @@
+适用于 Azure 数据工厂的 Microsoft Fabric Lakehouse、OneLake 和 Fabric Warehouse 连接器 (2025)

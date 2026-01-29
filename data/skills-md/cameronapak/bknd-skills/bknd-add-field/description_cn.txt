@@ -1,0 +1,1 @@
+将字段添加到现有 Bknd 实体时使用。涵盖所有字段类型（文本、数字、布尔值、日期、枚举、json、jsonschema、媒体）、字段修饰符（.required()、.unique()、.default()）、验证选项以及 UI 与代码方法。

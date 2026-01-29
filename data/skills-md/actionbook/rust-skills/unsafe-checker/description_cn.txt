@@ -1,0 +1,1 @@
+严重：用于不安全的 Rust 代码审查和 FFI。触发条件：unsafe、原始指针、FFI、extern、transmute、*mut、*const、union、#[repr(C)]、libc、std::ffi、 MaybeUninit、NonNull、SAFETY comment、健全性、未定义行为、UB、安全包装器、内存布局、bindgen、cbindgen、CString、CStr、安全抽象、裸导师、外部函数接口、内存布局、不安全代码、FFI绑定，未行为定义

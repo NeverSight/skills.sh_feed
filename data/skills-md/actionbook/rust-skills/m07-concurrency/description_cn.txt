@@ -1,0 +1,1 @@
+关键：用于并发/异步。触发器：E0277 发送同步，无法在线程、线程、spawn、channel、mpsc、Mutex、RwLock、Atomic、async、await、Future、tokio、死锁、竞争条件、并发、线程、异步、死锁之间发送

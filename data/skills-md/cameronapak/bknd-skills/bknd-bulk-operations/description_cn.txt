@@ -1,0 +1,1 @@
+在 Bknd 中执行批量插入、更新或删除操作时使用。涵盖 createMany、updateMany、deleteMany、带进度的批处理、大型数据集分块、错误处理策略和类似事务的模式。

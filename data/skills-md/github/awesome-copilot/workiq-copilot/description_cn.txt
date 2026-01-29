@@ -1,0 +1,1 @@
+指导 Copilot CLI 了解如何使用 WorkIQ CLI/MCP 服务器查询 Microsoft 365 Copilot 数据（电子邮件、会议、文档、团队、人员）以获取实时上下文、摘要和建议。

@@ -1,0 +1,1 @@
+用于本地开发的 Azure 服务模拟器，包括 Azurite、Cosmos DB 和 Event Hub Docker 容器

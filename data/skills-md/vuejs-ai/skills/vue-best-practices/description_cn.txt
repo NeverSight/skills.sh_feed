@@ -1,0 +1,1 @@
+适用于 TypeScript、vue-tsc 和 Volar 的 Vue 3 和 Vue.js 最佳实践。在编写、审查或重构 Vue 组件时应该使用此技能，以确保正确的打字模式。触发涉及 Vue 组件、道具提取、包装器组件、模板类型检查或 Volar 配置的任务。

@@ -1,0 +1,1 @@
+通过 SDK 或 REST API 从 Bknd 实体删除记录时使用。涵盖deleteOne、deleteMany、软删除模式、级联注意事项、响应处理和常见模式。

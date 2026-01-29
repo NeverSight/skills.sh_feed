@@ -1,0 +1,1 @@
+Microsoft Defender for DevOps 与 Azure Pipelines 集成 (2025)

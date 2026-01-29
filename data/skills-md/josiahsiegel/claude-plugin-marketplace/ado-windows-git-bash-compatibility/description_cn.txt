@@ -1,0 +1,1 @@
+Azure Pipelines 的 Windows 和 Git Bash 兼容性指南。涵盖路径转换问题、管道脚本中的 shell 检测、MINGW/MSYS 路径处理、Windows 代理配置、跨平台脚本模式以及常见的 Windows 特定管道故障故障排除。

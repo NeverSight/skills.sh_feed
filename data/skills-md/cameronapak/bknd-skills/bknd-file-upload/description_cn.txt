@@ -1,0 +1,1 @@
+将文件上传到 Bknd 存储时使用。涵盖 MediaApi SDK 方法（upload、uploadToEntity）、REST 端点、React 与文件输入的集成、XHR 的进度跟踪、浏览器上传模式和实体字段附件。

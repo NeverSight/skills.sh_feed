@@ -1,0 +1,1 @@
+Windows 上 PowerShell 与 Git Bash/MSYS2 的 Shell 检测和跨 shell 兼容性指南

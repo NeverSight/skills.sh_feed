@@ -1,0 +1,3 @@
+适用于企业架构、帐户管理、安全性和运营的生产就绪型 SAP BTP 最佳实践。在规划 BTP 实施、设置帐户层次结构、配置环境、实施身份验证、设计 CI/CD 管道、建立治理、构建平台工程团队、实施故障转移策略或管理 SAP BTP 上的应用程序生命周期时使用。
+
+关键词：SAP BTP、帐户层次结构、全局帐户、目录、子帐户、Cloud Foundry、Kyma、ABAP、SAP Identity Authentication、CI/CD、治理、平台工程、故障转移、多区域、SAP BTP 最佳实践

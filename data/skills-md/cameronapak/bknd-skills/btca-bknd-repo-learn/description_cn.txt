@@ -1,0 +1,1 @@
+使用 btca (Better Context App) 高效查询和学习 bknd 后端框架。使用 bknd 时可用于 (1) 了解数据模块和架构定义，(2) 实现身份验证和授权，(3) 设置媒体文件处理，(4) 配置适配器（Node、Cloudflare 等），(5) 从 bknd 源代码和示例中学习，(6) 调试 bknd 特定问题

@@ -1,0 +1,1 @@
+在前端应用程序中设置 Bknd SDK 时使用。涵盖 Api 类初始化、令牌存储、身份验证状态处理、React 与 BkndBrowserApp 和 useApp 挂钩的集成、特定于框架的设置（Vite、Next.js、独立）以及 TypeScript 类型注册。

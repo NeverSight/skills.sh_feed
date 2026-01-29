@@ -1,0 +1,1 @@
+对服务、错误、层和原子强制执行 Effect-TS 模式。在使用 Effect.Service、Schema.TaggedError、Layer 组合或effect-atom React 组件编写代码时使用。

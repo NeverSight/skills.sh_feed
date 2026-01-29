@@ -1,0 +1,1 @@
+Unity 编辑器 REST API。 BATCH-FIRST：对 2 个以上对象使用 *_batch。

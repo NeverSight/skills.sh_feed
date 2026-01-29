@@ -1,0 +1,1 @@
+跨所有平台（Windows/Linux/macOS）的完整 PowerShell 专业系统。主动激活：(1) 任何 PowerShell 任务（脚本/模块/cmdlet），(2) CI/CD 自动化（GitHub Actions/Azure DevOps/Bitbucket），(3) 跨平台脚本编写，(4) 模块发现和管理 (PSGallery)，(5) Azure/AWS/Microsoft 365 自动化，(6) 脚本调试和优化，(7) 最佳实践和安全性。提供：PowerShell 7+ 功能、流行模块专业知识（Az、Microsoft.Graph、PnP、AWS 工具）、PSGallery 集成、特定于平台的指导、CI/CD 管道模式、cmdlet 语法掌握和生产就绪脚本模式。确保遵循行业标准的专业级、跨平台 PowerShell 自动化。

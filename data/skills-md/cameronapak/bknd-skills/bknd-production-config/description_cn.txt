@@ -1,0 +1,1 @@
+在为生产部署准备 Bknd 应用程序时使用。涵盖安全强化、环境配置、isProduction 标志、JWT 设置、Guard 启用、CORS、媒体存储和生产清单。

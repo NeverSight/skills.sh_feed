@@ -1,0 +1,1 @@
+在 Bknd 中配置 Webhook 集成时使用。涵盖通过 HTTP 触发器接收传入 Webhook、使用 FetchTask 发送传出 Webhook、数据更改的事件触发 Webhook、签名验证、重试模式和异步处理。

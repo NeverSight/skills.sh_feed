@@ -1,0 +1,1 @@
+在 Bknd 应用程序中配置 OAuth 或社交登录提供程序时使用。涵盖 Google OAuth、GitHub OAuth、自定义 OAuth 提供程序、回调 URL、环境变量和前端 OAuth 集成。

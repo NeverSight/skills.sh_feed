@@ -1,0 +1,1 @@
+Azure Kubernetes 服务自动模式 GA 2025 功能包括 Karpenter、自动缩放和零运营开销

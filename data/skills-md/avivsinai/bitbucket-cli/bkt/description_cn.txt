@@ -1,0 +1,1 @@
+适用于数据中心和云的 Bitbucket CLI。当用户需要管理 Bitbucket 中的存储库、拉取请求、分支、问题、Webhook 或管道时使用。触发器包括“bitbucket”、“bkt”、“拉取请求”、“PR”、“回购列表”、“分支创建”、“Bitbucket 数据中心”、“Bitbucket 云”。

@@ -1,0 +1,1 @@
+Azure OpenAI Service 2025 模型，包括 GPT-5、GPT-4.1、推理模型和 Azure AI Foundry 集成

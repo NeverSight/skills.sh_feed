@@ -1,0 +1,1 @@
+通过 SDK 或 REST API 从 Bknd 实体查询和检索数据时使用。涵盖 readOne、readMany、readOneBy、过滤（where 子句）、排序、字段选择、加载关系（with/join）和响应处理。

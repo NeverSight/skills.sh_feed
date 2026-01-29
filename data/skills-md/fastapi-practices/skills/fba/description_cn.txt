@@ -1,0 +1,9 @@
+FastAPI Best Architecture (fba) 项目开发指南。提供完整的架构规范、编码风格、插件开发指导。
+
+使用场景：
+- 在 fba 项目中开发新功能或模块
+- 创建或修改插件（应用级/扩展级）
+- 编写 API、Service、CRUD、Model、Schema
+- 数据库迁移和模型设计
+- JWT 认证和 RBAC 权限配置
+- 代码审查和风格检查

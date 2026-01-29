@@ -1,0 +1,1 @@
+开发嵌入式/no​​_std Rust 时使用。关键词：嵌入式、no_std、微控制器、MCU、ARM、RISC-V、裸机、固件、HAL、PAC、RTIC、大使馆、中断、DMA、外设、GPIO、SPI、I2C、UART、embedded-hal、cortex-m、esp32、stm32、nrf、嵌入式、单片机、硬件、裸机

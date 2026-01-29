@@ -1,0 +1,1 @@
+构建 CLI 工具时使用。关键词：CLI、命令行、终端、clap、structopt、参数解析、子命令、交互式、TUI、ratatui、crossterm、indicatif、进度条、彩色输出、shell 补全、配置文件、环境变量、命令行、终端应用、参数解析

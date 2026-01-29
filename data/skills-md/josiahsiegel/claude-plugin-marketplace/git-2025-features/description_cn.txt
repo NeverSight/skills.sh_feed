@@ -1,0 +1,1 @@
+Git 2.49+ 功能包括 reftables、稀疏签出、部分克隆、git-backfill 和工作树

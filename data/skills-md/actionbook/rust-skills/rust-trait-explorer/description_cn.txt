@@ -1,0 +1,1 @@
+使用 LSP 探索 Rust 特征实现。触发条件：/trait-impl、查找实现、谁实现、trait 实现了、谁实现了、实现了哪些trait

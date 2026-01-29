@@ -1,0 +1,1 @@
+关键：用于智能指针和资源管理。触发器：Box、Rc、Arc、Weak、RefCell、Cell、智能指针、堆分配、引用计数、RAII、Drop、我应该使用 Box 还是 Rc、何时使用 Arc 与 Rc、智能指针、引用计数、堆分配

@@ -1,0 +1,1 @@
+Azure Deployment Stacks GA 2025 功能用于统一资源管理、拒绝设置和生命周期管理

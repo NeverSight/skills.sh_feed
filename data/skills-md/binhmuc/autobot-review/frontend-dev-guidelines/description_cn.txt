@@ -1,0 +1,1 @@
+React/TypeScript 应用程序的前端开发指南。现代模式包括 Suspense、延迟加载、useSuspenseQuery、具有功能目录的文件组织、MUI v7 样式、TanStack Router、性能优化和 TypeScript 最佳实践。在创建组件、页面、功能、获取数据、样式、路由或使用前端代码时使用。

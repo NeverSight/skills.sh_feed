@@ -1,0 +1,1 @@
+100 多个动画 React 组件 (Aceternity UI)，适用于带有 Tailwind 的 Next.js。用于英雄部分、视差、3D 效果或遇到动画、shadcn CLI 集成错误。

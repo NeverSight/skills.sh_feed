@@ -1,0 +1,1 @@
+关键：用于泛型、特征、零成本抽象。触发条件：E0277、E0308、E0599、generic、trait、impl、dyn、where、单态化、静态调度、动态调度、impl Trait、trait 边界不满足、泛型、特征、零成本抽象、单态化

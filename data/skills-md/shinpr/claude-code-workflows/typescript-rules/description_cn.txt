@@ -1,0 +1,1 @@
+React/TypeScript 前端开发规则包括类型安全、组件设计、状态管理和错误处理。在实现 React 组件、TypeScript 代码或前端功能时使用。

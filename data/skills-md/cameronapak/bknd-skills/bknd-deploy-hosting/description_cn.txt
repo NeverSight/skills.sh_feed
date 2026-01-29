@@ -1,0 +1,1 @@
+将 Bknd 应用程序部署到生产托管时使用。涵盖 Cloudflare Workers/Pages、Node.js/Bun 服务器、Docker、Vercel、AWS Lambda 和其他平台。

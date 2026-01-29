@@ -1,0 +1,1 @@
+在 Bknd 中构建具有复杂过滤条件的高级查询时使用。涵盖所有过滤运算符（$eq、$ne、$gt、$lt、$like、$ilike、$in、$nin、$isnull、$ Between）、逻辑运算符（$or、$and）、嵌套条件、组合过滤器和动态查询构建。

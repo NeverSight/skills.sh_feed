@@ -1,0 +1,1 @@
+在为 Rust 包或 std 库文档创建技能时使用。关键字：创建 rust 技能、创建板条箱技能、创建 std 技能、创建 rust 技能、创建板条箱技能、创建 std 技能、动态 rust 技能、动态 crate 技能、tokio 技能、serde 技能、axum 技能、生成 rust 技能、rust 技能、crate 技能、从文档创建技能、从文档创建技能

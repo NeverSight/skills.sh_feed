@@ -1,0 +1,1 @@
+配置 API 网关以实现微服务架构中的路由、身份验证、速率限制和请求转换。在设置 Kong、Nginx、AWS API Gateway 或 Traefik 进行集中式 API 管理时使用。
