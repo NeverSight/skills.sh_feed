@@ -1,0 +1,1 @@
+非支配 Holochain DNA 开发的专业技能，专注于 zome 创建、进入模式、完整性/协调器架构、ValueFlows 合规性和 WASM 优化。在创建新区域、实现条目类型或修改 Holochain DNA 代码时使用。

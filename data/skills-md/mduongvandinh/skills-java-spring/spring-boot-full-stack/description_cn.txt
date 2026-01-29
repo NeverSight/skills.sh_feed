@@ -1,0 +1,9 @@
+用于构建企业应用程序的完整 Java Spring Boot 技能集。
+包括带有可选组件的模块化架构：
+- 带有 JPA/Hibernate + Flyway 迁移的 PostgreSQL 数据库
+- Redis缓存（可选）
+- Kafka/RabbitMQ 消息传递（可选，选其一）
+- JWT + OAuth2身份验证（可选OAuth2）
+- RBAC授权（可选）
+- 使用 Mockito 进行 TDD
+- 使用 OpenSpec 进行规范优先开发

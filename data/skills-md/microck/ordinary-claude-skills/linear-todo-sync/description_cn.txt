@@ -1,0 +1,1 @@
+此技能从 Linear API 获取分配给用户的未完成任务，并在项目根目录中生成一个 markdown 待办事项列表文件。当用户询问他们的工作项目、想要查看他们需要做什么或请求加载/同步他们的线性任务时，应该使用此技能。需要 Python 3.7+、requests、mdutils 和 python-dotenv 包。需要 .env 文件中的 LINEAR_API_KEY。

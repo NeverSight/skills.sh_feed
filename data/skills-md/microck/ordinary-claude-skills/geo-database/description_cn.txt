@@ -1,0 +1,1 @@
+访问 NCBI GEO 获取基因表达/基因组数据。搜索/下载微阵列和 RNA-seq 数据集（GSE、GSM、GPL），检索 SOFT/Matrix 文件，用于转录组学和表达分析。

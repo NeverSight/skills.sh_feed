@@ -1,0 +1,1 @@
+将新的 DEX 聚合器、交换器或桥接协议（如 Bebop、Portals、Jupiter、0x、1inch 等）集成到 ShapeShift Web 中。当用户想要添加、集成或实现对新交换器的支持时激活。按照既定模式指导研究、实施和测试。

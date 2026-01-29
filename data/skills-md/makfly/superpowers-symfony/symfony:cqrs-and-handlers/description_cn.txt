@@ -1,0 +1,1 @@
+当 symfony cqrs 和处理程序使用时

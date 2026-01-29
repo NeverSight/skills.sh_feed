@@ -1,0 +1,1 @@
+使用 GitHub Copilot SDK 构建代理应用程序。在应用程序中嵌入 AI 代理、创建自定义工具、实施流响应、管理会话、连接到 MCP 服务器或创建自定义代理时使用。在 Copilot SDK、GitHub SDK、代理应用程序、嵌入 Copilot、可编程代理、MCP 服务器、自定义代理上触发。

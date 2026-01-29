@@ -1,0 +1,1 @@
+NGS 分析工具包。 BAM 到 bigWig 的转换、QC（相关性、PCA、指纹）、热图/概况（TSS、峰值），用于 ChIP-seq、RNA-seq、ATAC-seq 可视化。

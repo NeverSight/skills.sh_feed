@@ -1,0 +1,8 @@
+使用 Lucid Agents SDK 的技能 - 用于构建的 TypeScript 框架
+以及将人工智能代理货币化。构建或修改 Lucid Agents 时使用此技能
+项目，使用代理入口点、支付、身份或 A2A 通信。
+
+激活时间：构建或修改 Lucid Agents 项目、与代理一起工作
+入口点、支付、身份或 A2A 通信，在
+lucid-agents monorepo，创建新模板或 CLI 功能，或有关的问题
+Lucid Agents 架构或 API。

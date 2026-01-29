@@ -1,0 +1,1 @@
+当用户要求“添加 MCP 服务器”、“集成 MCP”、“在插件中配置 MCP”、“使用 .mcp.json”、“设置模型上下文协议”、“连接外部服务”、提及“${CLAUDE_PLUGIN_ROOT} 与 MCP”或讨论 MCP 服务器类型（SSE、stdio、HTTP、WebSocket）时，应使用此技能。提供将模型上下文协议服务器集成到 Claude Code 插件中以进行外部工具和服务集成的全面指导。

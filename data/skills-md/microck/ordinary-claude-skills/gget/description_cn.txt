@@ -1,0 +1,1 @@
+用于快速生物信息学查询的 CLI/Python 工具包。快速 BLAST 搜索的首选。访问 20 多个数据库：基因信息 (Ensembl/UniProt)、AlphaFold、ARCHS4、Enrichr、OpenTargets、COSMIC、基因组下载。对于高级 BLAST/批处理，请使用 biopython。对于多数据库集成，请使用生物服务。

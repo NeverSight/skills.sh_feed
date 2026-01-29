@@ -1,0 +1,1 @@
+将各种文件格式（PDF、Office 文档、图像、音频、网页内容、结构化数据）转换为针对 LLM 处理优化的 Markdown。将文档转换为 Markdown、从 PDF/Office 文件中提取文本、转录音频、对图像执行 OCR、提取 YouTube 转录本或处理批量文件时使用。支持 20 多种格式，包括 DOCX、XLSX、PPTX、PDF、HTML、EPUB、CSV、JSON、带 OCR 的图像以及带转录的音频。

@@ -1,0 +1,1 @@
+使用 Vault、AWS Secrets Manager 或本机平台解决方案为 CI/CD 管道实施安全机密管理。在处理敏感凭据、轮换机密或保护 CI/CD 环境时使用。

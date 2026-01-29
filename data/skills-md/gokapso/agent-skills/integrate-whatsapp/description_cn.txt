@@ -1,0 +1,1 @@
+使用 Kapso 将 WhatsApp 连接到您的产品：通过设置链接吸引客户、检测连接、通过 Webhooks 接收事件以及发送消息/模板/媒体。还可以管理 WhatsApp Flows（创建/更新/发布、数据端点、加密）。在端到端集成 WhatsApp 时使用。

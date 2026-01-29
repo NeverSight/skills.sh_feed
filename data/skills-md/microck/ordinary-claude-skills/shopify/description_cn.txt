@@ -1,0 +1,1 @@
+使用 GraphQL/REST API、Shopify CLI、Polaris UI 组件和 Liquid 模板构建 Shopify 应用程序、扩展程序和主题。功能包括使用 OAuth 身份验证的应用程序开发、用于自定义结帐流程的结帐 UI 扩展、用于仪表板集成的管理 UI 扩展、用于零售的 POS 扩展、Liquid 主题开发、webhook 管理、计费 API 集成、产品/订单/客户管理。在构建 Shopify 应用程序、实施结帐自定义、创建管理界面、开发主题、集成支付处理、通过 API 管理商店数据或扩展 Shopify 功能时使用。

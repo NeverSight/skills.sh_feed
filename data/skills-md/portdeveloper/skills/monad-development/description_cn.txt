@@ -1,0 +1,1 @@
+在 Monad 区块链上构建 dapp。在部署合约、使用 viem/wagmi 设置前端或在 Monad 测试网或主网上验证合约时使用。

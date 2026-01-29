@@ -1,0 +1,1 @@
+在实现 Network.framework 连接（NWConnection、NetworkConnection）、调试连接失败、从套接字/URLSession 流迁移或处理网络转换时使用。涵盖 UDP/TCP 模式、结构化并发网络 (iOS 26+) 和常见反模式。

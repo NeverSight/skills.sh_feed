@@ -1,0 +1,1 @@
+使用 GRDB 编写原始 SQL、跨 4 个以上表的复杂联接、窗口函数、反应式查询的 ValueObservation 或从 SQLiteData 中删除以提高性能时使用。通过类型安全的查询和迁移直接访问 iOS/macOS 的 SQLite。

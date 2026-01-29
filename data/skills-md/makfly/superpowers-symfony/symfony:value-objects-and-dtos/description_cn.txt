@@ -1,0 +1,1 @@
+当 symfony 值对象和 dtos 时使用

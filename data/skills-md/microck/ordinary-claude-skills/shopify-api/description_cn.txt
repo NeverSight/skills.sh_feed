@@ -1,0 +1,1 @@
+Shopify 的完整 API 集成指南，包括 GraphQL 管理 API、REST 管理 API、Storefront API、Ajax API、OAuth 身份验证、速率限制和 Webhooks。在对 Shopify 进行 API 调用、验证应用程序、以编程方式获取产品/订单/客户数据、实施购物车操作、处理 Webhook 或使用 API 版本 2025-10 时使用。 JavaScript 实现需要 fetch 或 axios。

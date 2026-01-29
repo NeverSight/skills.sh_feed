@@ -1,0 +1,1 @@
+在添加触觉反馈以进行用户确认（按钮按下、切换、购买）、错误通知或自定义触觉模式（核心触觉）时使用。涵盖 UIFeedbackGenerator 和 CHHapticEngine 模式。

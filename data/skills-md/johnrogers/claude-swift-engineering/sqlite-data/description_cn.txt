@@ -1,0 +1,1 @@
+使用 SQLiteData 库（@Table、@FetchAll、@FetchOne 宏）进行 SQLite 持久性、查询、写入、迁移或 CloudKit 私有数据库同步时使用。

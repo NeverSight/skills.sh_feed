@@ -1,0 +1,1 @@
+遵循最佳实践和安全标准，为部署、服务、ConfigMap 和 Secret 创建生产就绪的 Kubernetes 清单。在生成 Kubernetes YAML 清单、创建 K8s 资源或实施生产级 Kubernetes 配置时使用。

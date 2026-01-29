@@ -1,0 +1,1 @@
+在处理 Payload CMS 项目（payload.config.ts、集合、字段、挂钩、访问控制、Payload API）时使用。在调试验证错误、安全问题、关系查询、事务或挂钩行为时使用。

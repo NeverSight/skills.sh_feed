@@ -1,0 +1,1 @@
+当用户要求安装、配置或设置 @dotcms/analytics、sdk-analytics、分析 SDK、添加分析跟踪或提到在 Next.js 或 React 项目中安装分析时，请使用此技能

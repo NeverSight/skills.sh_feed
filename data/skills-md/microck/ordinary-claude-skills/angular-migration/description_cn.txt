@@ -1,0 +1,1 @@
+使用混合模式、增量组件重写和依赖项注入更新从 AngularJS 迁移到 Angular。在升级 AngularJS 应用程序、规划框架迁移或现代化遗留 Angular 代码时使用。

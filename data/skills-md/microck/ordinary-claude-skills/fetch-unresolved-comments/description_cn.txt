@@ -1,0 +1,1 @@
+使用 GitHub GraphQL API 获取未解决的 PR 审核评论，过滤掉已解决和过时的反馈。

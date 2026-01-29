@@ -1,0 +1,1 @@
+symfony api平台序列化时使用

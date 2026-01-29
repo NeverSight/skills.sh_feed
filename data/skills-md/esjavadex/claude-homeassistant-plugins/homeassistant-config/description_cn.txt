@@ -1,0 +1,1 @@
+创建和管理 Home Assistant YAML 配置文件，包括自动化、脚本、模板、蓝图、Lovelace 仪表板和文件组织。在使用 Home Assistant 配置文件（.yaml、.yml）或讨论 HA 自动化、脚本、传感器或仪表板时使用。

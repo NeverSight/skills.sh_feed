@@ -1,0 +1,1 @@
+使用 ArgoCD 和 Flux 实施 GitOps 工作流程，通过持续协调实现自动化、声明性 Kubernetes 部署。在实施 GitOps 实践、自动化 Kubernetes 部署或设置声明式基础设施管理时使用。

@@ -1,0 +1,1 @@
+symfony bootstrap 检查时使用

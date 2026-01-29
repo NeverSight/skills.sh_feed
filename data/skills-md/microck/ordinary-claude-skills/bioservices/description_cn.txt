@@ -1,0 +1,1 @@
+适用于 40 多种生物信息学服务的主要 Python 工具。多数据库工作流程的首选：UniProt、KEGG、ChEMBL、PubChem、Reactome、QuickGO。用于查询、ID 映射、路径分析的统一 API。对于直接 REST 控制，请使用单独的数据库技能（uniprot-database、kegg-database）。

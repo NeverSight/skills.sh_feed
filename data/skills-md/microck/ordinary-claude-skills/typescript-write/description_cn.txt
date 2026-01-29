@@ -1,0 +1,1 @@
+遵循 Metabase 编码标准和最佳实践编写 TypeScript 和 JavaScript 代码。在开发或重构 TypeScript/JavaScript 代码时使用。

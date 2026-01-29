@@ -1,0 +1,1 @@
+遵循 Anthropic 最佳实践，在 HASH 存储库中创建和管理 Claude Code 技能。在创建新技能、修改 Skill-rules.json、了解触发模式、使用挂钩、调试技能激活或实施渐进式披露时使用。涵盖技能结构、YAML frontmatter、触发器类型（关键字、意图模式）、UserPromptSubmit 挂钩和 500 行规则。包括使用 SKILL_DEBUG 进行验证和调试。示例包括 rust 错误堆栈、货物依赖性和 rust 文档技能。

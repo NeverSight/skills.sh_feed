@@ -1,0 +1,1 @@
+用于部署 Workers、KV 存储、R2、页面、DNS 和路由的全面 Cloudflare 帐户管理。在部署 cloudflare 服务、管理工作容器、配置 KV/R2 存储或设置 DNS/路由时使用。需要 .env 中的 CLOUDFLARE_API_KEY 和安装了依赖项的 Bun 运行时。

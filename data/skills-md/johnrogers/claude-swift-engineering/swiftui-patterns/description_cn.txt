@@ -1,0 +1,1 @@
+在实现 iOS 17+ SwiftUI 模式时使用：@Observable/@Bindable、MVVM 架构、NavigationStack、延迟加载、UIKit 互操作、可访问性（VoiceOver/动态类型）、异步操作（.task/.refreshable）或从 ObservableObject/@StateObject 迁移。

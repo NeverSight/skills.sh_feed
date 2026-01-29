@@ -1,0 +1,1 @@
+使用 Next.js（应用程序路由器、服务器组件、RSC、PPR、SSR、SSG、ISR）、Turborepo（monorepo 管理、任务管道、远程缓存、并行执行）和 RemixIcon（3100 多个轮廓/填充样式的 SVG 图标）构建现代全栈 Web 应用程序。在创建 React 应用程序、实现服务器端渲染、使用多个包设置 monorepos、优化构建性能和缓存策略、添加图标库、管理共享依赖项或使用 TypeScript 全栈项目时使用。

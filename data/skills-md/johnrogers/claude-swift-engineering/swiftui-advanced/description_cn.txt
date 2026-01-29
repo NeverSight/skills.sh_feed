@@ -1,0 +1,1 @@
+在实现手势组合（同时、顺序、独占）、自适应布局（ViewThatFits、AnyLayout、尺寸类别）或选择架构模式（MVVM、TCA、vanilla、State-as-Bridge）时使用。涵盖基本视图之外的高级 SwiftUI 模式。

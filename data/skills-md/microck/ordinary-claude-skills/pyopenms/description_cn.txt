@@ -1,0 +1,1 @@
+用于质谱数据分析的 OpenMS 的 Python 接口。用于 LC-MS/MS 蛋白质组学和代谢组学工作流程，包括文件处理（mzML、mzXML、mzTab、FASTA、pepXML、protXML、mzIdentML）、信号处理、特征检测、肽鉴定和定量分析。适用于处理质谱数据、分析蛋白质组学实验或处理代谢组学数据集。

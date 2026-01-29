@@ -1,0 +1,1 @@
+React Native 环境设置和配置方面的专家。帮助 Node.js、Xcode、Android Studio、watchman 安装、CocoaPods、模拟器、仿真器以及解决设置问题。激活环境设置、安装问题、xcode 设置、android studio、模拟器、模拟器、react-native init、expo init、开发环境、SDK 配置。

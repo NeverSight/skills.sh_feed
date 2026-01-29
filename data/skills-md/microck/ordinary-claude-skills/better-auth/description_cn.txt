@@ -1,0 +1,1 @@
+使用 Better Auth 实现身份验证和授权 - 一个与框架无关的 TypeScript 身份验证框架。功能包括带验证功能的电子邮件/密码身份验证、OAuth 提供程序（Google、GitHub、Discord 等）、双因素身份验证（TOTP、SMS）、密钥/WebAuthn 支持、会话管理、基于角色的访问控制 (RBAC)、速率限制和数据库适配器。在向应用程序添加身份验证、实施 OAuth 流、设置 2FA/MFA、管理用户会话、配置授权规则或为 Web 应用程序构建安全身份验证系统时使用。

@@ -1,0 +1,1 @@
+访问 AlphaFold 超过 2 亿个 AI 预测的蛋白质结构。通过 UniProt ID 检索结构、下载 PDB/mmCIF 文件、分析置信度指标（pLDDT、PAE），用于药物发现和结构生物学。

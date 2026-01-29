@@ -1,0 +1,1 @@
+连接到实时 PostgreSQL 数据库以验证架构假设、比较 pg_dump 与 pgschema 输出以及交互查询系统目录

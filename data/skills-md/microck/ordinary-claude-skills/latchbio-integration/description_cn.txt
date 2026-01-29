@@ -1,0 +1,1 @@
+用于生物信息学工作流程的 Latch 平台。使用 Latch SDK、@workflow/@task 装饰器构建管道，部署无服务器工作流程、LatchFile/LatchDir、Nextflow/Snakemake 集成。

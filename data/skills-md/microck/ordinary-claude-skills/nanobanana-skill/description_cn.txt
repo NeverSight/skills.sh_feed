@@ -1,0 +1,1 @@
+通过 nanobanana 使用 Google Gemini API 生成或编辑图像。当用户要求使用 nanobanana 创建、生成、编辑图像或提及图像生成/编辑任务时使用。

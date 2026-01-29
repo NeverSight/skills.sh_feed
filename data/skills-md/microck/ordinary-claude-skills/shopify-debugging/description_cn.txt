@@ -1,0 +1,1 @@
+Shopify 的完整调试和故障排除指南，包括 Liquid 错误、主题预览调试、API 错误处理、JavaScript 控制台调试、网络请求检查、购物车问题、结帐问题和常见错误代码。在调试 Liquid 语法错误、排除主题渲染问题、修复 API 错误、调试 JavaScript、调查购物车问题或解决 Webhook 故障时使用。

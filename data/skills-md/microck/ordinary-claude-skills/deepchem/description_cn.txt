@@ -1,0 +1,1 @@
+分子机器学习工具包。属性预测（ADMET、毒性）、GNN（GCN、MPNN）、MoleculeNet 基准、预训练模型、特征化、用于药物发现 ML。

@@ -1,0 +1,3 @@
+为具有上下文安全阶段、验证标准和退出条件的 Web 项目生成结构化规划文档。创建 IMPLMENTATION_PHASES.md 以及条件文档（DATABASE_SCHEMA、API_ENDPOINTS、UI_COMPONENTS、CRITICAL_WORKFLOWS）。
+
+使用时机：启动新的 Cloudflare Workers/React 项目、向现有应用程序添加主要功能、将大型工作分解为可管理的阶段，或者在编码开始之前需要验证规划。

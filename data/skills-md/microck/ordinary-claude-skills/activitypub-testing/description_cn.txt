@@ -1,0 +1,1 @@
+PHPUnit 和 Playwright E2E 测试的测试模式。在编写测试、调试测试失败、设置测试覆盖范围或为 ActivityPub 功能实现测试模式时使用。

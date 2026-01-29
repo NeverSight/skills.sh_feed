@@ -1,0 +1,1 @@
+使用 searchGitHub 和 Exa 工具研究库、API 和模式。查找现实世界的实现并将结构化报告保存到 docs/research/。在调查技术、调试问题或比较选项时使用。

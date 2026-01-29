@@ -1,0 +1,1 @@
+React Native 原生模块专家，桥接 JavaScript 和原生代码，编写自定义原生模块，使用 Turbo Modules、Fabric、JSI、自动链接、模块配置、iOS Swift/Objective-C 模块、Android Kotlin/Java 模块。激活本机模块、本机代码、桥、turbo 模块、JSI、fabric、自动链接、自定义本机模块、ios 模块、android 模块、swift、kotlin、objective-c、java 本机代码。

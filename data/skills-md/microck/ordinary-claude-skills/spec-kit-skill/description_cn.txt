@@ -1,0 +1,1 @@
+GitHub Spec-Kit 集成，用于基于宪法的规范驱动开发。 7 阶段工作流程（制定、指定、澄清、计划、任务、分析、实施）。在使用 spec-kit CLI、.specify/ 目录或通过构成驱动的开发创建规范时使用。由“spec-kit”、“speckit”、“constitution”、“specify”、对 .specify/ 目录的引用或 spec-kit 命令触发。

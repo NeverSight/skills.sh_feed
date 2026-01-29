@@ -1,0 +1,1 @@
+将 Markdown 转换为具有微信兼容主题的样式化 HTML。支持代码突出显示、数学、PlantUML、脚注、警报和信息图表。当用户请求“markdown to html”、“convert md to html”、“md转html”或需要从 markdown 输出样式化的 HTML 时使用。

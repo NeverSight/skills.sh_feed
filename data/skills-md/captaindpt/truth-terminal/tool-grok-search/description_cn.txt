@@ -1,0 +1,1 @@
+使用 grok_search 工具通过 xAI Grok Live Search（付费）搜索 X/web/news，并返回答案和引用。

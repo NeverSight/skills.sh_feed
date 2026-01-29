@@ -1,0 +1,1 @@
+执行带有状态跟踪的结构化任务计划。当用户提供“plans/{current-date}-{task-name}-{version}.md”格式的计划文件路径或明确要求您执行计划文件时使用。

@@ -1,0 +1,1 @@
+检查 Clojure 和 ClojureScript 代码更改是否符合 Metabase 编码标准、样式违规和代码质量问题。在审查包含 Clojure/ClojureScript 代码的拉取请求或差异时使用。

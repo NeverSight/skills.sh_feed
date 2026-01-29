@@ -1,0 +1,1 @@
+在实现 iOS 26 功能（Liquid Glass、新的 SwiftUI API、WebView、Chart3D）、部署 iOS 26+ 应用程序或支持与 iOS 17/18 的向后兼容性时使用。

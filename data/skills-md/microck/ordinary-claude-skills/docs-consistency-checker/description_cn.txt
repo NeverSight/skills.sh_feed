@@ -1,0 +1,1 @@
+验证 SEED Design 组件文档层之间的一致性（设计指南位于 ./docs/content/docs/components 中，Rootage 规范位于 ./packages/rootage/components 中，React 文档位于 ./docs/content/react/components 中）。在发布之前审核文档完整性或验证新组件文档时使用。

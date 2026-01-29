@@ -1,0 +1,1 @@
+将 PyTorch AT_DISPATCH 宏转换为 ATen C++ 代码中的 AT_DISPATCH_V2 格式。将 AT_DISPATCH_ALL_TYPES_AND*、AT_DISPATCH_FLOATING_TYPES* 或其他调度宏移植到新的 v2 API 时使用。适用于 ATen 内核文件、CUDA 内核和本机运算符实现。

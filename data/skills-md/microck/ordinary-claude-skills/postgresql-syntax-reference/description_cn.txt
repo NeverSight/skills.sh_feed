@@ -1,0 +1,1 @@
+查阅 PostgreSQL 的解析器和语法（gram.y），了解实现 pgschema 功能时的 SQL 语法、DDL 语句结构和解析规则

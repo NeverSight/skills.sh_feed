@@ -1,0 +1,1 @@
+检查 TypeScript 和 JavaScript 代码更改是否符合 Metabase 编码标准、样式违规和代码质量问题。在审查包含 TypeScript/JavaScript 代码的拉取请求或差异时使用。

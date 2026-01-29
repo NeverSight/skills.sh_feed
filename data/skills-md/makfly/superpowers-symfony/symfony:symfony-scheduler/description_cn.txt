@@ -1,0 +1,1 @@
+使用 symfony 时使用 symfony 调度程序

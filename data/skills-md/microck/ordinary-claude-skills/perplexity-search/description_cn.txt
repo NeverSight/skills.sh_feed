@@ -1,0 +1,1 @@
+通过 LiteLLM 和 OpenRouter 使用 Perplexity 模型执行基于 AI 的网络搜索和实时信息。在对当前信息进行网络搜索、查找最新的科学文献、通过来源引用获得有根据的答案或访问超出模型知识范围的信息时，应该使用此技能。通过单个 OpenRouter API 密钥提供对多个 Perplexity 模型的访问，包括 Sonar Pro、Sonar Pro Search（高级代理搜索）和 Sonar Reasoning Pro。

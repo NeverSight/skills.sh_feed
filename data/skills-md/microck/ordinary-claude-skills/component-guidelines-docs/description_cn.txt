@@ -1,0 +1,1 @@
+为 SEED 设计系统生成全面的组件指南文档。在 ./docs/content/docs/components 目录中创建或更新设计指南文档时使用。此技能有助于创建类似于 action-button.mdx 的高质量文档。

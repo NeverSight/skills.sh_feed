@@ -1,0 +1,1 @@
+使用正确的项目结构 setup.py/pyproject.toml 创建可分发的 Python 包，并发布到 PyPI。在打包 Python 库、创建 CLI 工具或分发 Python 代码时使用。

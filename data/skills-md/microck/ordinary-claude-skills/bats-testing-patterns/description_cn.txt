@@ -1,0 +1,1 @@
+Master Bash 自动测试系统 (Bats) 用于全面的 shell 脚本测试。在为 shell 脚本、CI/CD 管道编写测试或需要测试驱动开发 shell 实用程序时使用。

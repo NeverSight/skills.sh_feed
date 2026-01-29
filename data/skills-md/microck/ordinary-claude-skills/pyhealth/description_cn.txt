@@ -1,0 +1,1 @@
+全面的医疗保健人工智能工具包，用于使用临床数据开发、测试和部署机器学习模型。在处理电子健康记录 (EHR)、临床预测任务（死亡率、再入院、药物推荐）、医疗编码系统（ICD、NDC、ATC）、生理信号（EEG、ECG）、医疗数据集（MIMIC-III/IV、eICU、OMOP）或为医疗保健应用实施深度学习模型（RETAIN、SafeDrug、Transformer、GNN）时，应使用此技能。

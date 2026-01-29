@@ -1,0 +1,3 @@
+使用 Expo SDK 52 构建 React Native 0.76+ 应用程序。涵盖强制性新架构 (0.82+)、React 19 更改（propTypes/forwardRef 删除）、新 CSS（显示：内容、mixBlendMode、大纲）、Swift iOS 模板和 DevTools 迁移。
+
+使用场合：构建 Expo 应用程序、迁移到新架构或排除“未找到 Fabric 组件”、“propTypes 不是函数”、“TurboModule 未注册”或 Swift AppDelegate 错误。

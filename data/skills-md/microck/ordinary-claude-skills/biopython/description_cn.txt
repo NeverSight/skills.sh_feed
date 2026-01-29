@@ -1,0 +1,1 @@
+用于分子生物学的主要 Python 工具包。首选基于 Python 的 PubMed/NCBI 查询 (Bio.Entrez)、序列操作、文件解析（FASTA、GenBank、FASTQ、PDB）、高级 BLAST 工作流程、结构、系统发育。要快速 BLAST，请使用 gget。对于直接 REST API，请使用 pubmed-database。

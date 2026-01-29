@@ -1,0 +1,1 @@
+在使用 TCA（可组合架构）构建功能、构造化简器、管理状态、处理效果、导航或测试 TCA 功能时使用。涵盖 @Reducer、Store、Effect、TestStore、reducer 组合和 TCA 模式。

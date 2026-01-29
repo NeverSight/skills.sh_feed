@@ -1,0 +1,1 @@
+使用 Shopify CLI、应用程序架构、OAuth 身份验证、应用程序扩展、管理 UI、Hydrogen/Remix 框架和部署进行自定义 Shopify 应用程序开发。在创建 Shopify 应用程序、设置 Shopify CLI、构建应用程序扩展、实施 OAuth 流程、创建管理 UI 组件、使用 Hydrogen 或 Remix、部署到 Cloudflare Workers 或将第三方服务与 Shopify 商店集成时使用。
