@@ -1,0 +1,1 @@
+使用 Vue 3 + TypeScript 进行 uni-app 跨平台前端开发。用于：（1）创建新的uni-app项目或页面，（2）集成UI库（uView Plus、uni-ui、TuniaoUI），（3）实现多主题设计系统，（4）构建微信小程序、H5等平台，（5）设置SCSS主题和全局样式，（6）配置Vite构建系统。包括可重用模板、组件模式和适用于任何 uni-app 项目的最佳实践。

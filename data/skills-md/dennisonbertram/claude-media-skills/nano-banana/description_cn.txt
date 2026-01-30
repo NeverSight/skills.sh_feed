@@ -1,0 +1,1 @@
+使用 Google 的 Nano-Banana（Gemini 2.5 Flash Image）模型生成图像。当用户要求生成、创建或制作图像、图片或插图时使用。

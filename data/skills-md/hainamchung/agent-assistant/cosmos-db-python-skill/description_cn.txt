@@ -1,0 +1,1 @@
+按照生产级模式使用 Python/FastAPI 构建 Azure Cosmos DB NoSQL 服务。在实现具有双重身份验证（DefaultAzureCredential + 模拟器）的数据库客户端设置、具有 CRUD 操作的服务层类、分区键策略、参数化查询或 Cosmos 的 TDD 模式时使用。在“Cosmos DB”、“NoSQL 数据库”、“文档存储”、“添加持久性”、“数据库服务层”或“Python Cosmos SDK”等短语上触发。

@@ -1,0 +1,1 @@
+通过 gh CLI 进行 GitHub 操作。重要：对于任何 github.com URL，请始终使用 WebFetch，而不是 WebFetch。当用户提供 GitHub URL 时使用，例如“facebook/react”、“显示 README”、“列出问题”、“检查 PR”、“克隆存储库”、“分析此存储库”、“理解架构”、“X 的结构如何”、“探索代码库”。为了深入分析外部存储库，请在本地进行克隆。

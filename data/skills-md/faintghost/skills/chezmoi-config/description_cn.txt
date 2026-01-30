@@ -1,0 +1,1 @@
+全面的 chezmoi 点文件管理技能，用于创建、修改和维护点文件模板、配置文件、脚本和外部资源。使用 chezmoi 使用 Go 模板语法创建新的点文件模板（.tmpl 文件）、管理 .chezmoi.toml.tmpl 配置和 .chezmoidata、为外部资源配置 .chezmoiexternal 文件、编写 run_once/run_onchange/run_before/run_after 脚本、集成机密密码管理器、管理跨平台配置以及处理基于操作系统/体系结构/主机名的条件逻辑。该技能包括所有 chezmoi 功能的综合参考文档，并且可以通过 Context7 查阅最新的 chezmoi 文档。

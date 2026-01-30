@@ -1,0 +1,7 @@
+使用 beautiful-mermaid 库将 Mermaid 图渲染为 SVG 或 ASCII 艺术。
+超快速渲染，具有 15 个内置主题和 Shiki VS Code 主题支持。
+在以下情况下使用：(1) 根据 Mermaid 语法创建图表，(2) 渲染流程图，
+状态图、序列图、类图或 ER 图，(3) 生成 ASCII 图
+终端/Markdown 输出，(4) 匹配 VS Code 配色方案的主题图，
+(5) 在文档或 Web UI 中嵌入图表。支持 SVG 输出
+纯文本上下文的实时主题切换和 ASCII/Unicode 输出。

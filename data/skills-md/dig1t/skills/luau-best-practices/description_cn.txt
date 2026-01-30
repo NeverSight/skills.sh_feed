@@ -1,0 +1,10 @@
+Luau best practices and clean code patterns for Roblox development.在以下情况下使用此技能：
+- Writing new Luau modules, services, or controllers
+- Reviewing code for quality and maintainability
+- Setting up project structure and organization
+- Implementing error handling and validation
+- Managing memory and preventing leaks
+- Writing secure server-authoritative code
+- Following Roblox-specific conventions
+- Refactoring or improving existing code
+触发器：“最佳实践”、“干净代码”、“代码审查”、“重构”、“代码质量”、“命名约定”、“代码风格”、“模块模式”、“服务模式”、“内存泄漏”、“错误处理”、“pcall”、“安全性”、“服务器权限”、“验证”、“代码组织”

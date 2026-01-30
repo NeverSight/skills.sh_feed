@@ -1,0 +1,1 @@
+在使用 .NET 8+、ASP.NET Core API 或 Blazor Web 应用构建 C# 应用程序时使用。使用 MediatR 调用 Entity Framework Core、最小 API、异步模式、CQRS。

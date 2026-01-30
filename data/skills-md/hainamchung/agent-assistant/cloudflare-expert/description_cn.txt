@@ -1,0 +1,1 @@
+全面的 Cloudflare 平台技能，涵盖 Workers、Pages、存储（KV、D1、R2）、AI（Workers AI、Vectorize、Agents SDK）、网络（Tunnel、Spectrum）、安全性（WAF、DDoS）和基础设施即代码（Terraform、Pulumi）。主动使用任何 Cloudflare 开发任务。

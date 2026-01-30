@@ -1,0 +1,1 @@
+在优化 PostgreSQL 查询、配置复制或实现高级数据库功能时使用。调用 EXPLAIN 分析、JSONB 操作、扩展使用、VACUUM 调整、性能监控。

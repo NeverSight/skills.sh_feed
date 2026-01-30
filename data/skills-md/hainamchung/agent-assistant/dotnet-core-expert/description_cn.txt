@@ -1,0 +1,1 @@
+在使用最少的 API、干净的架构或云原生微服务构建 .NET 8 应用程序时使用。调用 Entity Framework Core、带有 MediatR 的 CQRS、JWT 身份验证、AOT 编译。

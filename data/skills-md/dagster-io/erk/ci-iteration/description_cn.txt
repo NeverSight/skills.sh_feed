@@ -1,0 +1,1 @@
+当迭代运行 CI 检查并修复故障时，应该使用此技能。在执行 make 目标（fast-ci、all-ci、ci）、迭代 lint/format/type/test 错误或需要 pytest/ty/ruff/prettier/make/gt 命令的 devrun 代理模式时使用。

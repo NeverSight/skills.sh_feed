@@ -1,0 +1,1 @@
+基于 Well-Architected Framework 的 AWS 无服务器和事件驱动架构专家。在构建无服务器 API、Lambda 函数、REST API、微服务或异步工作流程时使用。涵盖 Lambda 与 TypeScript/Python、API 网关 (REST/HTTP)、DynamoDB、Step Functions、EventBridge、SQS、SNS 和无服务器模式。当用户提到无服务器、Lambda、API 网关、事件驱动、异步处理、队列、发布/订阅或想要使用 AWS 最佳实践构建可扩展的无服务器应用程序时，这是必不可少的。

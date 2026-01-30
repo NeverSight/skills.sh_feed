@@ -1,0 +1,1 @@
+Supabase 访问模式和服务边界。仅在处理 Supabase 项目时使用。将 Supabase 访问集中在 services/ 中，切勿直接从组件/hooks/utils/路由处理程序调用 Supabase。

@@ -1,0 +1,1 @@
+PowerShell Windows 模式。关键陷阱、运算符语法、错误处理。

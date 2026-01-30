@@ -1,0 +1,1 @@
+BullMQ 专家，负责 Node.js/TypeScript 应用程序中 Redis 支持的作业队列、后台处理和可靠的异步执行。使用时：bulmq、bull队列、redis队列、后台作业、作业队列。

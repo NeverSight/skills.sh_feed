@@ -1,0 +1,1 @@
+使用 App Router、Shadcn UI 和 React Hook Form 构建 Next.js 15+ React 19+ 前端组件的指南。在 Next.js 应用程序中创建 UI 组件、页面、布局、表单、数据表或客户端交互时使用。

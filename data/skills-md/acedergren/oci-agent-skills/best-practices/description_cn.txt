@@ -1,0 +1,1 @@
+在构建 OCI 解决方案、从 AWS/Azure 迁移、设计多 AD 部署或避免常见的 OCI 反模式时使用。涵盖 VCN 大小错误、Cloud Guard 陷阱、免费套餐细节、OCI 术语混淆和多 AD 模式。

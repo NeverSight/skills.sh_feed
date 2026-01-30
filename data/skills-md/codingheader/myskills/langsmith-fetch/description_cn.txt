@@ -1,0 +1,1 @@
+通过从 LangSmith Studio 获取执行跟踪来调试 LangChain 和 LangGraph 代理。在调试代理行为、调查错误、分析工具调用、检查内存操作或检查代理性能时使用。自动获取最近的跟踪并分析执行模式。需要安装 langsmith-fetch CLI。

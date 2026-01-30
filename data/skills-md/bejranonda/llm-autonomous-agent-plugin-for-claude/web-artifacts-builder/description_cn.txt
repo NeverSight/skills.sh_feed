@@ -1,0 +1,1 @@
+使用 React + Tailwind CSS + shadcn/ui 的现代 Web 开发模式来构建生产质量、可访问且高性能的 Web 应用程序

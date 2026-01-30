@@ -1,0 +1,1 @@
+AWS Bedrock AgentCore 是部署和管理所有 AgentCore 服务的综合专家。在使用网关、运行时、内存、身份或任何 AgentCore 组件时使用。涵盖 MCP 目标部署、凭证管理、模式优化、运行时配置、内存管理和身份服务。

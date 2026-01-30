@@ -1,0 +1,1 @@
+使用 Beltic KYA（了解您的代理）生态系统的指南 - 一种基于凭证的人工智能代理信任框架。在以下情况下使用：(1) 在任何 Beltic 存储库（beltic-spec、beltic-cli、beltic-sdk、fact-python、kya-platform、wizard、nasa）中工作，(2) 实施代理凭证签名/验证，(3) 使用 @belticlabs/kya SDK 或beltic-sdk Python，(4) 了解代理安全认证，(5) 使用可验证的 AI 凭证。触发条件：Beltic CLI 命令、代理凭证、HTTP 消息签名 (RFC 9421)、安全评分、KYB 层验证、信任链验证。

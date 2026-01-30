@@ -1,0 +1,1 @@
+使用 Azure AI 代理 Python SDK (azure-ai-agents) 构建 AI 代理。使用工具（文件搜索、代码解释器、Bing Grounding、Azure AI 搜索、函数调用、OpenAPI、MCP）创建托管在 Azure AI Foundry 上的代理、管理线程和消息、实施流式响应或使用矢量存储时使用。这是低级 SDK - 对于更高级别的抽象，请改用代理框架技能。

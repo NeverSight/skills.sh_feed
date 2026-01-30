@@ -1,0 +1,1 @@
+为 Claude Code、Codex、Amp、OpenCode 构建 SKILL.md 文件。技能结构、脚本、分发以及使 CLI 工具成为 AI 原生的生产示例和模式。

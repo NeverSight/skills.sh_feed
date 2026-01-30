@@ -1,0 +1,1 @@
+将现有项目转换为 Apify Actors - 无服务器云程序。 Actorize JavaScript/TypeScript（带有 Actor.init/exit 的 SDK）、Python（异步上下文管理器）或任何语言（CLI 包装器）。将代码迁移到 Apify、将 CLI 工具包装为 Actor 或将 Actor SDK 添加到现有项目时使用。

@@ -1,0 +1,1 @@
+在设置 CI/CD 管道、容器化应用程序或管理基础设施即代码时使用。调用管道、Docker、Kubernetes、云平台、GitOps。

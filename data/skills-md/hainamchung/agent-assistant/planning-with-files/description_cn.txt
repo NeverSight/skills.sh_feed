@@ -1,0 +1,1 @@
+针对复杂任务实施 Manus 风格的基于文件的规划。创建task_plan.md、findings.md 和progress.md。在启动复杂的多步骤任务、研究项目或任何需要超过 5 次工具调用的任务时使用。

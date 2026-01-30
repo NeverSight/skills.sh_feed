@@ -1,0 +1,1 @@
+构建基于 DAG 的 AI 管道，将 Gradio Spaces、HuggingFace 模型和 Python 函数连接到可视化工作流程中。当要求创建工作流程、构建管道、连接 AI 模型、链接 Gradio Spaces、创建 daggr 应用程序、构建多步骤 AI 应用程序或编排 ML 模型时使用。触发：“构建工作流程”、“创建管道”、“连接模型”、“daggr”、“链空间”、“AI 管道”。

@@ -1,0 +1,1 @@
+通过 Maven Tools MCP 服务器实现 JVM 依赖性智能。当用户询问 Java/Kotlin/Scala 依赖项、版本、升级、CVE 或许可证时使用。在分析 pom.xml、build.gradle 或任何 Maven Central 依赖项时使用。当用户说“检查我的依赖项”、“我应该升级 X”、“此版本安全吗”或“Y 的最新版本是什么”时使用。

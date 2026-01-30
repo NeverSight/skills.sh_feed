@@ -1,0 +1,1 @@
+通过 Context7 REST API 获取最新的库文档。当需要任何库的最新 API 文档、框架模式或代码示例时使用。当用户询问 React、Next.js、Prisma、Express、Vue、Angular、Svelte 或任何 npm/PyPI 包时使用。当用户说“我如何使用 X 库”、“Y 的 API 是什么”或需要官方文档时使用。 Context7 MCP 的轻量级替代方案，没有持久上下文开销。

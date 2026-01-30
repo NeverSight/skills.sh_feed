@@ -1,0 +1,1 @@
+Supabase Auth 与 Next.js 应用程序路由器的专家集成 使用场合：supabase auth next、身份验证 next.js、登录 supabase、auth 中间件、受保护的路由。

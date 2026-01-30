@@ -1,0 +1,1 @@
+AWS 云开发套件 (CDK) 专家，用于使用 TypeScript/Python 构建云基础设施。在创建 CDK 堆栈、定义 CDK 构造、实施基础设施即代码时，或者当用户提及 CDK、CloudFormation、IaC、cdk 合成器、cdk 部署或想要以编程方式定义 AWS 基础设施时使用。涵盖 CDK 应用程序结构、构造模式、堆栈组成和部署工作流程。

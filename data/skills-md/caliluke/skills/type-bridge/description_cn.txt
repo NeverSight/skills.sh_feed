@@ -1,0 +1,1 @@
+对 TypeDB 使用类型桥 Python ORM。涵盖代码生成器（首选）、实体、关系、属性、CRUD 操作、查询和模式管理。在 Python 项目中使用 TypeDB 时使用。

@@ -1,0 +1,1 @@
+用于具有端到端类型的 Node/TS 的类型安全 RPC 库。定义模式（实体/操作/处理程序）、createRpcHandler（服务器）、createRpcClient（客户端）、路由和中间件。在编辑 typesafe-rpc、添加 RPC 操作、连接服务器或客户端或在此存储库中实现处理程序和中间件时使用。

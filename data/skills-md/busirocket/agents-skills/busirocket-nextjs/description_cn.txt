@@ -1,0 +1,1 @@
+Next.js App Router 路由处理程序模式。在创建或重构route.ts文件、实现API端点、验证请求输入以及返回带有正确状态代码的标准化JSON响应时使用。

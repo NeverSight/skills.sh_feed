@@ -1,0 +1,1 @@
+当用户要求“创建钩子”、“编写钩子配置”、“添加 hooks.json”、“配置事件钩子”、“创建 PreToolUse 钩子”、“添加 SessionStart 钩子”、“实现钩子验证”、“设置事件驱动的自动化”、需要有关 hooks.json 结构、钩子事件（PreToolUse、PostToolUse、Stop、SessionStart、SessionEnd、UserPromptSubmit）的指导，或者想要自动化工作流和在 Claude Code 插件中实现事件驱动的行为。

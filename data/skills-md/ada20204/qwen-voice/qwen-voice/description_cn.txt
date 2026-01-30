@@ -1,0 +1,1 @@
+使用 Qwen (DashScope/百炼) 进行语音任务：(1) 使用 qwen3-asr-flash 对用户音频/语音消息（Telegram .ogg opus、wav、mp3）进行 ASR 语音到文本转录，可选择通过分块提供粗略时间戳； (2) 使用带有可选语音（默认 Cherry）的 qwen3-tts-flash 进行 TTS 文本转语音语音回复，并输出为 Telegram 的 .ogg 语音注释。

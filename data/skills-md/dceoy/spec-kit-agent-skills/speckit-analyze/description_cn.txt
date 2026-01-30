@@ -1,0 +1,1 @@
+任务生成后，跨spec.md、plan.md 和tasks.md 执行非破坏性跨工件一致性和质量分析。

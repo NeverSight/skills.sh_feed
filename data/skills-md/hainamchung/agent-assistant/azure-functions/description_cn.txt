@@ -1,0 +1,1 @@
+Azure Functions 开发的专家模式，包括隔离工作线程模型、Durable Functions 编排、冷启动优化和生产模式。涵盖 .NET、Python 和 Node.js 编程模型。使用时间：azure 函数、azure 函数、持久函数、azure 无服务器、函数应用程序。

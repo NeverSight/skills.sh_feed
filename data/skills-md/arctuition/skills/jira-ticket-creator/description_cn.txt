@@ -1,0 +1,1 @@
+使用 jira-cli (https://github.com/ankitpokhrel/jira-cli) 创建 Jira 票证。当用户要求创建 Jira 票证、问题或具有工作类型（Epic/Story/Bug/A/B Test）的故事时使用，设置为 Backlog 状态。使用 -C 标志从 API/Projects/Proposals/Backends/Regression/AI 选择最合适的组件。创建后返回票证 URL。假设 jira-cli 已安装并配置（用户已运行“jira init”）。

@@ -1,0 +1,1 @@
+DynamoDB-Toolbox v2 使用指南 - 用于 DynamoDB 的轻量级 TypeScript 库，具有类型安全的查询构建和架构验证功能。在使用 .build() 模式实现 DynamoDB 操作、定义表/实体/架构或使用 GetItem、PutItem、UpdateItem、DeleteItem、Query、Scan、BatchGet、BatchWrite 或 Transactions 等命令时使用。 DynamoDB-Toolbox 导入、实体/表定义或 .build() 命令模式上的触发器。

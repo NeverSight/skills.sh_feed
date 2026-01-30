@@ -1,0 +1,1 @@
+现代 React + TypeScript 应用程序的固定前端开发标准。涵盖 Suspense-first 数据获取、延迟加载、基于功能的架构、MUI v7 样式、TanStack Router、性能优化和严格的 TypeScript 实践。

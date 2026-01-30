@@ -1,0 +1,3 @@
+用于分支优先开发的统一 git 工作流程：状态/差异审查、安全优先提交、
+工作树，以及通过 gh 创建/审查公关。
+自动激活：“commit”、“push”、“branch”、“worktree”、“pr”、“pull request”、“merge”、“rebase”、“git”。

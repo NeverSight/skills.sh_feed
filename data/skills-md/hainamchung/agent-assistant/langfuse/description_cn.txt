@@ -1,0 +1,1 @@
+Langfuse 专家 - 开源 LLM 可观测平台。涵盖追踪、提示管理、评估、数据集以及与 LangChain、LlamaIndex 和 OpenAI 的集成。对于生产中的调试、监控和改进 LLM 应用程序至关重要。使用场合：langfuse、llm 可观测性、llm 跟踪、提示管理、llm 评估。

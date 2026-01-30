@@ -1,0 +1,1 @@
+构建生产就绪的 Discord 机器人的专业技能。涵盖 Discord.js (JavaScript) 和 Pycord (Python)、网关意图、斜杠命令、交互式组件、速率限制和分片。

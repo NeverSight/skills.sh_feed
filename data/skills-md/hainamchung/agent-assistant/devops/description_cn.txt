@@ -1,0 +1,1 @@
+在 Cloudflare（Workers、R2、D1、KV、页面、持久对象、浏览器渲染）、Docker 容器和 Google Cloud Platform（Compute Engine、GKE、Cloud Run、App Engine、Cloud Storage）上部署和管理云基础设施。在将无服务器功能部署到边缘、配置边缘计算解决方案、管理 Docker 容器和映像、设置 CI/CD 管道、优化云基础设施成本、实施全局缓存策略、使用云数据库或构建云原生应用程序时使用。

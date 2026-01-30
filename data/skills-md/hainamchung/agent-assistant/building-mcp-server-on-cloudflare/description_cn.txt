@@ -1,0 +1,7 @@
+在 Cloudflare Workers 上构建远程 MCP（模型上下文协议）服务器
+包括工具、OAuth 身份验证和生产部署。生成
+服务器代码，配置身份验证提供程序，并部署到 Workers。
+
+使用时：用户想要“构建 MCP 服务器”、“创建 MCP 工具”、“远程
+MCP”、“部署 MCP”、添加“OAuth 到 MCP”或提及模型上下文协议
+在 Cloudflare 上。还会在“MCP 身份验证”或“MCP 部署”时触发。

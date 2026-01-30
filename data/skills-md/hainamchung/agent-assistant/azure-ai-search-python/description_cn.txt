@@ -1,0 +1,1 @@
+Azure AI 搜索 Python SDK (azure-search-document) 的简洁代码模式。在构建搜索应用程序、创建/管理索引、使用知识库实现代理检索或使用矢量/混合搜索时使用。涵盖SearchClient、SearchIndexClient、SearchIndexerClient 和KnowledgeBaseRetrievalClient。

@@ -1,0 +1,1 @@
+Rojo 是 Roblox 文件系统同步、项目配置和专业开发工作流程的专家。使用场合：设置 Rojo 项目、配置 project.json 文件、解决同步问题、文件命名约定、多环境设置 (dev/staging/prod)、与 Wally/Aftman 集成，或任何“rojo”、“project.json”、“sync”、“rojoserve”、“rojo build”问题。

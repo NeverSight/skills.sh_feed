@@ -1,0 +1,1 @@
+使用官方 CLI 和 API 管理 Coolify 部署并排除故障。当用户需要 Coolify 服务器管理、Coolify 上的 WordPress 故障排除、调试服务问题、检查 SSL 证书、访问容器或通过 Coolify 管理应用程序和数据库方面的帮助时，请使用此技能。对于诊断服务、修复 .htaccess 问题、REST API 问题和执行部署操作特别有用。

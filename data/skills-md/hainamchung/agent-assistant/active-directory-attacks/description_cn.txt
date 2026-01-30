@@ -1,0 +1,1 @@
+当用户要求“攻击 Active Directory”、“利用 AD”、“Kerberoasting”、“DCSync”、“传递哈希”、“BloodHound 枚举”、“Golden Ticket”、“Silver Ticket”、“AS-REP 烘焙”、“NTLM 中继”或需要 Windows 域渗透测试指导时，应使用此技能。

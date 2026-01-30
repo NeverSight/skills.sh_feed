@@ -1,0 +1,1 @@
+在使用现代 ES2023+ 功能、异步模式或 Node.js 开发构建 JavaScript 应用程序时使用。调用普通 JavaScript、浏览器 API、性能优化、模块系统。

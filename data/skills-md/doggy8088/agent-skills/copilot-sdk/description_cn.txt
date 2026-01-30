@@ -1,0 +1,1 @@
+此技能提供使用 GitHub Copilot SDK 创建代理和应用程序的指导。重要信息 - 将 SDK 与 TypeScript/Node.js 一起使用时，项目必须使用 ESM（ECMAScript 模块）。不支持 CommonJS (require/module.exports)。当用户想要创建、修改或使用在 TypeScript（仅限 ESM）、Python、Go 或 .NET 中使用 GitHub Copilot SDK 的软件时，应使用它。该技能涵盖 SDK 使用模式、基于 ESM 的项目配置、CLI 配置、自定义工具、MCP 服务器和自定义代理。

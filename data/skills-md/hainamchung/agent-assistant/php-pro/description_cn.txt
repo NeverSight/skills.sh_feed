@@ -1,0 +1,1 @@
+在使用现代 PHP 8.3+ 功能、Laravel 或 Symfony 框架构建 PHP 应用程序时使用。调用严格类型、PHPStan 9 级、Swoole 异步模式、PSR 标准。

@@ -1,0 +1,1 @@
+在 GCP 上构建生产就绪的无服务器应用程序的专业技能。涵盖 Cloud Run 服务（容器化）、Cloud Run Functions（事件驱动）、冷启动优化以及使用 Pub/Sub 的事件驱动架构。

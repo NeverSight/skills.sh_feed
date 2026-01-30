@@ -1,0 +1,1 @@
+在设计 GraphQL 模式、实施 Apollo Federation 或构建实时订阅时使用。调用架构设计、带有 DataLoader 的解析器、查询优化、联合指令。

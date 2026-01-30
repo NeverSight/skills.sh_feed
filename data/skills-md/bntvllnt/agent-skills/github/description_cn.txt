@@ -1,0 +1,5 @@
+通过 GitHub CLI (gh) 管理 GitHub：存储库、问题、拉取请求、操作、发布、
+秘密/变量、项目、要点、搜索和 API 访问。
+自动激活：“gh”、“github cli”、“github issues”、“github pr”、“pull request”、
+“github操作”，“工作流程”，“运行”，“github发布”，“发布”，“gh api”，
+“github 存储库”、“github 秘密”、“github 变量”。

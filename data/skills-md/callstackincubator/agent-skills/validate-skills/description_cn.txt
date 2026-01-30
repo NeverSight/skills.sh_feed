@@ -1,0 +1,1 @@
+根据 Agentskills.io 规范和 Claude Code 最佳实践验证此存储库中的技能。通过 /validate-skills 命令使用。

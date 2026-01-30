@@ -1,0 +1,1 @@
+将 Widget Studio SDK 集成到 Web 项目中。支持 HTML、React、Next.js、Shopify 和 WordPress。当用户想要将 Widget Studio、WidgetX 或 widget-studio.weez.boo 添加到其项目中时，请使用此技能。

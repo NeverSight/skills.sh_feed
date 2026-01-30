@@ -1,0 +1,1 @@
+在查询 Jira 问题、搜索 Confluence 页面、创建票证、更新文档或通过 MCP 协议集成 Atlassian 工具时使用。

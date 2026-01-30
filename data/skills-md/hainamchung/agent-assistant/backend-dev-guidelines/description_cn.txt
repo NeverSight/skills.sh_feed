@@ -1,0 +1,1 @@
+Node.js + Express + TypeScript 微服务的后端开发标准。涵盖分层架构、BaseController 模式、依赖注入、Prisma 存储库、Zod 验证、unifiedConfig、Sentry 错误跟踪、异步安全和测试规则。

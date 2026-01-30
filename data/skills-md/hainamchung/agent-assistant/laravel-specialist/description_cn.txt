@@ -1,0 +1,1 @@
+在构建需要 Eloquent ORM、API 资源或队列系统的 Laravel 10+ 应用程序时使用。调用 Laravel 模型、Livewire 组件、Sanctum 身份验证、Horizo​​n 队列。

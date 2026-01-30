@@ -1,0 +1,1 @@
+设置 Claude Code 以通过 Vercel AI Gateway 路由请求，以实现监控和可观察性

@@ -1,0 +1,1 @@
+使用 Vite + React + pnpm + Framer Motion 遵循 Microsoft Foundry 的 NextGen 设计系统构建优雅的前端 UI。在创建仪表板、代理构建器、数据网格、实体管理界面或任何与 Foundry 精致的深色主题美学相匹配的应用程序时使用。

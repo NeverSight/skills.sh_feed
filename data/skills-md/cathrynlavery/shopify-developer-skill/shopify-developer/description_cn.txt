@@ -1,0 +1,1 @@
+Shopify 开发专家，负责在线商店 2.0、Hydrogen 无头商务、Shopify 功能、元对象/元字段、B2B 批发和结账扩展性。用于：主题定制、Liquid 模板、部分/块开发、元字段配置、店面/管理 API 查询、结帐 UI 扩展、性能优化和 Shopify Plus 功能。触发条件：“Shopify”、“Liquid”、“主题”、“元字段”、“元对象”、“Hydrogen”、“结账扩展程序”、“Shopify 功能”、“B2B 批发”、“店面 API”。对于 BestSelf.co 商店工作，请调用 BestSelf-Shopify-Skill 以获取特定于商店的上下文。

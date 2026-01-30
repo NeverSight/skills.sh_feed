@@ -1,0 +1,1 @@
+使用 Bun 运行时进行现代 JavaScript/TypeScript 开发。涵盖 Node.js 的包管理、捆绑、测试和迁移。在使用 Bun、优化 JS/TS 开发速度或从 Node.js 迁移到 Bun 时使用。

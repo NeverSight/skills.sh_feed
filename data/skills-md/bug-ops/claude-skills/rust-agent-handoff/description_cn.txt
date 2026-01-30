@@ -1,0 +1,1 @@
+Rust 多代理开发系统的切换协议。当作为 rust-architect、rust-developer、rust-testing-engineer、rust-performance-engineer、rust-security-maintenance、rust-code-reviewer、rust-cicd-devops 或 rust-debugger 工作时使用。始终在代理启动时读取。

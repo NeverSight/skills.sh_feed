@@ -1,0 +1,1 @@
+使用 Bun 而不是 Node.js、npm、pnpm 或 vite。提供命令映射、Bun 特定的 API 和开发模式。

@@ -1,0 +1,1 @@
+使用 FastAPI 和 Pydantic V2 构建高性能异步 Python API 时使用。调用异步 SQLAlchemy、JWT 身份验证、WebSockets、OpenAPI 文档。

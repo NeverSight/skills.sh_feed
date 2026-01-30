@@ -1,0 +1,1 @@
+引导 TaskMaster MCP 服务器并将其与 BMAD 挂钩对齐。

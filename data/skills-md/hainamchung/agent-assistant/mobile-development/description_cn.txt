@@ -1,0 +1,1 @@
+使用 React Native、Flutter、Swift/SwiftUI 和 Kotlin/Jetpack Compose 构建现代移动应用程序。涵盖移动优先设计原则、性能优化（电池、内存、网络）、离线优先架构、特定于平台的指南（iOS HIG、Material Design）、测试策略、安全最佳实践、可访问性、应用商店部署和移动开发思维。在构建移动应用程序、实施移动用户体验模式、针对移动限制进行优化或做出本机与跨平台决策时使用。
