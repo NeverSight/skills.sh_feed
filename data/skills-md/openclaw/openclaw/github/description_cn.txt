@@ -1,0 +1,1 @@
+使用“gh” CLI 与 GitHub 交互。使用“gh issues”、“gh pr”、“gh run”和“gh api”来处理问题、PR、CI 运行和高级查询。

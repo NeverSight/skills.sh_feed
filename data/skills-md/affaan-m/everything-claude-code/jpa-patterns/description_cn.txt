@@ -1,0 +1,1 @@
+Spring Boot 中用于实体设计、关系、查询优化、事务、审计、索引、分页和池化的 JPA/Hibernate 模式。

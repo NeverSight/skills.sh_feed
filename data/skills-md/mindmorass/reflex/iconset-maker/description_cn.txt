@@ -1,0 +1,1 @@
+为多个操作系统（macOS、Windows、Linux、iOS、Android、Web）创建图标集。涵盖使用 sips、iconutil、ImageMagick 和 rsvg-convert 所需的尺寸、格式和转换工作流程。

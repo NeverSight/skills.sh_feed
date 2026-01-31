@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 队列存储 SDK。用于可靠的消息队列、任务分配和异步处理。
+触发器：“队列存储”、“QueueServiceClient”、“QueueClient”、“消息队列”、“出队”。

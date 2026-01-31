@@ -1,0 +1,1 @@
+遵循 ClawDirect 模式，使用基于 ATXP 的身份验证构建面向代理的 Web 体验。在构建 AI 代理通过 MCP 工具与之交互的网站、实施基于 cookie 的代理身份验证或为 Web 应用程序创建代理技能时，请使用此技能。提供使用 @longrun/turtle、Express、SQLite 和 ATXP 的模板。

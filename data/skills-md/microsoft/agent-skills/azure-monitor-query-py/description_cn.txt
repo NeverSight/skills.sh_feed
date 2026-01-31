@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Monitor 查询 SDK。用于查询 Log Analytics 工作区和 Azure Monitor 指标。
+触发器：“azure-monitor-query”、“LogsQueryClient”、“MetricsQueryClient”、“Log Analytics”、“Kusto 查询”、“Azure 指标”。

@@ -1,0 +1,1 @@
+使用 Azure AI 项目 Python SDK (azure-ai-projects) 构建 AI 应用程序。在使用 Foundry 项目客户端、使用 PromptAgentDefinition 创建版本化代理、运行评估、管理连接/部署/数据集/索引或使用 OpenAI 兼容客户端时使用。这是高级 Foundry SDK - 对于低级代理操作，请使用 azure-ai-agents-python 技能。

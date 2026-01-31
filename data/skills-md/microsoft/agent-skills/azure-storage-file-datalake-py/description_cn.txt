@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Data Lake Storage Gen2 SDK。用于分层文件系统、大数据分析和文件/目录操作。
+触发器：“数据湖”、“DataLakeServiceClient”、“FileSystemClient”、“ADLS Gen2”、“分层命名空间”。

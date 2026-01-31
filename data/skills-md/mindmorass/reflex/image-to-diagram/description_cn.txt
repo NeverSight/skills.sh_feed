@@ -1,0 +1,1 @@
+将图像（屏幕截图、照片、白板）转换为 Mermaid 或 DOT/Graphviz 图

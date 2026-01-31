@@ -1,0 +1,1 @@
+通过 wacli CLI 向其他人发送 WhatsApp 消息或搜索/同步 WhatsApp 历史记录（不适用于普通用户聊天）。

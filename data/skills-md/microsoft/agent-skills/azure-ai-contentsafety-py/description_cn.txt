@@ -1,0 +1,2 @@
+适用于 Python 的 Azure AI 内容安全 SDK。用于检测文本和图像中的有害内容，并进行多严重性分类。
+触发器：“azure-ai-contentsafety”、“ContentSafetyClient”、“内容审核”、“有害内容”、“文本分析”、“图像分析”。

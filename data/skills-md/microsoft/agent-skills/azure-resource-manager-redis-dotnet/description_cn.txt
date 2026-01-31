@@ -1,0 +1,1 @@
+适用于 .NET 中的 Redis 的 Azure 资源管理器 SDK。用于管理平面操作：通过 Azure 资源管理器创建/管理 Azure Cache for Redis 实例、防火墙规则、访问密钥、补丁计划、链接服务器（异地复制）和专用终结点。不适用于数据平面操作（获取/设置密钥、发布/订阅）- 为此使用 StackExchange.Redis。触发器：“Redis 缓存”、“创建 Redis”、“管理 Redis”、“ARM Redis”、“RedisResource”、“配置 Redis”、“Azure Redis 缓存”。

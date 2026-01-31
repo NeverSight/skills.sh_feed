@@ -1,0 +1,1 @@
+构建或更新 OpenClaw 的 BlueBubbles 外部通道插件（扩展包、REST 发送/探测、webhook 入站）。

@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Key Vault SDK。用于通过安全存储进行机密、密钥和证书管理。
+触发器：“密钥保管库”、“SecretClient”、“KeyClient”、“CertificateClient”、“秘密”、“加密密钥”。

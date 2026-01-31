@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure 服务总线 SDK。具有队列、主题、订阅和会话的企业消息传递。用于可靠的消息传递、发布/订阅模式、死信处理和后台处理。触发器：“服务总线”、“ServiceBusClient”、“ServiceBusSender”、“ServiceBusReceiver”、“ServiceBusProcessor”、“消息队列”、“pub/sub .NET”、“死信队列”。

@@ -1,0 +1,1 @@
+在为 Claude Desktop、Claude Code、Cursor 或 VS Code 等 AI 工具设置、配置 dbt MCP 服务器或对其进行故障排除时使用。

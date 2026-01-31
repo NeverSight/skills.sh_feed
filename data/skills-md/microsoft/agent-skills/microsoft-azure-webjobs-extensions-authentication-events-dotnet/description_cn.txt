@@ -1,0 +1,1 @@
+适用于 .NET 的 Microsoft Entra 身份验证事件 SDK。 Azure Functions 触发器用于自定义身份验证扩展。用于 Entra ID 中的令牌丰富、自定义声明、属性收集和 OTP 自定义。触发器：“身份验证事件”、“WebJobsAuthenticationEventsTrigger”、“OnTokenIssuanceStart”、“OnAttributeCollectionStart”、“自定义声明”、“令牌丰富”、“Entra 自定义扩展”、“身份验证扩展”。

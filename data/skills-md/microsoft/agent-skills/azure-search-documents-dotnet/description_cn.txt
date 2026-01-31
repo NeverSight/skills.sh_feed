@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure AI 搜索 SDK (Azure.Search.Documents)。用于构建具有全文、矢量、语义和混合搜索的搜索应用程序。涵盖SearchClient（查询、文档CRUD）、SearchIndexClient（索引管理）和SearchIndexerClient（索引器、技能集）。触发器：“Azure 搜索 .NET”、“SearchClient”、“SearchIndexClient”、“矢量搜索 C#”、“语义搜索 .NET”、“混合搜索”、“Azure.Search.Documents”。

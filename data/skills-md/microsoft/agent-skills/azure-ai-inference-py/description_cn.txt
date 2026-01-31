@@ -1,0 +1,2 @@
+适用于 Python 的 Azure AI 推理 SDK。用于通过 Azure AI Foundry 端点进行聊天完成、嵌入和模型推理。
+触发器：“azure-ai-inference”、“ChatCompletionsClient”、“EmbeddingsClient”、“模型推理”、“Foundry 模型”。

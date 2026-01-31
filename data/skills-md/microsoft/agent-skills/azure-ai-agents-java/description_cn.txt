@@ -1,0 +1,2 @@
+适用于 Java 的 Azure AI 代理 SDK。使用 Azure AI Foundry 以及来自 OpenAI 和其他提供商的模型、工具和功能来开发代理。
+触发器：“AgentsClient”、“azure 代理 java”、“PromptAgent”、“ConversationsClient”、“ResponsesClient”、“代理对话 java”。

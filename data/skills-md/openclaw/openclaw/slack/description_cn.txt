@@ -1,0 +1,1 @@
+当您需要通过 slack 工具从 OpenClaw 控制 Slack 时使用，包括对 Slack 通道或 DM 中的消息或固定/取消固定项目做出反应。

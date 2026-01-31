@@ -1,0 +1,1 @@
+使用 Azure.ResourceManager.MongoDBAtlas SDK 将 MongoDB Atlas 组织作为 Azure ARM 资源进行管理。通过 Azure 市场集成创建、更新、列出或删除 MongoDB Atlas 组织时使用。此 SDK 管理 Azure 端组织资源，而不是直接管理 Atlas 集群/数据库。

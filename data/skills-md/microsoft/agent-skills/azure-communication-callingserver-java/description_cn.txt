@@ -1,0 +1,1 @@
+Azure 通信服务 CallingServer（旧版）Java SDK。注意 - 此 SDK 已弃用。对于新项目，请使用 azure-communication-callautomation。仅在维护遗留代码时使用此技能。

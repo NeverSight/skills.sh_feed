@@ -1,0 +1,1 @@
+适用于 .NET 中 Fabric 的 Azure 资源管理器 SDK。用于管理平面操作：预配、扩展、暂停/恢复 Microsoft Fabric 容量、检查名称可用性以及通过 Azure 资源管理器列出 SKU。触发器：“Fabric 容量”、“创建容量”、“挂起容量”、“恢复容量”、“Fabric SKU”、“供应 Fabric”、“ARM Fabric”、“FabricCapacityResource”。

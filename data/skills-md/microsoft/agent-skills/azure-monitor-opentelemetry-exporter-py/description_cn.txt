@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Monitor OpenTelemetry 导出器。用于将低级别 OpenTelemetry 导出到 Application Insights。
+触发器：“azure-monitor-opentelemetry-exporter”、“AzureMonitorTraceExporter”、“AzureMonitorMetricExporter”、“AzureMonitorLogExporter”。

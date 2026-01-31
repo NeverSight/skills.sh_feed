@@ -1,0 +1,1 @@
+使用 Azure Tables SDK for Java 构建表存储应用程序。使用 Azure 表存储或 Cosmos DB 表 API 处理 NoSQL 键值数据、无架构存储或大规模结构化数据时使用。

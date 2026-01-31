@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 事件网格 SDK。用于发布事件、处理 CloudEvents 和事件驱动的架构。
+触发器：“事件网格”、“EventGridPublisherClient”、“CloudEvent”、“EventGridEvent”、“发布事件”。

@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure 权重和偏差 SDK。通过 Azure Marketplace 进行 ML 实验跟踪和模型管理。用于创建 W&B 实例、管理 SSO、市场集成和 ML 可观察性。触发器：“权重和偏差”、“W&B”、“WeightsAndBiases”、“ML 实验跟踪”、“模型注册表”、“实验管理”、“wandb”。

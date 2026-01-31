@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure API 中心 SDK。具有治理、版本控制和发现功能的集中式 API 库存管理。用于创建 API 服务、工作区、API、版本、定义、环境、部署和元数据架构。触发器：“API Center”、“ApiCenterService”、“ApiCenterWorkspace”、“ApiCenterApi”、“API 清单”、“API 治理”、“API 版本控制”、“API 目录”、“API 发现”。

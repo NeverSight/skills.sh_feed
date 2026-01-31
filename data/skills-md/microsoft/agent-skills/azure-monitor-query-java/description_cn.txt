@@ -1,0 +1,3 @@
+适用于 Java 的 Azure Monitor 查询 SDK。针对 Log Analytics 工作区执行 Kusto 查询并从 Azure 资源查询指标。
+触发器：“LogsQueryClient java”、“MetricsQueryClient java”、“kusto 查询 java”、“日志分析 java”、“azure 监视器查询 java”。
+注意：此包已被弃用。迁移到 azure-monitor-query-logs 和 azure-monitor-query-metrics。

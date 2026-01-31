@@ -1,0 +1,1 @@
+使用 tsdown 的 TypeScript 库启动器。在使用 tsdown、pnpm、Vitest 和 npm Trusted Publisher 构建或维护 TS/ESM 库时使用。

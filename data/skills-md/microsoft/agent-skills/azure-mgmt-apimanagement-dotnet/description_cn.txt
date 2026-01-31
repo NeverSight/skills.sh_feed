@@ -1,0 +1,1 @@
+用于 .NET 中 API 管理的 Azure 资源管理器 SDK。用于管理平面操作：通过 Azure 资源管理器创建/管理 APIM 服务、API、产品、订阅、策略、用户、组、网关和后端。触发器：“API 管理”、“APIM 服务”、“创建 APIM”、“管理 API”、“ApiManagementServiceResource”、“API 策略”、“APIM 产品”、“APIM 订阅”。

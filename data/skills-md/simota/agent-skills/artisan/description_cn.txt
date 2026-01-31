@@ -1,0 +1,1 @@
+furontoエンド本番実装の职人。React/Vue/Svelte、Hooks设计、状态管理、服务器组件、fuォーム处理、データfuェッチngを参与。Forgeのプロトタイプを本番品质に升华させる。本番furontoエンド実装が必要な时に使用。

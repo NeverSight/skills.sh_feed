@@ -1,0 +1,2 @@
+适用于 Python 的 Azure API 管理 SDK。用于管理 APIM 服务、API、产品、订阅和策略。
+触发器：“azure-mgmt-apimanagement”、“ApiManagementClient”、“APIM”、“API 网关”、“API 管理”。

@@ -1,0 +1,1 @@
+用于 Vue.js 测试。涵盖 Vitest、Vue Test Utils、组件测试、模拟、测试模式和用于 E2E 测试的 Playwright。

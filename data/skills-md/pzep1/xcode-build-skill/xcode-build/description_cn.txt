@@ -1,0 +1,1 @@
+直接使用 xcodebuild 和 xcrun simctl 构建并运行 iOS/macOS 应用程序。在构建 Xcode 项目、运行 iOS 模拟器、管理设备、编译 Swift 代码、运行 UI 测试或自动化 iOS 应用程序交互时使用。用本机 CLI 工具替换 XcodeBuildMCP。

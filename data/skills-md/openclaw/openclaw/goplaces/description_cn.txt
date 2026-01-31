@@ -1,0 +1,1 @@
+通过 goplaces CLI 查询 Google Places API（新），以进行文本搜索、地点详细信息、解析和评论。用于脚本的人性化位置查找或 JSON 输出。

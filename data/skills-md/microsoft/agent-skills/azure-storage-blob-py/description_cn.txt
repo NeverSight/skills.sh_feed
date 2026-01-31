@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Blob 存储 SDK。用于上传、下载、列出 blob、管理容器和 blob 生命周期。
+触发器：“blob 存储”、“BlobServiceClient”、“ContainerClient”、“BlobClient”、“上传 blob”、“下载 blob”。

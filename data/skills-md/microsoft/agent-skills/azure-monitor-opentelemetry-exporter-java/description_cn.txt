@@ -1,0 +1,3 @@
+适用于 Java 的 Azure Monitor OpenTelemetry 导出器。将 OpenTelemetry 跟踪、指标和日志导出到 Azure Monitor/Application Insights。
+触发器：“AzureMonitorExporter java”、“opentelemetry azure java”、“应用程序洞察 java otel”、“azure 监视器跟踪 java”。
+注意：此软件包已弃用。迁移到 azure-monitor-opentelemetry-autoconfigure。

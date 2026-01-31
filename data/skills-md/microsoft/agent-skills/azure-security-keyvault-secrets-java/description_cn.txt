@@ -1,0 +1,1 @@
+用于秘密管理的 Azure Key Vault Secrets Java SDK。在存储、检索或管理密码、API 密钥、连接字符串或其他敏感配置数据时使用。

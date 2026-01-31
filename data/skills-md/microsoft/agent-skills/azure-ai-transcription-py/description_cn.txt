@@ -1,0 +1,2 @@
+适用于 Python 的 Azure AI 转录 SDK。用于带有时间戳和分类的实时和批量语音到文本转录。
+触发器：“转录”、“语音转文本”、“Azure AI 转录”、“TranscriptionClient”。

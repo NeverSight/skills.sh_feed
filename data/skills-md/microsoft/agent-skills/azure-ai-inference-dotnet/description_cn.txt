@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure AI 推理 SDK。通过 Azure AI Foundry 和 Azure 机器学习工作室部署的 AI 模型的聊天完成、嵌入和模型推理。用于无服务器 API 端点和托管计算端点。触发器：“Azure.AI.Inference”、“ChatCompletionsClient”、“EmbeddingsClient”、“模型推理”、“聊天完成 .NET”、“文本嵌入 .NET”、“Azure AI Foundry 推理”。

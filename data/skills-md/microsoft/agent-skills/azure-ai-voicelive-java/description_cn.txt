@@ -1,0 +1,2 @@
+适用于 Java 的 Azure AI VoiceLive SDK。使用 WebSocket 与 AI 助手进行实时双向语音对话。
+触发器：“VoiceLiveClient java”、“语音助手 java”、“实时语音 java”、“音频流 java”、“语音活动检测 java”。

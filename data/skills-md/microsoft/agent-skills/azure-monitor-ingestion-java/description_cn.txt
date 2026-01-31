@@ -1,0 +1,2 @@
+适用于 Java 的 Azure Monitor 引入 SDK。通过数据收集规则 (DCR) 和数据收集终结点 (DCE) 将自定义日志发送到 Azure Monitor。
+触发器：“LogsIngestionClient java”、“azure 监视器摄取 java”、“自定义日志 java”、“DCR java”、“数据收集规则 java”。

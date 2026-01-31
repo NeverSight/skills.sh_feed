@@ -1,0 +1,2 @@
+适用于 Java 的 Azure Batch SDK。使用池、作业、任务和计算节点运行大规模并行和 HPC 批处理作业。
+触发器：“BatchClient java”、“azure 批处理 java”、“批处理池 java”、“批处理作业 java”、“HPC java”、“并行计算 java”。

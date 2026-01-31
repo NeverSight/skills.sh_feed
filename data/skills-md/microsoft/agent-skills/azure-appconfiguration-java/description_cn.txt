@@ -1,0 +1,2 @@
+适用于 Java 的 Azure 应用程序配置 SDK。具有键值设置、功能标志和快照的集中式应用程序配置管理。
+触发器：“ConfigurationClient java”、“应用程序配置 java”、“功能标志 java”、“配置设置 java”、“azure config java”。

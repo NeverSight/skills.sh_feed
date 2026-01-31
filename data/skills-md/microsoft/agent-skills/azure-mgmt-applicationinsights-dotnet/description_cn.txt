@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure Application Insights SDK。应用程序性能监控和可观测性资源管理。用于创建 Application Insights 组件、Web 测试、工作簿、分析项目和 API 密钥。触发器：“Application Insights”、“ApplicationInsights”、“App Insights”、“APM”、“应用程序监控”、“Web 测试”、“可用性测试”、“工作簿”。

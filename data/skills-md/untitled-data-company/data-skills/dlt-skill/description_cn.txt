@@ -1,0 +1,1 @@
+创建和维护来自 API、数据库和其他源的 dlt（数据加载工具）管道。当用户想要构建或调试管道时使用；使用经过验证的来源（例如 Salesforce、GitHub、Stripe）或声明性 REST API 或自定义 Python；配置目的地（例如 DuckDB、BigQuery、Snowflake）；实施增量加载；或编辑 .dlt 配置和机密。当用户提及数据摄取、dlt 管道、dlt init、rest_api_source、增量加载或管道仪表板时使用。

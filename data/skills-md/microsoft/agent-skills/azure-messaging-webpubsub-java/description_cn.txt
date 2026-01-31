@@ -1,0 +1,1 @@
+使用适用于 Java 的 Azure Web PubSub SDK 构建实时 Web 应用程序。在实现基于 WebSocket 的消息传递、实时更新、聊天应用程序或服务器到客户端推送通知时使用。

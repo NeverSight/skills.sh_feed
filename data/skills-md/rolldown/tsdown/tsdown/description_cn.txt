@@ -1,0 +1,1 @@
+由 Rolldown 提供支持，以极快的速度捆绑 TypeScript 和 JavaScript 库。在构建库、生成类型声明、捆绑多种格式或从 tsup 迁移时使用。

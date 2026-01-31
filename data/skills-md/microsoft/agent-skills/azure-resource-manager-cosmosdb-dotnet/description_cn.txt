@@ -1,0 +1,1 @@
+适用于 .NET 中的 Cosmos DB 的 Azure 资源管理器 SDK。用于管理平面操作：通过 Azure 资源管理器创建/管理 Cosmos DB 帐户、数据库、容器、吞吐量设置和 RBAC。不适用于数据平面操作（文档上的 CRUD） - 请使用 Microsoft.Azure.Cosmos。触发器：“Cosmos DB 帐户”、“创建 Cosmos 帐户”、“管理 Cosmos 资源”、“ARM Cosmos”、“CosmosDBAccountResource”、“配置 Cosmos DB”。

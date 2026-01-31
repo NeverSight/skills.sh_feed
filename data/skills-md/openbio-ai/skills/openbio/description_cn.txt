@@ -1,0 +1,1 @@
+用于生物数据访问和计算生物学工具的 OpenBio API。在以下情况下使用：(1) 查询生物数据库（PDB、UniProt、ChEMBL 等），(2) 搜索科学文献（PubMed、bioRxiv、arXiv），(3) 运行结构预测（Boltz、Chai、ProteinMPNN），(4) 执行通路/富集分析，(5) 设计分子生物学实验（引物、克隆），(6) 分析变异和临床数据。

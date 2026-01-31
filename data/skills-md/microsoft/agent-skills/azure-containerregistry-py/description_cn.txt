@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 容器注册表 SDK。用于管理容器映像、工件和存储库。
+触发器：“azure-containerregistry”、“ContainerRegistryClient”、“容器映像”、“docker 注册表”、“ACR”。

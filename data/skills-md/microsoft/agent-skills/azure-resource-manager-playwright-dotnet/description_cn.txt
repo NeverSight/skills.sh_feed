@@ -1,0 +1,1 @@
+用于 .NET 中的 Microsoft Playwright 测试的 Azure 资源管理器 SDK。用于管理平面操作：创建/管理 Playwright 测试工作区、检查名称可用性以及通过 Azure 资源管理器管理工作区配额。不适用于运行 Playwright 测试 - 请使用 Azure.Developer.MicrosoftPlaywrightTesting.NUnit。触发器：“Playwright 工作区”、“创建 Playwright 测试工作区”、“管理 Playwright 资源”、“ARM Playwright”、“PlaywrightWorkspaceResource”、“提供 Playwright 测试”。

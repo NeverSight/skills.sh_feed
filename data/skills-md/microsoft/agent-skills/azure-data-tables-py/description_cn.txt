@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 表 SDK（存储和 Cosmos DB）。用于 NoSQL 键值存储、实体 CRUD 和批处理操作。
+触发器：“表存储”、“TableServiceClient”、“TableClient”、“entities”、“PartitionKey”、“RowKey”。

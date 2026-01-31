@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 存储文件共享 SDK。用于云中的 SMB 文件共享、目录和文件操作。
+触发器：“azure-storage-file-share”、“ShareServiceClient”、“ShareClient”、“文件共享”、“SMB”。

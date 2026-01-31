@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure PostgreSQL 灵活服务器 SDK。 PostgreSQL 灵活服务器部署的数据库管理。用于创建服务器、数据库、防火墙规则、配置、备份和高可用性。触发器：“PostgreSQL”、“PostgreSqlFlexibleServer”、“PostgreSQL 灵活服务器”、“Azure Database for PostgreSQL”、“PostgreSQL 数据库管理”、“PostgreSQL 防火墙”、“PostgreSQL 备份”、“Postgres”。

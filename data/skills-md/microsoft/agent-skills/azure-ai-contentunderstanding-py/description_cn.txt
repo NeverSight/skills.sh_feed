@@ -1,0 +1,2 @@
+适用于 Python 的 Azure AI 内容理解 SDK。用于从文档、图像、音频和视频中提取多模式内容。
+触发器：“azure-ai-contentunderstanding”、“ContentUnderstandingClient”、“多模式分析”、“文档提取”、“视频分析”、“音频转录”。

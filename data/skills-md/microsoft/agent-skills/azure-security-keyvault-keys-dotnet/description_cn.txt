@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure Key Vault 密钥 SDK。用于管理 Azure Key Vault 和托管 HSM 中的加密密钥的客户端库。用于密钥创建、轮换、加密、解密、签名和验证。触发器：“Key Vault 密钥”、“KeyClient”、“CryptographyClient”、“RSA 密钥”、“EC 密钥”、“加密解密 .NET”、“密钥轮换”、“HSM”。

@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure 地图 SDK。基于位置的服务，包括地理编码、路由、渲染、地理定位和天气。用于地址搜索、方向、地图图块、IP 地理位置和天气数据。触发器：“Azure Maps”、“MapsSearchClient”、“MapsRoutingClient”、“MapsRenderingClient”、“地理编码.NET”、“路线方向”、“地图图块”、“地理位置”。

@@ -1,0 +1,2 @@
+用于 Python 流式传输的 Azure 事件中心 SDK。用于高吞吐量事件摄取、生产者、消费者和检查点。
+触发器：“事件中心”、“EventHubProducerClient”、“EventHubConsumerClient”、“流”、“分区”。

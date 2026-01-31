@@ -1,0 +1,1 @@
+使用 Azure 通信服务 SMS Java SDK 发送 SMS 消息。在实施 SMS 通知、警报、OTP 传送、批量消息传送或传送报告时使用。

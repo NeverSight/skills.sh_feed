@@ -1,0 +1,1 @@
+OpenAPI 规范 3.2 — 编写和解释 OpenAPI 描述 (OAD)、路径、操作、参数、请求/响应、架构 (JSON Schema 2020-12)、安全性和扩展。在创作或验证 OpenAPI 3.2 文档时使用。

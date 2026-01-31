@@ -1,0 +1,1 @@
+使用适用于 Java 的 Azure 存储 Blob SDK 构建 Blob 存储应用程序。在上传、下载或管理 Azure Blob 存储中的文件、使用容器或实施流数据操作时使用。

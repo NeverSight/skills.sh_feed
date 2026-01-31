@@ -1,0 +1,1 @@
+使用 Peekaboo CLI 捕获并自动化 macOS UI。

@@ -1,0 +1,1 @@
+通过 macOS 上的“remindctl”CLI 管理 Apple 提醒（列出、添加、编辑、完成、删除）。支持列表、日期过滤器和 JSON/plain 输出。

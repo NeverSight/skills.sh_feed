@@ -1,0 +1,2 @@
+Azure AI 文档翻译 SDK，用于批量翻译文档并保留格式。用于大规模翻译 Word、PDF、Excel、PowerPoint 和其他文档格式。
+触发器：“文档翻译”、“批量翻译”、“翻译文档”、“DocumentTranslationClient”。

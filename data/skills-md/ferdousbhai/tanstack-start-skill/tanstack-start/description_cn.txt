@@ -1,0 +1,1 @@
+TanStack 启动全栈React框架。用于：具有 createServerFn 的服务器功能、TanStack Router 基于文件的路由、TanStack 查询 SSR 集成、Cloudflare Workers 部署。

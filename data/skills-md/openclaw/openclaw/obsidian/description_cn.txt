@@ -1,0 +1,1 @@
+使用 ObsidianVaults（纯 Markdown 注释）并通过 obsidian-cli 实现自动化。

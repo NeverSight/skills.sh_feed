@@ -1,0 +1,2 @@
+适用于 Java 的 Azure AI 项目 SDK。用于 Azure AI Foundry 项目管理的高级 SDK，包括连接、数据集、索引和评估。
+触发器：“AIProjectClient java”、“azure ai 项目 java”、“Foundry 项目 java”、“ConnectionsClient”、“DatasetsClient”、“IndexesClient”。

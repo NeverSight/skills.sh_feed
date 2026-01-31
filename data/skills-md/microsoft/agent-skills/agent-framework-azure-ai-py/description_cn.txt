@@ -1,0 +1,1 @@
+使用 Microsoft 代理框架 Python SDK (agent-framework-azure-ai) 构建 Azure AI Foundry 代理。在使用 AzureAIAgentsProvider 创建持久代理、使用托管工具（代码解释器、文件搜索、Web 搜索）、集成 MCP 服务器、管理对话线程或实现流响应时使用。涵盖功能工具、结构化输出和多工具代理。

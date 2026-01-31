@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure MySQL 灵活服务器 SDK。 MySQL 灵活服务器部署的数据库管理。用于创建服务器、数据库、防火墙规则、配置、备份和高可用性。触发器：“MySQL”、“MySqlFlexibleServer”、“MySQL 灵活服务器”、“Azure Database for MySQL”、“MySQL 数据库管理”、“MySQL 防火墙”、“MySQL 备份”。

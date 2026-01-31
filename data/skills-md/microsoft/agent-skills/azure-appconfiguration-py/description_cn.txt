@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 应用程序配置 SDK。用于集中配置管理、功能标志和动态设置。
+触发器：“azure-appconfiguration”、“AzureAppConfigurationClient”、“功能标志”、“配置”、“键值设置”。

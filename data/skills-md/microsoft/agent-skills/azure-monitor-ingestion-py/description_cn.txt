@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Monitor 引入 SDK。用于通过日志摄取 API 将自定义日志发送到 Log Analytics 工作区。
+触发器：“azure-monitor-ingestion”、“LogsIngestionClient”、“自定义日志”、“DCR”、“数据收集规则”、“Log Analytics”。

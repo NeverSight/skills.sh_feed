@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure OpenAI SDK。 Azure OpenAI 和 OpenAI 服务的客户端库。用于聊天完成、嵌入、图像生成、音频转录和助手。触发器：“Azure OpenAI”、“AzureOpenAIClient”、“ChatClient”、“聊天完成 .NET”、“GPT-4”、“嵌入”、“DALL-E”、“Whisper”、“OpenAI .NET”。

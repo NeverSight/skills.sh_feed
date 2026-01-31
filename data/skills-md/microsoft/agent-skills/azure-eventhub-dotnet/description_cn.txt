@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure 事件中心 SDK。用于高吞吐量事件流：发送事件（EventHubProducerClient、EventHubBufferedProducerClient）、接收事件（带有检查点的EventProcessorClient）、分区管理和实时数据摄取。触发器：“事件中心”、“事件流”、“EventHubProducerClient”、“EventProcessorClient”、“发送事件”、“接收事件”、“检查点”、“分区”。

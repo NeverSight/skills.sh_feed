@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure AI 语音直播 SDK。通过双向 WebSocket 通信构建实时语音 AI 应用程序。用于语音助手、对话式人工智能、实时语音转语音和支持语音的聊天机器人。触发器：“语音直播”、“实时语音”、“VoiceLiveClient”、“VoiceLiveSession”、“语音助手.NET”、“双向音频”、“语音到语音”。

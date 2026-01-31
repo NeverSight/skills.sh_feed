@@ -1,0 +1,2 @@
+适用于 Python 的 Azure API 中心管理 SDK。用于管理整个组织的 API 库存、元数据和治理。
+触发器：“azure-mgmt-apicenter”、“ApiCenterMgmtClient”、“API 中心”、“API 库存”、“API 治理”。

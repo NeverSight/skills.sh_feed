@@ -1,0 +1,1 @@
+使用适用于 Java 的 Azure AI Anomaly Detector SDK 构建异常检测应用程序。在实施单变量/多变量异常检测、时间序列分析或人工智能监控时使用。

@@ -1,0 +1,2 @@
+适用于 Python 的 Azure AI 评估 SDK。用于通过质量、安全性和自定义评估器评估生成式 AI 应用程序。
+触发器：“azure-ai-evaluation”、“评估者”、“GroundednessEvaluator”、“评估”、“AI 质量指标”。

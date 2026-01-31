@@ -1,0 +1,1 @@
+设置 ElevenLabs API 密钥以与 ElevenLabs MCP 工具一起使用。当用户需要配置 ElevenLabs API 密钥、ElevenLabs 工具因缺少 API 密钥而失败或用户提到需要访问 ElevenLabs 时使用。

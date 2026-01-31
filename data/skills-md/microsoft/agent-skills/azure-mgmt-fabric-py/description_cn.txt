@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 结构管理 SDK。用于管理 Microsoft Fabric 容量和资源。
+触发器：“azure-mgmt-fabric”、“FabricMgmtClient”、“Fabric 容量”、“Microsoft Fabric”、“Power BI 容量”。

@@ -1,0 +1,1 @@
+使用 JUnit 5、Mockito、MockMvc、Testcontainers 和 JaCoCo 对 Spring Boot 进行测试驱动开发。在添加功能、修复错误或重构时使用。

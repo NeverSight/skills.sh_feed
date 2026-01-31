@@ -1,0 +1,1 @@
+终端 Spotify 通过 spogo（首选）或 spotify_player 播放/搜索。

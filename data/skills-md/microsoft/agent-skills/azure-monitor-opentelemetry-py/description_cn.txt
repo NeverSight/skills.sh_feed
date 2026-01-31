@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Monitor OpenTelemetry 发行版。用于具有自动检测功能的单行 Application Insights 设置。
+触发器：“azure-monitor-opentelemetry”、“configure_azure_monitor”、“Application Insights”、“OpenTelemetry distro”、“自动检测”。

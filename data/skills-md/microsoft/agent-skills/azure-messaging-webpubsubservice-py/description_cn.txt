@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Web PubSub 服务 SDK。用于实时消息传递、WebSocket 连接和发布/订阅模式。
+触发器：“azure-messaging-webpubsubservice”、“WebPubSubServiceClient”、“实时”、“WebSocket”、“pub/sub”。

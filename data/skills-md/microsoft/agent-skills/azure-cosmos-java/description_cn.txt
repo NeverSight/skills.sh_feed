@@ -1,0 +1,2 @@
+适用于 Java 的 Azure Cosmos DB SDK。具有全球分布、多模型支持和反应模式的 NoSQL 数据库操作。
+触发器：“CosmosClient java”、“CosmosAsyncClient”、“cosmos 数据库 java”、“cosmosdb java”、“文档数据库 java”。

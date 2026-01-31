@@ -1,0 +1,2 @@
+适用于 Python 的 Azure Cosmos DB SDK（NoSQL API）。用于文档 CRUD、查询、容器和全球分布式数据。
+触发器：“cosmos db”、“CosmosClient”、“容器”、“文档”、“NoSQL”、“分区键”。

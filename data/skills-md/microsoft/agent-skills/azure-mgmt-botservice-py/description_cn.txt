@@ -1,0 +1,2 @@
+适用于 Python 的 Azure 机器人服务管理 SDK。用于创建、管理和配置 Azure 机器人服务资源。
+触发器：“azure-mgmt-botservice”、“AzureBotService”、“机器人管理”、“对话式 AI”、“机器人通道”。

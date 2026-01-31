@@ -1,0 +1,1 @@
+适用于 .NET 的 Azure 事件网格 SDK。用于通过 Azure 事件网格发布和使用事件的客户端库。用于事件驱动的架构、发布/订阅消息传递、CloudEvents 和 EventGridEvents。触发器：“事件网格”、“EventGridPublisherClient”、“CloudEvent”、“EventGridEvent”、“发布事件.NET”、“事件驱动”、“发布/订阅”。

@@ -1,0 +1,3 @@
+用于 Arize AI 可观察性和评估 (.NET) 的 Azure 资源管理器 SDK。管理 Arize AI 组织时使用 
+在 Azure 上通过 Azure Marketplace 创建/更新/删除 Arize 资源，或集成 Arize ML 可观察性 
+到 .NET 应用程序中。触发器：“Arize AI”、“ML 可观测性”、“ArizeAIObservabilityEval”、“Arize 组织”。

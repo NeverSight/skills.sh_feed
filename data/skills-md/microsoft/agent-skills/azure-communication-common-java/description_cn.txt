@@ -1,0 +1,1 @@
+适用于 Java 的 Azure 通信服务常见实用程序。在使用 CommunicationTokenCredential、用户标识符、令牌刷新或跨 ACS 服务的共享身份验证时使用。
