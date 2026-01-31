@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-01-31T10:19:41.290398Z",
+  "updatedAt": "2026-01-31T10:44:16.246909Z",
   "sourceIndexUpdatedAt": "2026-01-31T07:46:09.694Z",
-  "version": 2,
+  "version": 3,
   "primaryCategories": [
     "document-processing",
     "development-tools",
@@ -11,8 +11,7 @@
     "creative-media",
     "productivity",
     "collaboration",
-    "security",
-    "other"
+    "security"
   ],
   "skillToCategory": {
     "0juano/agent-skills/edgeone-pages-deploy": "development-tools",

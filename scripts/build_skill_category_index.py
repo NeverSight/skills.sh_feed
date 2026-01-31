@@ -8,7 +8,7 @@ Outputs:
 Notes:
 - Primary categories intentionally align with the current website `SkillCategory` union:
     document-processing, development-tools, data-analysis, business-marketing,
-    communication-writing, creative-media, productivity, collaboration, security, other
+    communication-writing, creative-media, productivity, collaboration, security
 - If the website doesn't have a mapping entry for a skill, it can still fall back to
   its existing heuristic guesser.
 """
@@ -38,7 +38,6 @@ PRIMARY_CATEGORIES = [
     "productivity",
     "collaboration",
     "security",
-    "other",
 ]
 
 
@@ -525,7 +524,8 @@ def main() -> None:
 
         primary = cat.primary
         if primary not in PRIMARY_CATEGORIES:
-            primary = "other"
+            # Website removed "other" bucket; default all unknowns to dev tools.
+            primary = "development-tools"
 
         skill_to_category[full_id] = primary
         if cat.subcategory:
@@ -534,7 +534,7 @@ def main() -> None:
     out = {
         "updatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "sourceIndexUpdatedAt": index.get("updatedAt"),
-        "version": 2,
+        "version": 3,
         "primaryCategories": PRIMARY_CATEGORIES,
         "skillToCategory": dict(sorted(skill_to_category.items())),
         # Optional finer-grain label; safe for the website to ignore for now.
