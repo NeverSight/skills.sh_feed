@@ -1,0 +1,1 @@
+Expertise in compiler development using LLVM infrastructure including frontend design, IR generation, optimization passes, and code generation. Use this skill when building custom programming languages, implementing DSL compilers, or working on compiler internals.

@@ -1,0 +1,1 @@
+Expertise in LLVM security features including sanitizers, hardening techniques, exploit mitigations, and secure compilation. Use this skill when implementing security-focused compiler features, analyzing vulnerabilities, or hardening applications.

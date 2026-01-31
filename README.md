@@ -15,7 +15,31 @@ A crawler that aggregates AI coding agent skills from multiple sources, automati
 
 - **GitHub Trending** - Popular skill repos on GitHub
 - **Awesome Lists** - Curated awesome-* lists for AI agent skills
-- **Direct Submissions** - Community-submitted skills via PR
+
+### Manual Skills
+
+Skills not tracked by any provider can be manually added via `data/manual_skills.json`:
+
+```json
+{
+  "skills": [
+    {
+      "source": "owner/repo",
+      "skillId": "skill-name",
+      "name": "Skill Display Name",
+      "installs": 1
+    }
+  ]
+}
+```
+
+Manual skills will be:
+- Fetched for their `SKILL.md` from GitHub (using standard skill folder detection)
+- Included in `skills_index.json` with `providerId: "manual"`
+- **Not** overwritten by the crawler (they persist across runs)
+- **Deduplicated**: If skills.sh later tracks a manual skill, it will use skills.sh data instead
+
+Note: `installs` should be at least 1 (minimum value).
 
 ## Output Files
 

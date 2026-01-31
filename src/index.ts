@@ -72,6 +72,11 @@ interface FeedJson {
   topHot: FeedItem[];
 }
 
+interface ManualSkillsJson {
+  description?: string;
+  skills: Skill[];
+}
+
 function skillsShSkillUrl(source: string, skillId: string) {
   // Example: https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices
   return `https://skills.sh/${source}/${skillId}`;
@@ -535,7 +540,7 @@ function hasSkillMd(source: string, skillId: string): boolean {
   return existsSync(localSkillMdPath(source, skillId));
 }
 
-async function buildSkillsIndex(data: SkillsData) {
+async function buildSkillsIndex(data: SkillsData, manualSkills: Skill[] = []) {
   const providerId = data.providerId;
 
   // allTime contains the full unique set and the best "canonical" installs count.
@@ -556,8 +561,26 @@ async function buildSkillsIndex(data: SkillsData) {
     console.log(`Filtered out ${filteredCount} skills without SKILL.md from index`);
   }
 
-  const items: SkillIndexItem[] = new Array(skillsWithMd.length);
+  // Build a set of skill IDs from skills.sh to avoid duplicates
+  const skillsShIds = new Set(skillsWithMd.map(s => `${s.source}/${s.skillId}`));
 
+  // Filter manual skills: must have SKILL.md AND not already in skills.sh
+  const manualSkillsWithMd = manualSkills.filter(s => {
+    const id = `${s.source}/${s.skillId}`;
+    if (skillsShIds.has(id)) {
+      console.log(`  Skipping manual skill ${id} (already in skills.sh)`);
+      return false;
+    }
+    return hasSkillMd(s.source, s.skillId);
+  });
+  if (manualSkillsWithMd.length > 0) {
+    console.log(`Including ${manualSkillsWithMd.length} manual skills with SKILL.md in index`);
+  }
+
+  const totalSkills = skillsWithMd.length + manualSkillsWithMd.length;
+  const items: SkillIndexItem[] = new Array(totalSkills);
+
+  // Process skills.sh skills
   await mapWithConcurrency(skillsWithMd, 24, async (s, i) => {
     const id = `${s.source}/${s.skillId}`;
     const mdAbs = localSkillMdPath(s.source, s.skillId);
@@ -591,16 +614,49 @@ async function buildSkillsIndex(data: SkillsData) {
     return null;
   });
 
+  // Process manual skills
+  await mapWithConcurrency(manualSkillsWithMd, 24, async (s, i) => {
+    const idx = skillsWithMd.length + i;
+    const id = `${s.source}/${s.skillId}`;
+    const mdAbs = localSkillMdPath(s.source, s.skillId);
+    let descriptionPath: string | undefined;
+    let skillMdPath: string | undefined;
+
+    try {
+      const md = readFileSync(mdAbs, 'utf-8');
+      const description = extractDescriptionFromSkillMd(md);
+      skillMdPath = repoRelativeSkillMdPath(s.source, s.skillId);
+      writeDescriptionEnIfChanged(s.source, s.skillId, description);
+      descriptionPath = repoRelativeDescriptionEnPath(s.source, s.skillId);
+    } catch {
+      // ignore read errors
+    }
+
+    items[idx] = {
+      id,
+      providerId: 'manual',
+      source: s.source,
+      skillId: s.skillId,
+      title: s.name,
+      link: manualSkillUrl(s.source, s.skillId),
+      installsAllTime: s.installs,
+      description: descriptionPath,
+      skillMdPath,
+    };
+
+    return null;
+  });
+
   const output = {
     updatedAt: data.updatedAt,
-    providerId,
+    providerId: 'mixed',
     count: items.length,
     items,
   };
 
   const outPath = join(process.cwd(), 'data', 'skills_index.json');
   writeFileSync(outPath, JSON.stringify(output, null, 2));
-  console.log(`Skills index saved to: ${outPath} (${items.length} skills with SKILL.md)`);
+  console.log(`Skills index saved to: ${outPath} (${skillsWithMd.length} from skills.sh + ${manualSkillsWithMd.length} manual = ${items.length} total)`);
 }
 
 async function syncAllSkillMds(data: SkillsData) {
@@ -840,6 +896,22 @@ function readJsonFile<T>(path: string): T | null {
   }
 }
 
+function manualSkillsPath() {
+  return join(process.cwd(), 'data', 'manual_skills.json');
+}
+
+function readManualSkills(): Skill[] {
+  const data = readJsonFile<ManualSkillsJson>(manualSkillsPath());
+  if (!data?.skills) return [];
+  // Mark manual skills with a special provider
+  return data.skills.map(s => ({ ...s, source: s.source }));
+}
+
+function manualSkillUrl(source: string, skillId: string) {
+  // For manual skills, link to GitHub repo
+  return `https://github.com/${source}`;
+}
+
 type LeaderboardKey = 'topAllTime' | 'topTrending' | 'topHot';
 
 function buildRssItemsFromDiff(previous: FeedJson | null, next: FeedJson) {
@@ -995,7 +1067,13 @@ async function main() {
   console.log('Trending:', trending.slice(0, 3).map(s => `${s.name}(${s.installs})`).join(', '));
   console.log('Hot:', hot.slice(0, 3).map(s => `${s.name}(${s.installs})`).join(', '));
   
-  // Build output data
+  // Read manual skills
+  const manualSkills = readManualSkills();
+  if (manualSkills.length > 0) {
+    console.log(`\nLoaded ${manualSkills.length} manual skills from manual_skills.json`);
+  }
+
+  // Build output data (skills.sh only, manual skills handled separately)
   const data: SkillsData = {
     updatedAt: new Date().toISOString(),
     providerId: 'skills.sh',
@@ -1015,12 +1093,26 @@ async function main() {
   writeFileSync(outputPath, JSON.stringify(data, null, 2));
   console.log(`\nData saved to: ${outputPath}`);
 
+  // Fetch SKILL.md for manual skills
+  if (manualSkills.length > 0) {
+    console.log(`\nFetching SKILL.md for ${manualSkills.length} manual skills...`);
+    await mapWithConcurrency(manualSkills, 4, async (s) => {
+      const cached = await ensureSkillMdCached(s.source, s.skillId);
+      if (cached) {
+        console.log(`  ✓ ${s.source}/${s.skillId}`);
+      } else {
+        console.log(`  ✗ ${s.source}/${s.skillId} (not found)`);
+      }
+      return null;
+    });
+  }
+
   if (process.env.SYNC_ALL_SKILL_MDS === '1') {
     await syncAllSkillMds(data);
   }
 
   if (process.env.GENERATE_SKILLS_INDEX !== '0') {
-    await buildSkillsIndex(data);
+    await buildSkillsIndex(data, manualSkills);
   }
   
   // Generate simplified feed format

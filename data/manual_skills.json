@@ -1,0 +1,65 @@
+{
+  "description": "Manually added skills that are not tracked by skills.sh",
+  "skills": [
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "binary-lifting",
+      "name": "binary-lifting",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "compiler-development",
+      "name": "compiler-development",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "dynamic-instrumentation",
+      "name": "dynamic-instrumentation",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "llvm-learning",
+      "name": "llvm-learning",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "llvm-obfuscation",
+      "name": "llvm-obfuscation",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "llvm-optimization",
+      "name": "llvm-optimization",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "llvm-security",
+      "name": "llvm-security",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "llvm-tooling",
+      "name": "llvm-tooling",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "mlir-development",
+      "name": "mlir-development",
+      "installs": 1
+    },
+    {
+      "source": "gmh5225/awesome-llvm-security",
+      "skillId": "static-analysis",
+      "name": "static-analysis",
+      "installs": 1
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Expertise in LLVM optimization passes, performance tuning, and code transformation techniques. Use this skill when implementing custom optimizations, analyzing pass behavior, improving generated code quality, or understanding LLVM's optimization pipeline.

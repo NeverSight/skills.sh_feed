@@ -1,0 +1,1 @@
+Expertise in LLVM tooling development including Clang plugins, LLDB debugger extensions, Clangd/LSP, and LibTooling. Use this skill when building source code analysis tools, refactoring tools, debugger extensions, or IDE integrations.
