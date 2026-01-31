@@ -1,0 +1,1 @@
+代码更改后更新 Polymarket 机器人策略文档。修改 gabagool.py、polymarket.py 或任何策略相关代码后使用，以确保 STRATEGY_ARCHITECTURE.md 和strategy-rules.md 准确反映实现。

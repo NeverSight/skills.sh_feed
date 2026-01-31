@@ -1,0 +1,1 @@
+Expo React Native 移动应用程序开发，包括 RevenueCat 支付、AdMob 广告、i18n 本地化、入门流程、付费专区和 NativeTabs 导航

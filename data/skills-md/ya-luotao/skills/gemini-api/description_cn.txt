@@ -1,0 +1,1 @@
+通过 REST API 将任务委托给 Google Gemini 3 系列型号。当任务受益于 Gemini 的多模式功能时使用 - 图像生成 (Nano Banana Pro)、图像编辑 (Nano Banana Pro)、图像理解/视觉 (Gemini 3 Pro) 或文本任务 (Gemini 3 Pro)。始终优先考虑 Pro 型号。

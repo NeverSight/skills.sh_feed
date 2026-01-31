@@ -1,0 +1,1 @@
+通过布局/页面骨架生成、组件映射和积极的遗留 CSS 清理指导，将 Ant Design UI 迁移到 shadcn/ui + Tailwind（React/CRA/Vite → Next.js App Router）。

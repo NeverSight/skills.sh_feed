@@ -1,0 +1,1 @@
+基于Refactoring UI（Wathan & Schoger）的实用UI设计系统。在创建或改进用户界面、Web 组件、仪表板、登陆页面或任何视觉设计工作时使用。适用于 HTML/CSS、React、Tailwind 或任何前端输出。触发 UI 设计、样式、布局、配色方案、版式、视觉层次结构或使界面“看起来更好”的请求。

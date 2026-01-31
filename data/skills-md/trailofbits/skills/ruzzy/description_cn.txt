@@ -1,0 +1,1 @@
+Ruzzy 是 Trail of Bits 推出的覆盖范围引导的 Ruby 模糊器。用于模糊纯 Ruby 代码和 Ruby C 扩展。

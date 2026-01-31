@@ -1,0 +1,1 @@
+使用现代工具（uv、ruff、ty）配置 Python 项目。在创建项目、编写独立脚本或从 pip/Poetry/mypy/black 迁移时使用。

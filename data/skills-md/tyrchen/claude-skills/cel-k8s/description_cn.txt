@@ -1,0 +1,1 @@
+为 Kubernetes ValidatingAdmissionPolicies、CRD 验证规则和安全策略编写生产就绪的 CEL（通用表达式语言）代码。当用户需要创建准入策略、验证 Kubernetes 资源、实施安全约束或为 Kubernetes 编写 CEL 表达式时使用。

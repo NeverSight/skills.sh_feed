@@ -1,0 +1,1 @@
+将 DingTalk 传出 Webhook 消息桥接到 Clawdbot 网关，并将回复发送回 DingTalk 会话。在将钉钉设置为消息通道、对 Webhook 传递进行故障排除或运行本地桥接服务时使用。

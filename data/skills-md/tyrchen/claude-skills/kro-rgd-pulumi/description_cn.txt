@@ -1,0 +1,1 @@
+使用 Pulumi TypeScript 创建生产就绪的 KRO ResourceGraphDefinitions。当用户需要定义自定义 Kubernetes API、使用 KRO 组合资源、集成 AWS ACK 资源或使用 Pulumi 基础设施即代码构建平台抽象时使用。
