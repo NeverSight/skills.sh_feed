@@ -102,7 +102,7 @@ By default, the crawler only fetches `SKILL.md` for skills included in the top l
 If you really want to sync *all* skills from `data/skills.json`, you can run:
 
 ```bash
-SYNC_ALL_SKILL_MDS=1 npm run crawl
+SYNC_ALL_SKILL_MDS=1 bun run crawl
 ```
 
 ### `data/feed.xml`
@@ -118,10 +118,10 @@ RSS 2.0 feed (XML). This is meant for RSS readers / subscriptions.
 
 ```bash
 # Install dependencies
-npm install
+bun install
 
 # Run crawler
-npm run crawl
+bun run crawl
 ```
 
 Tip: if you want more complete GitHub `SKILL.md` coverage (including plugin-style paths like `plugins/*/skills/...`),
@@ -129,7 +129,7 @@ set `GITHUB_TOKEN` to avoid GitHub API rate limits:
 
 ```bash
 export GITHUB_TOKEN=ghp_xxx
-npm run crawl
+bun run crawl
 ```
 
 ### GitHub Actions
